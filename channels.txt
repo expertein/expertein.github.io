@@ -1,4 +1,4 @@
-name= Stephen Chow Movies - The God Of Cookery 1996 HD Full cantonese movie url= "http://www.youtube.com/watch?v=l8_Mk3-sZsQ" logo= "https://zh.wikipedia.org/wiki/%E9%A3%9F%E7%A5%9E_(%E9%9B%BB%E5%BD%B1)#/media/File:God_of_Cookery.jpg"
+name= Good TV url= "http://live.streamingfast.net/osmflivech13.m3u8 logo= "https://zh.wikipedia.org/wiki/%E9%A3%9F%E7%A5%9E_(%E9%9B%BB%E5%BD%B1)#/media/File:God_of_Cookery.jpg"
 
 
 
