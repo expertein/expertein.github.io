@@ -1,0 +1,2 @@
+<NAME>Good TV 1</NAME><URL>http://live.streamingfast.net/osmflivech13.m3u8</URL><ICON>https://expertein.github.io/gtv1.png</ICON><FANART>https://expertein.github.io/mango/fangoc.jpg</FANART><DESC>Taiwan GOOD TV 1</DESC>
+<NAME>Good TV 2</NAME><URL>http://live.streamingfast.net/osmflivech7.m3u8</URL><ICON>https://expertein.github.io/gtv2.jpg</ICON><FANART>https://expertein.github.io/mango/fangoc.jpg</FANART><DESC>Taiwan GOOD TV 2</DESC>
