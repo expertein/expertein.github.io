@@ -1,5 +1,5 @@
-<NAME>Movies</NAME><URL>https://expertein.github.io/mango/movies.php</URL><ICON>https://expertein.github.io/mango/movie.png</ICON><FANART>(.+?)</FANART><DESC>(.+?)</DESC>
-<NAME>TV Show</NAME><URL>https://expertein.github.io/mango/tvshow.php</URL><ICON>https://expertein.github.io/mango/tvshow.png</ICON><FANART>(.+?)</FANART><DESC>(.+?)</DESC>
-<NAME>Music</NAME><URL>https://expertein.github.io/mango/music.php</URL><ICON>https://expertein.github.io/mango/music.png</ICON><FANART>(.+?)</FANART><DESC>(.+?)</DESC>
-<NAME>Search</NAME><URL> </URL><ICON>https://expertein.github.io/mango/search.png</ICON><FANART>(.+?)</FANART><DESC>(.+?)</DESC>
-<NAME>Favourites</NAME><URL> </URL><ICON>https://expertein.github.io/mango/favourite.png</ICON><FANART>(.+?)</FANART><DESC>(.+?)</DESC>
+<NAME>Movies</NAME><URL>https://expertein.github.io/mango/movies.php</URL><ICON>https://expertein.github.io/mango/movie.png</ICON><FANART>https://expertein.github.io/mango/fanarthome.jpg</FANART><DESC>English Movies</DESC>
+<NAME>TV Show</NAME><URL>https://expertein.github.io/mango/tvshow.php</URL><ICON>https://expertein.github.io/mango/tvshow.png</ICON><FANART>https://expertein.github.io/mango/fanarthome.jpg</FANART><DESC>English Tv Shows</DESC>
+<NAME>Music</NAME><URL>https://expertein.github.io/mango/music.php</URL><ICON>https://expertein.github.io/mango/music.png</ICON><FANART>https://expertein.github.io/mango/fanarthome.jpg</FANART><DESC>Music</DESC>
+<NAME>Search</NAME><URL> </URL><ICON>https://expertein.github.io/mango/search.png</ICON><FANART>https://expertein.github.io/mango/fanarthome.jpg</FANART><DESC>Search your movie here</DESC>
+<NAME>Favourites</NAME><URL> </URL><ICON>https://expertein.github.io/mango/favourite.png</ICON><FANART>https://expertein.github.io/mango/fanarthome.jpg</FANART><DESC>Favourites Folder</DESC>
