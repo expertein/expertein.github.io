@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+    <addon id="repository.fruits" name="Fruits Repository" version="0.1.0" provider-name="JohnT">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Fruits Repository">
+            <info compressed="false">https://expertein.github.io/_repo/addons.xml</info>
+            <checksum>https://expertein.github.io/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://expertein.github.io/_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Install all of TV ADD ONS</summary>
+            <description>Download and Install Addons From Fruits tv</description>
+            <platform>all</platform>
+    </extension>
+</addon>
+</addons>
