@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+<addon id="plugin.program.fruitswizard" name="Fruits Wizard" version="1.0.1" provider-name="JohnT">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>program executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary lang="en">JohnT Wizard</summary>
+		<description lang="en">Easy Install of JohnT Builds and Addons</description>
+		<disclaimer lang="en">Note: we are not responsible or have any influence to the content and their availability from Kodi Add-ons</disclaimer>
+		<platform>all</platform>
+		<facebook>https://web.facebook.com/MITUOFFICIALMALAYSIA</facebook>
+		<website>http://expertein.github.io</website>
+	</extension>
+</addon>
+
     <addon id="repository.fruits" name="Fruits Repository" version="0.1.0" provider-name="JohnT">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
