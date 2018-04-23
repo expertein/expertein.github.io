@@ -1,1 +1,1 @@
-<NAME>Office</NAME><URL>https://photos.app.goo.gl/45AfJaHIBJ0C14X43</URL><ICON>https://expertein.github.io/mango/movgoc.jpg</ICON><FANART>https://expertein.github.io/mango/fangoc.jpg</FANART><DESC>A Office</DESC>
+<NAME>Office</NAME><URL>plugin://plugin.video.youtube/play/?video_id=04rdXgEVv_Y</URL><ICON>https://expertein.github.io/mango/movgoc.jpg</ICON><FANART>https://expertein.github.io/mango/fangoc.jpg</FANART><DESC>A Office</DESC>
