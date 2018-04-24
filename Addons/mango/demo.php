@@ -1,0 +1,5 @@
+<NAME>Movies</NAME><URL>https://expertein.github.io/Addons/mango/movies.php</URL><ICON>https://expertein.github.io/Addons/mango/movie.png</ICON><FANART>https://expertein.github.io/Addons/mango/fanarthome.jpg</FANART><DESC>English Movies</DESC>
+<NAME>TV Show</NAME><URL>https://expertein.github.io/Addons/mango/tvshow.php</URL><ICON>https://expertein.github.io/Addons/mango/tvshow.png</ICON><FANART>https://expertein.github.io/Addons/mango/fanarthome.jpg</FANART><DESC>English Tv Shows</DESC>
+<NAME>LIVE</NAME><URL>https://expertein.github.io/Addons/mango/live.php</URL><ICON>https://expertein.github.io/Addons/mango/live.png</ICON><FANART>https://expertein.github.io/Addons/mango/fanarthome.jpg</FANART><DESC>LIVE</DESC>
+<NAME>Search</NAME><URL> </URL><ICON>https://expertein.github.io/Addons/mango/search.png</ICON><FANART>https://expertein.github.io/Addons/mango/fanarthome.jpg</FANART><DESC>Search your movie here</DESC>
+<NAME>Favourites</NAME><URL> </URL><ICON>https://expertein.github.io/Addons/mango/favourite.png</ICON><FANART>https://expertein.github.io/Addons/mango/fanarthome.jpg</FANART><DESC>Favourites Folder</DESC>

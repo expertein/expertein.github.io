@@ -1,5 +1,0 @@
-<NAME>Movies</NAME><URL>https://expertein.github.io/mango/movies.php</URL><ICON>https://expertein.github.io/mango/movie.png</ICON><FANART>https://expertein.github.io/mango/fanarthome.jpg</FANART><DESC>English Movies</DESC>
-<NAME>TV Show</NAME><URL>https://expertein.github.io/mango/tvshow.php</URL><ICON>https://expertein.github.io/mango/tvshow.png</ICON><FANART>https://expertein.github.io/mango/fanarthome.jpg</FANART><DESC>English Tv Shows</DESC>
-<NAME>LIVE</NAME><URL>https://expertein.github.io/mango/live.php</URL><ICON>https://expertein.github.io/mango/live.png</ICON><FANART>https://expertein.github.io/mango/fanarthome.jpg</FANART><DESC>LIVE</DESC>
-<NAME>Search</NAME><URL> </URL><ICON>https://expertein.github.io/mango/search.png</ICON><FANART>https://expertein.github.io/mango/fanarthome.jpg</FANART><DESC>Search your movie here</DESC>
-<NAME>Favourites</NAME><URL> </URL><ICON>https://expertein.github.io/mango/favourite.png</ICON><FANART>https://expertein.github.io/mango/fanarthome.jpg</FANART><DESC>Favourites Folder</DESC>
