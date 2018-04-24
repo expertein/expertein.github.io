@@ -1,0 +1,14 @@
+name="[KODI 17] Mango Addons"
+url="expertein.github.io/allrepo/plugin.video.mango/plugin.video.mango-0.0.2.zip"
+img="http://expertein.github.io/allrepo/plugin.video.mango/icon.png"
+fanart="expertein.github.io/allrepo/plugin.video.mango/fanart.jpg"
+description="Mango TV Addons"
+version="0.0.2"
+
+name="[KODI 17] Fruitswizard"
+url="expertein.github.io/allrepo/plugin.program.fruitswizard/plugin.program.fruitswizard-1.0.1.zip"
+img="expertein.github.io/allrepo/plugin.program.fruitswizard/icon.png"
+fanart="expertein.github.io/allrepo/plugin.program.fruitswizard/fanart.jpg"
+description="Wizard for Fruits"
+version="1.0.1"
+
