@@ -17,6 +17,23 @@
 	</extension>
 </addon>
 
+<addon id="plugin.video.mango" name="Mango TV" version="0.0.2" provider-name="JohnT">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver"  version="3.0.0"/>
+	<import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">Blank</summary>
+	<description lang="en">Movies and Dramas</description>
+	<disclaimer lang="en">The original author neither hosts or stores any content, the original author has no affiliation with content hosts</disclaimer>
+	<platform>all</platform>
+  </extension>
+</addon>
+
     <addon id="repository.fruits" name="Fruits Repository" version="0.1.0" provider-name="JohnT">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
