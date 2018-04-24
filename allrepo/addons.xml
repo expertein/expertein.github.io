@@ -27,8 +27,8 @@
 		<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-	<summary lang="en">Blank</summary>
-	<description lang="en">Movies and Dramas</description>
+	<summary lang="en">Watch Dramas and Movies</summary>
+	<description lang="en">Database of Movies and Dramas</description>
 	<disclaimer lang="en">The original author neither hosts or stores any content, the original author has no affiliation with content hosts</disclaimer>
 	<platform>all</platform>
   </extension>
@@ -41,12 +41,12 @@
         <extension point="xbmc.addon.repository" name="Fruits Repository">
             <info compressed="false">https://expertein.github.io/allrepo/addons.xml</info>
             <checksum>https://expertein.github.io/allrepo/addons.xml.md5</checksum>
-            <datadir zip="true">https://expertein.github.io/allrepo</datadir>
+            <datadir zip="true">https://expertein.github.io/allrepo/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary>Install all of TV ADD ONS</summary>
-            <description>Download and Install Addons From Fruits tv</description>
+            <summary>Download and Install Fruits Addon from Fruit Repository</summary>
+            <description>Watch your favorite Dramas and Movies from Friuts TV. Create by JohnT</description>
             <platform>all</platform>
     </extension>
 </addon>
