@@ -43,9 +43,14 @@ http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Shanxi_Television.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",山西卫视
 http://111.40.205.76/PLTV/88888888/224/3221225624/index.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="香港",鳳凰衛視資訊台HD
+http://185.93.2.35:12012/live/359111068247FFA1/8e9bT1QCRuTN5qZD9HzE9ZeS4ptaPqWJI6TLzUy6GbxFUameR_Y8COhP0XSv_V-8/4E1F6F8A1C7B4D86/901478.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="香港",鳳凰衛視中文台
+http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="香港",TVB翡翠台
-http://219.79.222.200:9981/stream/channelid/1567054223.m3u8
+http://pullstream-ucan.speedws.com/live/6a612c7fbe182c9577ee93c3b5e6ccb8/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台湾",Formosa TV
 http://seb.sason.top/ptv/ftv.php?id=ms
