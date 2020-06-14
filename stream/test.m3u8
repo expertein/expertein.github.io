@@ -48,9 +48,15 @@ http://185.93.2.35:12012/live/359111068247FFA1/8e9bT1QCRuTN5qZD9HzE9ZeS4ptaPqWJI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="香港",鳳凰衛視中文台
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="香港",TVB翡翠台
-http://pullstream-ucan.speedws.com/live/ea9b278a56e55390ac6696afb5ac9934/playlist.m3u8
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" tvg-country="HK" tvg-url="" group-title="香港",TVB星河
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" tvg-country="HK" tvg-url="" group-title="香港",TVB J2
+http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-country="HK" tvg-url="" group-title="General",港台電視31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" tvg-country="HK" tvg-url="" group-title="News",港台電視32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 
 
 
