@@ -68,5 +68,5 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="马来西亚",8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
-#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://en.wikipedia.org/wiki/Astro_AEC#/media/File:AstroAEClogo.png" group-title="马来西亚",AEC
+#EXTINF:-1 tvg-ID="" tvg-logo="https://en.wikipedia.org/wiki/Astro_AEC#/media/File:AstroAEClogo.png" group-title="马来西亚",AEC
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
