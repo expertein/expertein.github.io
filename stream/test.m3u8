@@ -75,3 +75,5 @@ http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 http://58.99.33.2:1935/liveedge2/KTjfKXzI_19_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
 #EXTINF:-1 tvg-ID="DIS.US" tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="Discovery",Discovery
 http://live.highstream.club/live/DISCOVERY/playlist.m3u8
+#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Discovery",National Geographic
+http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
