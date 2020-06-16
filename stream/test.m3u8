@@ -70,3 +70,8 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://en.wikipedia.org/wiki/Astro_AEC#/media/File:AstroAEClogo.png" group-title="马来西亚",AEC
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+
+#EXTINF:-1 tvg-ID="DIT.US" tvg-logo="http://static.epg.best/au/DiscoveryTurbo.au.png" group-title="Discovery",Discovery Turbo
+http://58.99.33.2:1935/liveedge2/KTjfKXzI_19_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf&aa=9000234&as=2015&dr=&mmmm=
+#EXTINF:-1 tvg-ID="DIS.US" tvg-logo="http://static.epg.best/us/DiscoveryChannel.us.png" group-title="Discovery",Discovery
+http://live.highstream.club/live/DISCOVERY/playlist.m3u8
