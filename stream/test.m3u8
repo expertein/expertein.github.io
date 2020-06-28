@@ -133,8 +133,10 @@ http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="国际新闻"",CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
-#EXTINF:-1 tvg-ID="CNB.News" tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="国际新闻"",CNBC
-http://live.highstream.club/live/CNBC/playlist.m3u8
+#EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="国际新闻",BBC 1
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/807.m3u8
+#EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="国际新闻",BBC 2
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/814.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/aljazeera.png" group-title="国际新闻",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/arirang.png" group-title="国际新闻",Arirang TV
@@ -157,8 +159,7 @@ https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593338422/ei/1hX4XtOoG8iGDam7vqAN/ip/34.67.149.79/id/9Auq9mYxFEE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-qxo7rn7e.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Yv/mm/44/mn/sn-qxo7rn7e/ms/lva/mv/u/mvi/2/pl/22/dover/11/keepalive/yes/mt/1593316312/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAIItEJiV0yHQa5pquMgOn-Eis8LBdrCex7atN8PWFj7iAiEA-qoiddgY7GyLydEn1u_yUx9apuLJXLqW9BCBbkVsCAE%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAMzqPshiq3gnsvCKN22KB_quZT6DQnXgTCQbx1M7RarpAiBJeG1thtc_T5r5eQpOOpzbppyrubfWSQ5BZMEHBDSxJg%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/trtworld.png" group-title="国际新闻",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/cgtndoc.png" group-title="国际新闻",CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
 
 
 #EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="电影",Cinemax
