@@ -169,7 +169,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-id="TYP.HK" tvg-logo="https://resizer.eco.astro.com.my/fetch/q_auto/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="电影",天映频道
 http://f6.apps8888.com:8080/live/441/391ecb76d2fd253a9c66bbb3bd7b3f37/index.m3u8
-
+#EXTINF:-1 tvg-id="MEY.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/220px-Mei_Ah_Movies_Channel_logo.png" group-title="电影",美亞電影台
+http://f8.apps8888.com:8080/live/375/8bef1806a8b8b13d23fc4be008b24a60/index.m3u8
 
 #EXTINF:-1 tvg-ID="PF1.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="体育",Premier Football 1
 https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
