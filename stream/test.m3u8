@@ -127,6 +127,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="地理",National Geographic
 http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
+#EXTINF:-1 tvg-ID="DCV.US" tvg-logo="https://en.wikipedia.org/wiki/Discovery_Channel#/media/File:2019_Discovery_logo.svg" group-title="地理",Discovery
+http://flusonic-1.platinum-tv.com/Discovery/video.m3u8?token=test
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/abcnews.png" group-title="国际新闻",ABC News
