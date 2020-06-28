@@ -40,8 +40,7 @@ http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",北京卫视
 http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Shanxi_Television.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视",山西卫视
-http://111.40.205.76/PLTV/88888888/224/3221225624/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="香港",鳳凰衛視資訊台HD
 http://185.93.2.35:12012/live/359111068247FFA1/8e9bT1QCRuTN5qZD9HzE9ZeS4ptaPqWJI6TLzUy6GbxFUameR_Y8COhP0XSv_V-8/4E1F6F8A1C7B4D86/901478.ts
@@ -132,6 +131,10 @@ http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/abcnews.png" group-title="国际新闻",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="国际新闻"",CNN
+https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+#EXTINF:-1 tvg-ID="CNB.News" tvg-logo="https://static.epg.best/us/CNBC.us.png" group-title="国际新闻"",CNBC
+http://live.highstream.club/live/CNBC/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/aljazeera.png" group-title="国际新闻",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/arirang.png" group-title="国际新闻",Arirang TV
@@ -140,6 +143,8 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/cgtn.png" group-title="国际新闻",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/cgtndoc.png" group-title="国际新闻",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/dw.png" group-title="国际新闻",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/france24.png" group-title="国际新闻",France24
