@@ -185,6 +185,9 @@ http://f6.apps8888.com:8080/live/441/391ecb76d2fd253a9c66bbb3bd7b3f37/index.m3u8
 http://f8.apps8888.com:8080/live/375/8bef1806a8b8b13d23fc4be008b24a60/index.m3u8
 #EXTINF:-1 tvg-id="WXY.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
 http://58.99.33.9:1935/liveedge2/live_61_1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LOX.TW" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="电影",龙祥时代
+http://live5.ocnttv.com:8080/ZZ_shidai/ZZ_shidai.m3u8
+
 
 #EXTINF:-1 tvg-ID="PF1.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="体育",Premier Football 1
 https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
