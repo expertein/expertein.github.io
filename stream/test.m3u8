@@ -127,7 +127,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
 #EXTINF:-1 tvg-ID="DCV.US" tvg-logo="https://discoverychannel.co.in//assets/front-css/images/logo.png" group-title="地理",Discovery
 http://flusonic-1.platinum-tv.com/Discovery/video.m3u8?token=test
-
+#EXTINF:-1 tvg-ID="APN.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="地理",Animal Planet
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF:-1 tvg-ID="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="地理",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/abcnews.png" group-title="国际新闻",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
@@ -168,6 +171,8 @@ http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 #EXTINF:-1 tvg-id="MON.ID" tvg-logo="http://static.epg.best/in/MoviesNow.in.png" group-title="电影",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1 tvg-ID="FXM.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="电影",FX
+https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
 #EXTINF:-1 tvg-id="TYP.HK" tvg-logo="https://resizer.eco.astro.com.my/fetch/q_auto/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="电影",天映频道
 http://f6.apps8888.com:8080/live/441/391ecb76d2fd253a9c66bbb3bd7b3f37/index.m3u8
 #EXTINF:-1 tvg-id="MEY.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/220px-Mei_Ah_Movies_Channel_logo.png" group-title="电影",美亞電影台
@@ -225,3 +230,6 @@ https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="体育",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/150px-WWE_Logo.svg.png" group-title="体育",WWE
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
+
