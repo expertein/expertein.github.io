@@ -65,12 +65,16 @@ http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="MS1.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="台湾",民視第一
 http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="MSZY.TW" tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/ac9d6e430c61ab2a624c320857596942.png" group-title="台湾",民視綜藝台
+http://hdtv.ub1818.com/ublive/index_11.m3u8
 #EXTINF:-1 tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="台湾",民視新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",台視新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="ZSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾",中視
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 tvg-id="ZSQC.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_Bravo.png" group-title="台湾",中視菁采台
+http://hdtv.ub1818.com/ublive/index_7.m3u8
 #EXTINF:-1 tvg-id="ZSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",中視新聞
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="台湾",華視
@@ -167,6 +171,8 @@ https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/trtworld.png" group-title="国际新闻",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-id="AMC.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="台湾",AMC
+http://hdtv.ub1818.com/ublive/index_30.m3u8
 #EXTINF:-1 tvg-ID="FOX.Asia" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="电影",Fox Action Movies 
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="电影",Cinemax
@@ -189,6 +195,8 @@ http://live5.ocnttv.com:8080/ZZ_shidai/ZZ_shidai.m3u8
 http://hdtv.ub1818.com/ublive/index_23.m3u8
 #EXTINF:-1 tvg-id="YMDY.TW" tvg-logo="https://i.imgur.com/awHUgGj.jpg" group-title="电影",影迷电影
 http://hdtv.ub1818.com/ublive/index_28.m3u8
+#EXTINF:-1 tvg-id="CLASSI.TW" tvg-logo="https://www.chilhoweerv.com/storage/app/public/brand/Airstream%20Badge%20Classic%20WEB260.jpg" group-title="电影",Classica
+http://hdtv.ub1818.com/ublive/index_34.m3u8
 
 #EXTINF:-1 tvg-ID="PF1.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="体育",Premier Football 1
 https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
