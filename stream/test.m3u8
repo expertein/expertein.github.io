@@ -83,6 +83,8 @@ http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="台湾",中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="TVBS.TW" tvg-logo="https://cc.tvbs.com.tw/portal/images/logo.png" group-title="台湾",TVBS
+http://hdtv.ub1818.com/ublive/index_5.m3u8
 #EXTINF:-1 tvg-id="TBL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png" group-title="台湾",TVBS歡樂台
 http://58.99.33.9:1935/liveedge2/live_42_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="台湾",TVBS新聞
@@ -91,6 +93,8 @@ http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 http://58.99.33.9:1935/liveedge2/live_29_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SLX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾",三立新聞
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 tvg-id="BDZY.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/GTV_Taiwan_logo_2018.png/200px-GTV_Taiwan_logo_2018.png" group-title="台湾",八大綜藝台
+http://hdtv.ub1818.com/ublive/index_12.m3u8
 #EXTINF:-1 tvg-id="BDZ.TW" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="台湾",八大綜合
 http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-id="BDX.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png" group-title="台湾",八大戲劇
@@ -186,7 +190,10 @@ http://f8.apps8888.com:8080/live/375/8bef1806a8b8b13d23fc4be008b24a60/index.m3u8
 http://58.99.33.9:1935/liveedge2/live_61_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LOX.TW" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="电影",龙祥时代
 http://live5.ocnttv.com:8080/ZZ_shidai/ZZ_shidai.m3u8
-
+#EXTINF:-1 tvg-id="QTDY.TW" tvg-logo="" group-title="台湾",靖天电影
+http://hdtv.ub1818.com/ublive/index_23.m3u8
+#EXTINF:-1 tvg-id="YMDY.TW" tvg-logo="" group-title="台湾",影迷电影
+http://hdtv.ub1818.com/ublive/index_28.m3u8
 
 #EXTINF:-1 tvg-ID="PF1.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="体育",Premier Football 1
 https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
