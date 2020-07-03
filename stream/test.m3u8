@@ -180,9 +180,9 @@ http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 http://58.99.33.9:1935/liveedge2/live_61_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LOX.TW" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="电影",龙祥时代
 http://live5.ocnttv.com:8080/ZZ_shidai/ZZ_shidai.m3u8
-#EXTINF:-1 tvg-id="QTDY.TW" tvg-logo="" group-title="台湾",靖天电影
+#EXTINF:-1 tvg-id="QTDY.TW" tvg-logo="" group-title="电影",靖天电影
 http://hdtv.ub1818.com/ublive/index_23.m3u8
-#EXTINF:-1 tvg-id="YMDY.TW" tvg-logo="" group-title="台湾",影迷电影
+#EXTINF:-1 tvg-id="YMDY.TW" tvg-logo="" group-title="电影",影迷电影
 http://hdtv.ub1818.com/ublive/index_28.m3u8
 
 #EXTINF:-1 tvg-ID="PF1.TH" tvg-logo="http://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="体育",Premier Football 1
