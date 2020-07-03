@@ -135,8 +135,6 @@ http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1 tvg-ID="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="地理",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/abcnews.png" group-title="国际新闻",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="国际新闻"",CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="国际新闻",BBC 1
@@ -161,8 +159,6 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/rt.png" group-title="国际新闻",RT
 https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/skynews.png" group-title="国际新闻",Sky News
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593338422/ei/1hX4XtOoG8iGDam7vqAN/ip/34.67.149.79/id/9Auq9mYxFEE.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-qxo7rn7e.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Yv/mm/44/mn/sn-qxo7rn7e/ms/lva/mv/u/mvi/2/pl/22/dover/11/keepalive/yes/mt/1593316312/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAIItEJiV0yHQa5pquMgOn-Eis8LBdrCex7atN8PWFj7iAiEA-qoiddgY7GyLydEn1u_yUx9apuLJXLqW9BCBbkVsCAE%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAMzqPshiq3gnsvCKN22KB_quZT6DQnXgTCQbx1M7RarpAiBJeG1thtc_T5r5eQpOOpzbppyrubfWSQ5BZMEHBDSxJg%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/trtworld.png" group-title="国际新闻",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
@@ -172,8 +168,6 @@ http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 http://58.99.33.9:1935/liveedge2/live_71_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PAN.CA" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="电影",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-#EXTINF:-1 tvg-id="MON.ID" tvg-logo="http://static.epg.best/in/MoviesNow.in.png" group-title="电影",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-ID="FXM.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="电影",FX
 https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
 #EXTINF:-1 tvg-id="HLW.TW" tvg-logo="https://www.hollywood-hdtv.com/hhdtv_asset/images/H-small.png" group-title="电影",Hollywood
@@ -182,10 +176,6 @@ http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-id="DSE.TW" tvg-logo="https://emovie.ebc.net.tw/upload/emovie/img/logoes/mobile_logo.png" group-title="电影",东森洋片
 http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-#EXTINF:-1 tvg-id="TYP.HK" tvg-logo="https://resizer.eco.astro.com.my/fetch/q_auto/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="电影",天映频道
-http://f6.apps8888.com:8080/live/441/391ecb76d2fd253a9c66bbb3bd7b3f37/index.m3u8
-#EXTINF:-1 tvg-id="MEY.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/220px-Mei_Ah_Movies_Channel_logo.png" group-title="电影",美亞電影台
-http://f8.apps8888.com:8080/live/375/8bef1806a8b8b13d23fc4be008b24a60/index.m3u8
 #EXTINF:-1 tvg-id="WXY.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影
 http://58.99.33.9:1935/liveedge2/live_61_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LOX.TW" tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="电影",龙祥时代
