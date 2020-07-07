@@ -68,16 +68,12 @@ http://f9.apps1818.com:8080/live/44/eee037311319adad53284ba3fce346bd/index.m3u8
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="MS1.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="台湾",民視第一
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="MSZY.TW" tvg-logo="https://res06.noxgroup.com/noxinfluencer/youtube/avatar/ac9d6e430c61ab2a624c320857596942.png" group-title="台湾",民視綜藝台
-http://hdtv.ub1818.com/ublive/index_11.m3u8
 #EXTINF:-1 tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="台湾",民視新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",台視新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="ZSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾",中視
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 tvg-id="ZSQC.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_Bravo.png" group-title="台湾",中視菁采台
-http://hdtv.ub1818.com/ublive/index_7.m3u8
 #EXTINF:-1 tvg-id="ZSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",中視新聞
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="台湾",華視
@@ -90,8 +86,6 @@ http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="台湾",中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 tvg-id="TVBS.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/TVBS_Media_Inc_LogoV2.svg/200px-TVBS_Media_Inc_LogoV2.svg.png" group-title="台湾",TVBS
-http://hdtv.ub1818.com/ublive/index_5.m3u8
 #EXTINF:-1 tvg-id="TBL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png" group-title="台湾",TVBS歡樂台
 http://58.99.33.9:1935/liveedge2/live_42_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="台湾",TVBS新聞
@@ -100,8 +94,6 @@ http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 http://58.99.33.9:1935/liveedge2/live_29_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SLX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾",三立新聞
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 tvg-id="BDZY.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/GTV_Taiwan_logo_2018.png/200px-GTV_Taiwan_logo_2018.png" group-title="台湾",八大綜藝台
-http://hdtv.ub1818.com/ublive/index_12.m3u8
 #EXTINF:-1 tvg-id="BDX.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/GTV_Drama_logo_2018.png" group-title="台湾",八大戲劇
 http://58.99.33.9:1935/liveedge2/live_41_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="台湾",大愛1
@@ -133,22 +125,12 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="地理",National Geographic
 http://220.158.149.26:8182/hls/TV00000000000000000115@HHZT.m3u8
-#EXTINF:-1 tvg-id="NGO.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/220px-National_Geographic_Wild_logo.svg.png" group-title="地理",国家野生台湾
-http://f8.apps8888.com:8080/live/1038/14609b15b757bb8120d318ade317eeb9/index.m3u8
 #EXTINF:-1 tvg-ID="DCV.US" tvg-logo="https://discoverychannel.co.in//assets/front-css/images/logo.png" group-title="地理",Discovery
 http://flusonic-1.platinum-tv.com/Discovery/video.m3u8?token=test
 #EXTINF:-1 tvg-ID="APN.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="地理",Animal Planet
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF:-1 tvg-id="APN.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="地理",动物星球台湾
-http://f8.apps8888.com:8080/live/1125/fe3f44d83db01b43ae538dd057f06350/index.m3u8
 #EXTINF:-1 tvg-ID="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="地理",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
-#EXTINF:-1 tvg-ID="AFC.AS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png" group-title="地理",Asia Food Channel
-http://f8.apps8888.com:8080/live/374/20ed8408d5ab7314f7034b444f2e24a8/index.m3u8
-#EXTINF:-1 tvg-id="TRAVEL.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/200px-2018_Travel_Channel_logo.svg.png" group-title="地理",Travel
-http://hdtv.ub1818.com/ublive/index_36.m3u8
-#EXTINF:-1 tvg-id="OUTDOOR.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Outdoor_Channel_2017.png/220px-Outdoor_Channel_2017.png" group-title="地理",Outdoor
-http://hdtv.ub1818.com/ublive/index_37.m3u8
 
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="国际新闻"",CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
@@ -177,34 +159,15 @@ https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/trtworld.png" group-title="国际新闻",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="AMC.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="电影",AMC
-http://hdtv.ub1818.com/ublive/index_30.m3u8
+
 #EXTINF:-1 tvg-ID="FOX.Asia" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="电影",Fox Action Movies 
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="电影",Cinemax
-http://f8.apps8888.com:8080/live/346/e5190ee8aab10f5823a75703f0264171/index.m3u8
-#EXTINF:-1 tvg-ID="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="电影",HBO
-http://f8.apps8888.com:8080/live/332/cf4f03d48be60e675131d45664df6950/index.m3u8
-#EXTINF:-1 tvg-ID="Hbo.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/200px-Fox_Crime_logo.svg.png" group-title="电影",FOX CRIME
-http://f8.apps8888.com:8080/live/386/0a43b578df70f48e754432f41fb3c0ef/index.m3u8
 #EXTINF:-1 tvg-id="PAN.CA" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="电影",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 #EXTINF:-1 tvg-id="HLW.TW" tvg-logo="https://www.hollywood-hdtv.com/hhdtv_asset/images/H-small.png" group-title="电影",Hollywood
 http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-id="WXY.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影一
-http://58.99.33.9:1935/liveedge2/live_61_1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="WXE.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="电影",衛視電影二
-http://f8.apps8888.com:8080/live/84/1713404f5d835eba50fc2db9a37091ef/index.m3u8
-#EXTINF:-1 tvg-id="QTDY.TW" tvg-logo="https://www.nettv.live/uploads/allimg/18/1-1P310120I60-L.jpg" group-title="电影",靖天电影
-http://hdtv.ub1818.com/ublive/index_23.m3u8
-#EXTINF:-1 tvg-id="YMDY.TW" tvg-logo="https://i.imgur.com/awHUgGj.jpg" group-title="电影",影迷电影
-http://hdtv.ub1818.com/ublive/index_28.m3u8
-#EXTINF:-1 tvg-id="CLASSI.TW" tvg-logo="https://www.chilhoweerv.com/storage/app/public/brand/Airstream%20Badge%20Classic%20WEB260.jpg" group-title="电影",Classica
-http://hdtv.ub1818.com/ublive/index_34.m3u8
 
 
-#EXTINF:-1 tvg-ID="RMC.SP" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/56/Real_Madrid_CF.svg/160px-Real_Madrid_CF.svg.png" group-title="体育",皇马足球
-http://f8.apps8888.com:8080/live/20/43350f059975f7b66f25efb8fd9d9f2e/index.m3u8
 #EXTINF:-1 tvg-ID="NBA.US" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="体育",NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="体育",Tennis Channel
