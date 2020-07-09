@@ -50,7 +50,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="香港",鳳凰衛視中文台2
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1" tvg-country="HK" tvg-url="" group-title="Shop",耀才財經台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1" tvg-country="HK" tvg-url="" group-title="香港",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="香港",TVB翡翠台
 http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
