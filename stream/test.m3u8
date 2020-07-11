@@ -76,12 +76,8 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",台視新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="ZSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="台湾",中視
-http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 tvg-id="ZSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台湾",中視新聞
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="台湾",華視
-http://104.250.154.42:8080//ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 tvg-id="HSX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png" group-title="台湾",華視新聞
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="ZTZ.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾",中天綜合
@@ -92,8 +88,6 @@ http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="TBL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png" group-title="台湾",TVBS歡樂台
 http://58.99.33.9:1935/liveedge2/live_42_1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="台湾",TVBS新聞
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:-1 tvg-id="SLT.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台湾",三立台灣
 http://58.99.33.9:1935/liveedge2/live_29_1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SLX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台湾",三立新聞
@@ -110,9 +104,9 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/tv2.png" group-title="马来西亚",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/tv3.png" group-title="马来西亚",TV3
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb-fw78hm_FyGKIv71k7F5s)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/ntv7.png" group-title="马来西亚",NTV7
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW2X9psemwUpgqyUPBk6eNk)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="马来西亚",8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/freeview_gcs/logos/tv9.png" group-title="马来西亚",TV9
