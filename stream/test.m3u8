@@ -183,6 +183,8 @@ http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
 http://140.207.241.2:8080/live/program/live/ssty/2300000/mnf.m3u8
 #EXTINF:-1 tvg-ID="XSJ.CN" tvg-logo="http://www.nowqiu.com/storage/live/Y6QNeV13mt8VfdJSYnqYiyJSQe0eiG8Nt2GTOcXU.jpeg" group-title="体育",新视觉
 http://140.207.241.2:8080/live/program/live/xsjhd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-ID="JBT.CN" tvg-logo="http://photocdn.sohu.com/20120529/Img344336334.jpg" group-title="体育",劲爆体育
+http://140.207.241.2:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-ID="NBA.US" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="体育",NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="体育",Tennis Channel
