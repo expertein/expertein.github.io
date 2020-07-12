@@ -183,6 +183,8 @@ http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
 http://140.207.241.2:8080/live/program/live/ssty/2300000/mnf.m3u8
 #EXTINF:-1 tvg-ID="XSJ.CN" tvg-logo="http://www.nowqiu.com/storage/live/Y6QNeV13mt8VfdJSYnqYiyJSQe0eiG8Nt2GTOcXU.jpeg" group-title="体育",新视觉
 http://140.207.241.2:8080/live/program/live/xsjhd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-ID="XSJ2.CN" tvg-logo="http://www.nowqiu.com/storage/live/Y6QNeV13mt8VfdJSYnqYiyJSQe0eiG8Nt2GTOcXU.jpeg" group-title="体育",新视觉测试
+https://raw.githubusercontent.com/expertein/expertein.github.io/master/token/XSJ.m3u8
 #EXTINF:-1 tvg-ID="JBT.CN" tvg-logo="http://photocdn.sohu.com/20120529/Img344336334.jpg" group-title="体育",劲爆体育
 http://140.207.241.2:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-ID="GDT.CN" tvg-logo="https://bkimg.cdn.bcebos.com/pic/a1ec08fa513d2697eee451305afbb2fb4316d8ac?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="体育",广东体育
