@@ -179,6 +179,10 @@ http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/KukcTgh.png" tvg-country="CN" tvg-url="" group-title="电影",NewTV未来电视 超级电影
 http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
 
+#EXTINF:-1 tvg-ID="FST.CN" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="体育",五星体育
+http://140.207.241.2:8080/live/program/live/ssty/2300000/mnf.m3u8
+#EXTINF:-1 tvg-ID="XSJ.CN" tvg-logo="http://www.nowqiu.com/storage/live/Y6QNeV13mt8VfdJSYnqYiyJSQe0eiG8Nt2GTOcXU.jpeg" group-title="体育",新视觉
+http://140.207.241.2:8080/live/program/live/xsjhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-ID="NBA.US" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="体育",NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="体育",Tennis Channel
