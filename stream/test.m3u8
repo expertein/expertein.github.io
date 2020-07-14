@@ -202,3 +202,13 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-ID="RAC.AU" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="体育",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+
+#EXTINF:-1 tvg-ID="HQD.TE" tvg-logo="http://www.tvyan.com/uploads/dianshi/utv.jpg" group-title="测试",环球电视台
+http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 tvg-ID="HKS.TE" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/42/%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86HKS.jpg/150px-%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86HKS.jpg" group-title="测试",香港卫视HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+# http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+# http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+#EXTINF:-1 tvg-ID="DZY.TE" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2002021216260-L.jpg" group-title="测试",大众影视
+http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
