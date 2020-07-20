@@ -171,7 +171,10 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
 https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/250px-TRT_World_logo.svg.png" group-title="国际新闻",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Thai_PBS_logo.png/220px-Thai_PBS_logo.png" group-title="国际新闻",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://icanlive.tv/pictures/sama-dubai-tv.jpg" group-title="国际新闻",Sama Dubai
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-ID="FOX.Asia" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="电影",Fox Action Movies 
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
@@ -213,3 +216,9 @@ https://raw.githubusercontent.com/expertein/expertein.github.io/master/token/XSJ
 http://140.207.241.2:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-ID="GDT.CN" tvg-logo="https://bkimg.cdn.bcebos.com/pic/a1ec08fa513d2697eee451305afbb2fb4316d8ac?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="测试",广东体育
 https://nclive.grtn.cn/typd/sd/live.m3u8?_upt=6c00f54d1594543200
+#EXTINF:-1 group-title="News" tvg-logo="https://wwitv.com/tvlogos/b6806.jpg" group-title="测试",Vietnam ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phu-yen-tv-vn.png" group-title="测试",Vietnam PTP
+http://113.161.4.48:8080/phuyen/tv.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.arm-tv.com/wp-content/uploads/2020/01/USArmenia-TV-150x150.jpg" group-title="测试",USAemenia
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
