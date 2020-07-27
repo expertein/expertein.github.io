@@ -141,10 +141,11 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Thai_PBS_logo.png/220px-Thai_PBS_logo.png" group-title="泰国测试",Thai PBS
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="泰国测试",Workpoint
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
 #EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/one31.png" group-title="泰国测试",ONE 31
 http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="泰国测试",Workpoint
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
+
 
 #EXTINF:-1 tvg-id="VT4.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="越南测试",VTV 4
 https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv4hd_abr/playlist.m3u8
