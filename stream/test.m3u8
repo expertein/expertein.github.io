@@ -144,17 +144,33 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/136px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="新加波",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://news1live.com/images/social-share-logo.png" tvg-country="TH" tvg-url="" group-title="泰国测试",News 1
+http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="泰国测试",ททบ. 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="泰国测试",ช่อง 7
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Thai_PBS_logo.png/220px-Thai_PBS_logo.png" group-title="泰国测试",Thai PBS
-http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/Eds4E6G.png" tvg-country="TH" tvg-url="" group-title="泰国测试",MONO 29
+http://183.182.100.184/live/mono29/chunklist.m3u8
 #EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/one31.png" group-title="泰国测试",ONE 31
 http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/0AiJcrC.png" tvg-country="TH" tvg-url="" group-title="泰国测试",Thairath TV 32
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+# https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="http://ctbtv.co.th/indexctb/ctbtv1.png" tvg-country="TH" tvg-url="" group-title="泰国测试",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/aNExu5R.jpg" tvg-country="TH" tvg-url="" group-title="泰国测试",TGN
+https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Thai_PBS_logo.png/220px-Thai_PBS_logo.png" group-title="泰国测试",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+# https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+# https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" tvg-country="TH" tvg-url="" group-title="泰国测试",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="泰国测试",Workpoint
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/cypjz3P.png" tvg-country="TH" tvg-url="" group-title="泰国测试",PPTV
+http://183.182.100.184/live/pptvthai/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VT4.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="越南测试",VTV 4
 https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv4hd_abr/playlist.m3u8
