@@ -196,6 +196,8 @@ https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="WorldNews国际新闻"",CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/AyqNnHj.png" tvg-country="PH" tvg-url="" group-title="WorldNews国际新闻",CNN Philippines
+https://df7lqp0btxdx2.cloudfront.net/11227.m3u8
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="WorldNews国际新闻"",CNBC
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="WorldNews国际新闻",Fox News(美国)
