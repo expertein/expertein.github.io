@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://marruda3.files.wordpress.com/2017/08/annabelle_creation_poster.jpg" group-title="Horror",Annabelle: Creation (2017)
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Almost_Christmas_%28film%29.png" group-title="Comedy",Almost Christmas (2016)
+https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/i5fGuKL.jpg" group-title="Comedy",Jimmy Carr - Funny Business (2016)
+https://archive.org/download/JimmyCarrFunnyBusiness2016WEBDL720pMP4TDR/Jimmy%20Carr%20Funny%20Business%202016%20WEB-DL%20720p%20MP4%20-TDR-.mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/home-2015.35899.jpg" group-title="Cartoon",Home (2015)
+https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jVQzuIJ.jpg" group-title="Cartoon",Pup (2013)
+https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
