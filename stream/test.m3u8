@@ -12,7 +12,8 @@ http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/32212256
 # http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 # http://117.169.120.140:8080/live/cctv-3/.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-4 中文国际
-http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
+http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=1
+# http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
 # http://117.169.120.140:8080/live/cctv-4/.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-5 体育
 http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
@@ -124,14 +125,14 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv2.png" group-title="Malaysia马来西亚",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv3.png" group-title="Malaysia马来西亚",TV3
-http://freeview.mywire.org:9090/streams/tv3.m3u8|Referer=https://www.dailymotion.com
+https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/ntv7.png" group-title="Malaysia马来西亚",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 # http://freeview.mywire.org:9090/streams/ntv7.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
-http://freeview.mywire.org:9090/streams/8tv.m3u8|Referer=https://www.dailymotion.com
+https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv9.png" group-title="Malaysia马来西亚",TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 # http://freeview.mywire.org:9090/streams/tv9.m3u8|Referer=https://www.dailymotion.com
@@ -169,6 +170,7 @@ http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Thailand泰国测试",Workpoint
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
+# http://122.155.205.9/live/workpoint.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/cypjz3P.png" tvg-country="TH" tvg-url="" group-title="Thailand泰国测试",PPTV
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
