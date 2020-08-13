@@ -70,10 +70,16 @@ http://192.154.103.75:8080/ZZ_fenghuangzhongwen/ZZ_fenghuangzhongwen.m3u8
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台3
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/01/TVB_News_Channel_2017.png/280px-TVB_News_Channel_2017.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",無綫新聞台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台4
+http://live.centerch.com/fhws.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/01/TVB_News_Channel_2017.png/280px-TVB_News_Channel_2017.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",無綫新聞台1
+http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/01/TVB_News_Channel_2017.png/280px-TVB_News_Channel_2017.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",無綫新聞台2
 http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",耀才財經台
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/01/TVB_News_Channel_2017.png/280px-TVB_News_Channel_2017.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",無綫新聞台3
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/7a/I-CABLE_Finance.png/220px-I-CABLE_Finance.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",有線財經資訊台
+http://livetv.dnsfor.me/channel.6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台1
 http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
 # EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台2
@@ -319,3 +325,23 @@ http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228
 http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png" group-title="Test测试",朝鲜中央电视台
 http://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/22/CTV_text.png/200px-CTV_text.png" group-title="Test测试",中视
+http://p06.iptv2asia.com:18888/http/005?dsjtv.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/32/TTV_2nd_logo.svg/200px-TTV_2nd_logo.svg.png" group-title="Test测试",台视
+http://p06.iptv2asia.com:18888/http/001?dsjtv.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/39/HakkaTV.svg/230px-HakkaTV.svg.png" group-title="Test测试",客家电视
+http://p06.iptv2asia.com:18888/http/019?dsjtv.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://bkimg.cdn.bcebos.com/pic/6a600c338744ebf81a4cdd337fb1c02a6059252d092c?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="Test测试",岭南戏曲
+http://szlive.grtn.cn/lnxq/sd/live.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a2/FSTV_Logo_since_2009.png/230px-FSTV_Logo_since_2009.png" group-title="Test测试",佛山電視台
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/500px-ViuTV_logo.svg.png" group-title="Test测试",VIU TV
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/5
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Test测试",欧美影院
+http://220.158.149.14:9999/live/TV00000000000000000080@HHZT
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Test测试",黑莓电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Test测试",CNC English
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Test测试",CNC Chinese
+http://livecdn1.news.cn/cnccn/manifest.m3u8
