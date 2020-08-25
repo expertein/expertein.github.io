@@ -118,6 +118,8 @@ http://ff05.vipub1818.com/live/391/008944fa6b61178da4dc5e531277a2c4/index.m3u8
 http://live.crhoy.ml:8080/Yucuanli/Yucuanli/8
 # http://ws.matchupstream.tuboshu.com/live/baee64ed95a56083a87c6afaf3e53a3c.flv
 # http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/500px-ViuTV_logo.svg.png" group-title="Hong Kong香港",VIU TV
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/ATV_A1_logo.jpg/300px-ATV_A1_logo.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",A1
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",港台電視31
@@ -141,9 +143,13 @@ http://p06.iptv2asia.com:18888/http/014
 # http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1 tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="Taiwan台湾",民視新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/32/TTV_2nd_logo.svg/200px-TTV_2nd_logo.svg.png" group-title="Taiwan台湾",台视
+http://p06.iptv2asia.com:18888/http/001?dsjtv.m3u8
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Taiwan台湾",台視新聞
 http://p06.iptv2asia.com:18888/http/004
 # http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/22/CTV_text.png/200px-CTV_text.png" group-title="Taiwan台湾",中视
+http://p06.iptv2asia.com:18888/http/005?dsjtv.m3u8
 #EXTINF:-1 tvg-id="ZSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Taiwan台湾",中視新聞
 http://p06.iptv2asia.com:18888/http/006
 # http://seb.sason.top/sc/zsxw_fhd.m3u8
@@ -162,10 +168,14 @@ http://live5.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 # http://58.99.33.9:1935/liveedge2/live_42_1.stream/playlist.m3u8
 # EXTINF:-1 tvg-id="BDZ.TW" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="Taiwan台湾",八大綜合
 # http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/39/HakkaTV.svg/230px-HakkaTV.svg.png" group-title="Taiwan台湾",客家电视
+http://p06.iptv2asia.com:18888/http/019?dsjtv.m3u8
 #EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="Taiwan台湾",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="DA2.TW" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="Taiwan台湾",大愛2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="http://www.lifetv.org.tw/main/img/lifetv.png" group-title="Taiwan台湾",生命電視台
+http://61.216.67.119/lifetv/LTV1/chunklist_w502591130.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv1.png" group-title="Malaysia马来西亚",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
@@ -281,6 +291,8 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/220px-CGTN_Documentary_logo.png" group-title="WorldNews国际新闻",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 # http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="WorldNews国际新闻",CNC English
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/220px-Deutsche_Welle_Logo.svg.png" group-title="WorldNews国际新闻",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png" group-title="WorldNews国际新闻",France24
@@ -293,6 +305,8 @@ https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://icanlive.tv/pictures/sama-dubai-tv.jpg" group-title="WorldNews国际新闻",Sama Dubai
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png" group-title="WorldNews国际新闻",朝鲜中央电视台
+http://tv.nknews.org/tvhls/stream.m3u8
 
 #EXTINF:-1 tvg-ID="FOX.Asia" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="Movies电影",Fox Action Movies 
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
@@ -365,31 +379,17 @@ http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212289
 http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="Test测试",求索纪录
 http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png" group-title="Test测试",朝鲜中央电视台
-http://tv.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://bkimg.cdn.bcebos.com/pic/6a600c338744ebf81a4cdd337fb1c02a6059252d092c?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="Test测试",岭南戏曲
 http://szlive.grtn.cn/lnxq/sd/live.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a2/FSTV_Logo_since_2009.png/230px-FSTV_Logo_since_2009.png" group-title="Test测试",佛山電視台
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Test测试",欧美影院
 http://220.158.149.14:9999/live/TV00000000000000000080@HHZT
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Test测试",CNC English
-http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Test测试",CNC Chinese
 http://livecdn1.news.cn/cnccn/manifest.m3u8
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="http://www.lifetv.org.tw/main/img/lifetv.png" group-title="Test测试",生命電視台
-http://61.216.67.119/lifetv/LTV1/chunklist_w502591130.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://www.goodtv.tv/images/GoodTV_logo2.png" group-title="Test测试",GoodTv1
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://www.goodtv.tv/images/GoodTV_logo2.png" group-title="Test测试",GoodTv2
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Test测试",动物星球
 http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/22/CTV_text.png/200px-CTV_text.png" group-title="Test测试",中视
-http://p06.iptv2asia.com:18888/http/005?dsjtv.m3u8
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/32/TTV_2nd_logo.svg/200px-TTV_2nd_logo.svg.png" group-title="Test测试",台视
-http://p06.iptv2asia.com:18888/http/001?dsjtv.m3u8
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/39/HakkaTV.svg/230px-HakkaTV.svg.png" group-title="Test测试",客家电视
-http://p06.iptv2asia.com:18888/http/019?dsjtv.m3u8
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/500px-ViuTV_logo.svg.png" group-title="Test测试",VIU TV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/5
