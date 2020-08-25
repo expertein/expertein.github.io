@@ -100,18 +100,23 @@ http://live.crhoy.ml:8080/Yucuanli/Yucuanli/3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/7a/I-CABLE_Finance.png/220px-I-CABLE_Finance.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",有線財經資訊台
 http://livetv.dnsfor.me/channel.6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台1
-http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
+http://m.567it.com/jade.m3u8
+# http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台2
-http://pullstream-ucan.speedws.com/live/f8385f629b558e460a34593e8f9b6d39.flv
+http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+# http://pullstream-ucan.speedws.com/live/f8385f629b558e460a34593e8f9b6d39.flv
 # http://119.167.217.35/tx.hls.nimo.tv/live/su1596787262a2e8451449cff0746c7b4b46c00c58ed.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB星河
-http://pullstream-ucan.speedws.com/live/79ef78fb65fb3d3e94c39653f54a6819.flv
+http://192.154.103.74:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 # http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="Hong Kong香港",TVB Pearl(明珠台)
-http://183.179.246.16:9981/stream/channelid/2125106412
+http://ff05.vipub1818.com/live/391/008944fa6b61178da4dc5e531277a2c4/index.m3u8
+# http://pullstream-ucan.speedws.com/live/68b1ecd51dd7c43ac03afecd623a2254.flv
+# http://183.179.246.16:9981/stream/channelid/2125106412
 # http://nb.iptv88888.xyz/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB J2
-http://ws.matchupstream.tuboshu.com/live/baee64ed95a56083a87c6afaf3e53a3c.flv
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/8
+# http://ws.matchupstream.tuboshu.com/live/baee64ed95a56083a87c6afaf3e53a3c.flv
 # http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/ATV_A1_logo.jpg/300px-ATV_A1_logo.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",A1
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
