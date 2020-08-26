@@ -101,9 +101,11 @@ http://live.crhoy.ml:8080/Yucuanli/Yucuanli/3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/7a/I-CABLE_Finance.png/220px-I-CABLE_Finance.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",有線財經資訊台
 http://livetv.dnsfor.me/channel.6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台1
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台2
 http://m.567it.com/jade.m3u8
 # http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台3
 http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 # http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 # http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -113,16 +115,25 @@ http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fs
 http://192.154.103.74:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 # http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="Hong Kong香港",TVB Pearl(明珠台)
-http://ff05.vipub1818.com/live/391/008944fa6b61178da4dc5e531277a2c4/index.m3u8
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/2
+# http://ff05.vipub1818.com/live/391/008944fa6b61178da4dc5e531277a2c4/index.m3u8
 # http://pullstream-ucan.speedws.com/live/68b1ecd51dd7c43ac03afecd623a2254.flv
 # http://183.179.246.16:9981/stream/channelid/2125106412
 # http://nb.iptv88888.xyz/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB J2
 http://live.crhoy.ml:8080/Yucuanli/Yucuanli/8
 # http://ws.matchupstream.tuboshu.com/live/baee64ed95a56083a87c6afaf3e53a3c.flv
-# http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
+# http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8、、
+#EXTINF:-1 tvg-id="ZHE.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a8/I-Cable_Family_Ent.jpg/220px-I-Cable_Family_Ent.jpg" group-title="Hong Kong香港",有線綜合娛樂台
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/15
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/500px-ViuTV_logo.svg.png" group-title="Hong Kong香港",VIU TV
 http://live.crhoy.ml:8080/Yucuanli/Yucuanli/5
+#EXTINF:-1 tvg-id="CCM.TW" tvg-logo="https://www.infotelevisi.com/asset/images/tv/celestial_classic_movies.jpg" group-title="Hong Kong香港",邵氏经典
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/160
+#EXTINF:-1 tvg-id="MYM.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/220px-Mei_Ah_Movies_Channel_logo.png" group-title="Hong Kong香港",美亞電影台
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/159
+#EXTINF:-1 tvg-id="YXM.HK" tvg-logo="http://www.tvyan.com/uploads/dianshi/cabletv41.jpg" group-title="Hong Kong香港",香港有线电影
+http://live.crhoy.ml:8080/Yucuanli/Yucuanli/21
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/ATV_A1_logo.jpg/300px-ATV_A1_logo.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",A1
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",港台電視31
@@ -389,8 +400,6 @@ http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212289
 http://szlive.grtn.cn/lnxq/sd/live.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a2/FSTV_Logo_since_2009.png/230px-FSTV_Logo_since_2009.png" group-title="Test测试",佛山電視台
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Test测试",欧美影院
-http://220.158.149.14:9999/live/TV00000000000000000080@HHZT
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Test测试",CNC Chinese
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://www.goodtv.tv/images/GoodTV_logo2.png" group-title="Test测试",GoodTv1
