@@ -102,7 +102,8 @@ http://live.crhoy.ml:8080/Yucuanli/Yucuanli/3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/7a/I-CABLE_Finance.png/220px-I-CABLE_Finance.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",有線財經資訊台
 http://livetv.dnsfor.me/channel.6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台1
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+http://live.crhoy.ga:8080/fhtv/lianyou2010/1
+# http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 # http://live.crhoy.ml:8080/Yucuanli/Yucuanli/1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台2
 http://m.567it.com/jade.m3u8
@@ -132,9 +133,12 @@ http://ff13.apps8888.com/live/392/5d75d5f8fcef0ac297c82e567739ccb3/index.m3u8
 #EXTINF:-1 tvg-id="ZHE.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a8/I-Cable_Family_Ent.jpg/220px-I-Cable_Family_Ent.jpg" group-title="Hong Kong香港",有線綜合娛樂台
 http://live.crhoy.ml:8080/Yucuanli/Yucuanli/15
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/500px-ViuTV_logo.svg.png" group-title="Hong Kong香港",VIU TV
-http://live.crhoy.ml:8080/Yucuanli/Yucuanli/5
-#EXTINF:-1 tvg-id="CCM.TW" tvg-logo="https://www.infotelevisi.com/asset/images/tv/celestial_classic_movies.jpg" group-title="Hong Kong香港",邵氏经典
+http://61.238.6.49:8000/bysid/99
+# http://live.crhoy.ml:8080/Yucuanli/Yucuanli/5
+#EXTINF:-1 tvg-id="CCM.TW" tvg-logo="https://www.infotelevisi.com/asset/images/tv/celestial_classic_movies.jpg" group-title="Hong Kong香港",邵氏经典1
 http://ff13.apps8888.com/live/328/f0486286e07f43de27c5652620d900d8/index.m3u8
+#EXTINF:-1 tvg-id="CCM.TW" tvg-logo="https://www.infotelevisi.com/asset/images/tv/celestial_classic_movies.jpg" group-title="Hong Kong香港",邵氏经典2
+http://106.53.212.251/daili/youku.php?id=8022364
 # http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=%E5%A4%A9%E6%98%A0%E7%B6%93%E5%85%B8
 # http://live.crhoy.ml:8080/Yucuanli/Yucuanli/160
 #EXTINF:-1 tvg-id="MYM.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/Mei_Ah_Movies_Channel_logo.png/220px-Mei_Ah_Movies_Channel_logo.png" group-title="Hong Kong香港",美亞電影台
@@ -157,26 +161,27 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 # http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="Taiwan台湾",民視
-http://p06.iptv2asia.com:18888/http/012
-# http://seb.sason.top/ptv/ftv.php?id=ms
+# http://p06.iptv2asia.com:18888/http/012
+http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="MS1.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="Taiwan台湾",民視第一
-http://p06.iptv2asia.com:18888/http/014
-# http://seb.sason.top/ptv/ftv.php?id=dy
+# http://p06.iptv2asia.com:18888/http/014
+http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1 tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="Taiwan台湾",民視新聞
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/32/TTV_2nd_logo.svg/200px-TTV_2nd_logo.svg.png" group-title="Taiwan台湾",台视
 http://p06.iptv2asia.com:18888/http/001?dsjtv.m3u8
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Taiwan台湾",台視新聞
-http://p06.iptv2asia.com:18888/http/004
-# http://seb.sason.top/sc/tsxw_fhd.m3u8
+# http://p06.iptv2asia.com:18888/http/004
+http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/22/CTV_text.png/200px-CTV_text.png" group-title="Taiwan台湾",中视
-http://p06.iptv2asia.com:18888/http/005?dsjtv.m3u8
+http://live5.ocnttv.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+# http://p06.iptv2asia.com:18888/http/005?dsjtv.m3u8
 #EXTINF:-1 tvg-id="ZSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Taiwan台湾",中視新聞
-http://p06.iptv2asia.com:18888/http/006
-# http://seb.sason.top/sc/zsxw_fhd.m3u8
+# http://p06.iptv2asia.com:18888/http/006
+http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="HSX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png" group-title="Taiwan台湾",華視新聞
-http://p06.iptv2asia.com:18888/http/010
-# http://seb.sason.top/sc/hsxw_fhd.m3u8
+# http://p06.iptv2asia.com:18888/http/010
+http://seb.sason.top/sc/hsxw_fhd.m3u8
 # EXTINF:-1 tvg-id="ZTZ.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="Taiwan台湾",中天綜合
 # http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 # EXTINF:-1 tvg-id="ZTL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="Taiwan台湾",中天娛樂
@@ -362,10 +367,12 @@ http://103.47.132.164/PLTV/88888888/224/3221227263/index.m3u8
 #EXTINF:-1 tvg-id="BBM.TW" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Movies电影",黑莓电影
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 tvg-id="DSM.TW" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png" group-title="Movies电影",东森电影
-http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+# http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 # http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 #EXTINF:-1 tvg-id="DSE.TW" tvg-logo="https://emovie.ebc.net.tw/upload/emovie/img/logoes/mobile_logo.png" group-title="Movies电影",东森洋片
-http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+http://live5.ocnttv.com:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+# http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 # http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202451457.jpg" tvg-country="CN" tvg-url="" group-title="Movies电影",NewTV未来电视 动作电影
 http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
@@ -425,3 +432,7 @@ http://62.210.127.217:8080/snwYC0SQEg/rAh0q9pwwq/28704?play_token=VJqCzLgNIO&tok
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/272.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC3延时
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Test测试",欧美电影1
+http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Test测试",中文电影1
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
