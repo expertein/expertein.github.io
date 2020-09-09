@@ -418,16 +418,6 @@ http://191.101.44.238/ab.php?caonima&play&line=tangyuan&vkeys=dmlkJTNEdWJsaXZlJT
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC3
 http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10295
 
-#EXTINF:-1 tvg-ID="FST.CN" tvg-logo="https://bkimg.cdn.bcebos.com/pic/4e4a20a4462309f78625878e750e0cf3d6cad6e7?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="Test测试",五星体育
-http://140.207.241.2:8080/live/program/live/ssty/2300000/mnf.m3u8
-#EXTINF:-1 tvg-ID="XSJ.CN" tvg-logo="http://www.nowqiu.com/storage/live/Y6QNeV13mt8VfdJSYnqYiyJSQe0eiG8Nt2GTOcXU.jpeg" group-title="Test测试",新视觉
-http://140.207.241.2:8080/live/program/live/xsjhd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-ID="XSJ2.CN" tvg-logo="http://www.nowqiu.com/storage/live/Y6QNeV13mt8VfdJSYnqYiyJSQe0eiG8Nt2GTOcXU.jpeg" group-title="Test测试",新视觉测试
-https://raw.githubusercontent.com/expertein/expertein.github.io/master/token/XSJ.m3u8
-#EXTINF:-1 tvg-ID="JBT.CN" tvg-logo="http://photocdn.sohu.com/20120529/Img344336334.jpg" group-title="Test测试",劲爆体育
-http://140.207.241.2:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
-#EXTINF:-1 tvg-ID="GDT.CN" tvg-logo="https://bkimg.cdn.bcebos.com/pic/a1ec08fa513d2697eee451305afbb2fb4316d8ac?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="Test测试",广东体育
-https://nclive.grtn.cn/typd/sd/live.m3u8?_upt=6c00f54d1594543200
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/220px-Disney_channel_2019.png" group-title="Test测试",Disney
 http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
 #EXTINF:-1 tvg-id="PEP.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/5f/Peppa_Pig_%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87.png/280px-Peppa_Pig_%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87.png" group-title="Test测试",小猪佩奇
