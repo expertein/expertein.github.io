@@ -432,6 +432,9 @@ http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVUVIKClMG
 
 #EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",Stephen Chow周星驰
 http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-492-0721-0240-59427_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1599882665&vkey=
+#EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",Stephen Chow周星驰
+http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-492-0721-0240-59427_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1599882665&vkey=
+
 
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/220px-Disney_channel_2019.png" group-title="Test测试",Disney
 http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
