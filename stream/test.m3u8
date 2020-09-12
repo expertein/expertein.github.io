@@ -107,7 +107,8 @@ http://tv.sason.xyz/proxy/tvb.php?id=xw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/7a/I-CABLE_Finance.png/220px-I-CABLE_Finance.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",有線財經資訊台
 http://livetv.dnsfor.me/channel.6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台1
-http://app.xhzb.tw:5444/dl/xg.m3u8?id=jade&tm=1599724261&key=83922dd828554f2da2802838238015aa
+http://ws.matchupstream.tuboshu.com/live/4fe4abd873fc4dac987d12f3efc8d5b3.flv
+# http://app.xhzb.tw:5444/dl/xg.m3u8?id=jade&tm=1599724261&key=83922dd828554f2da2802838238015aa
 # http://61.238.6.49:8000/bysid/1
 # http://live.crhoy.ga:8080/fhtv/lianyou2010/1
 # http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -133,7 +134,8 @@ http://m.567it.com/Pearl.m3u8
 # http://183.179.246.16:9981/stream/channelid/2125106412
 # http://nb.iptv88888.xyz/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB J2
-http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=TVB_J2_2
+http://ws.matchupstream.tuboshu.com/live/537c2fc1212e4c4e8e72ee583e04577c.flv
+# http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=TVB_J2_2
 # http://61.238.6.49:8001/bysid/82
 # http://ff13.apps8888.com/live/392/5d75d5f8fcef0ac297c82e567739ccb3/index.m3u8
 # http://live.crhoy.ml:8080/Yucuanli/Yucuanli/8
@@ -428,16 +430,23 @@ http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMW
 http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10295
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC4
 # http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVAVQNCQBaBQNRAwYOBQ1SUV4HBAAHC1dUV1ICWg0FBwFBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwRUVA5VWxQRRlwGRlkWVwQHUlwaFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDgpUQR4QVl8RVkJGTxFcQ3s9QRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBEBIQVkHS2gAClZXBgBGW1peFxoMFgMDVkMaRg5XXV9BDRY8RA9XFVlHCQFTVAIQSA==
-http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVUVIKClMGAlAAAl0PVFdVAFJXAVZXCVdSUFIAVABXVlNBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwtXVAFTUxQRRlwGRlkWVQIBUEcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJTDA5BTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEHF05GDlUebFQMC1ZcABdbXVtDRgIUAQYDRE0UCQxWWkJaEDsTXQIRDUFUAAlUUxBP
+# http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVUVIKClMGAlAAAl0PVFdVAFJXAVZXCVdSUFIAVABXVlNBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwtXVAFTUxQRRlwGRlkWVQIBUEcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJTDA5BTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEHF05GDlUebFQMC1ZcABdbXVtDRgIUAQYDRE0UCQxWWkJaEDsTXQIRDUFUAAlUUxBP
+http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVAgBdClBXUFBQVlQBVA1VAAQFDgdWXVUFUwFdWg1SB1VBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwpWUgBcVRQRRlwGRlkWVAQHU1caFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDg9QQR4QVl8RVkJGTxFcQ3s9QRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBEBIQVkHS2gAClZXBgBGW1peFxoMFgcGVlEUSEFVXFhcFgsRaxZaU0FfGghbUwUCF00=
 
 #EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",Stephen Chow周星驰
 http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-492-0721-0240-59427_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1599882665&vkey=
-#EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",Stephen Chow周星驰
-http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-492-0721-0240-59427_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1599882665&vkey=
+#EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",ClassicHK经典港片
+http://hlslive.video.iqiyi.com/tslive/c20_lb_yueyuyuansheng_1080p_t5/c20_lb_yueyuyuansheng_1080p_t5.m3u8?pv=0.2&qd_tvid=1497342825580323&qd_vipres=0&qd_scc=446c711dd66c5b99bc139041144d812a&qd_sc=6e3af3a4438f4f80f9046e077191404f&qd_src=03020031010000000000&qd_ip=c097d6bb&qd_uid=0&qd_tm=1599905963939&qd_vip=0
 
-
+#EXTINF:-1 tvg-id="PEP.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/5f/Peppa_Pig_%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87.png/280px-Peppa_Pig_%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87.png" group-title="Test测试",小猪佩奇
+http://hlslive.video.ptqy.gitv.tv/tslive/c16_lb_xiaozhupeiqi_1080p_t5/c16_lb_xiaozhupeiqi_1080p_t5.m3u8?pv=0.2&qd_src=ih5&qd_tm=1599904919385&qd_ip=115.164.171.32&qd_sc=2b63b328992006616f1aad8ce99d3def
+#EXTINF:-1 tvg-id="SCZ.CN" tvg-logo=“http://pic.616pic.com/ys_b_img/00/44/76/IUJ3YQSjx1.jpg" group-title="Test测试",蜡笔小新
+http://hlslive.video.ptqy.gitv.tv/tslive/c15_lb_labixiaoxin_1080p_t5/c15_lb_labixiaoxin_1080p_t5.m3u8?pv=0.2&qd_src=ih5&qd_tm=1599905083330&qd_ip=115.164.171.32&qd_sc=b115174e3a1a583af462ec3499050211
+#EXTINF:-1 tvg-id="TNJ.CN" tvg-logo=“https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/TomandJerryTitleCardc.jpg/220px-TomandJerryTitleCardc.jpg" group-title="Test测试",猫和老鼠
+http://hlslive.video.ptqy.gitv.tv/tslive/c17_lb_maohelaoshu_1080p_t5/c17_lb_maohelaoshu_1080p_t5.m3u8?pv=0.2&qd_src=ih5&qd_tm=1599905331212&qd_ip=115.164.171.32&qd_sc=8c3a68a0747014649ad822484e1d81ce
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/220px-Disney_channel_2019.png" group-title="Test测试",Disney
 http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
+
 #EXTINF:-1 tvg-id="DAN.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Test测试",求索动物
 http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="DSC.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/250px-Science_Channel_2016.png" group-title="Test测试",求索科学
