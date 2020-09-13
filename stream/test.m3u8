@@ -107,9 +107,9 @@ http://tv.sason.xyz/proxy/tvb.php?id=xw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/7a/I-CABLE_Finance.png/220px-I-CABLE_Finance.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",有線財經資訊台
 http://livetv.dnsfor.me/channel.6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台1
-http://ws.matchupstream.tuboshu.com/live/4fe4abd873fc4dac987d12f3efc8d5b3.flv
-# http://app.xhzb.tw:5444/dl/xg.m3u8?id=jade&tm=1599724261&key=83922dd828554f2da2802838238015aa
+http://tt.qwtvweb.xyz/qwtv582.php?id=14
 # http://61.238.6.49:8000/bysid/1
+# http://app.xhzb.tw:5444/dl/xg.m3u8?id=jade&tm=1599724261&key=83922dd828554f2da2802838238015aa
 # http://live.crhoy.ga:8080/fhtv/lianyou2010/1
 # http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 # http://live.crhoy.ml:8080/Yucuanli/Yucuanli/1
@@ -134,9 +134,8 @@ http://m.567it.com/Pearl.m3u8
 # http://183.179.246.16:9981/stream/channelid/2125106412
 # http://nb.iptv88888.xyz/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB J2
-http://ws.matchupstream.tuboshu.com/live/537c2fc1212e4c4e8e72ee583e04577c.flv
+http://61.238.6.49:8001/bysid/82
 # http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=TVB_J2_2
-# http://61.238.6.49:8001/bysid/82
 # http://ff13.apps8888.com/live/392/5d75d5f8fcef0ac297c82e567739ccb3/index.m3u8
 # http://live.crhoy.ml:8080/Yucuanli/Yucuanli/8
 # http://ws.matchupstream.tuboshu.com/live/baee64ed95a56083a87c6afaf3e53a3c.flv
@@ -183,7 +182,8 @@ http://p06.iptv2asia.com:18888/http/001?dsjtv.m3u8
 # http://p06.iptv2asia.com:18888/http/004
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/22/CTV_text.png/200px-CTV_text.png" group-title="Taiwan台湾",中视
-http://live5.ocnttv.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+http://cdn.52ypp.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+# http://live5.ocnttv.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 # http://p06.iptv2asia.com:18888/http/005?dsjtv.m3u8
 #EXTINF:-1 tvg-id="ZSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Taiwan台湾",中視新聞
 # http://p06.iptv2asia.com:18888/http/006
@@ -196,8 +196,8 @@ http://seb.sason.top/sc/hsxw_fhd.m3u8
 # EXTINF:-1 tvg-id="ZTL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="Taiwan台湾",中天娛樂
 # http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="Taiwan台湾",中天新聞
-http://live5.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-# http://seb.sason.top/sc/ztxw_fhd.m3u8
+# http://live5.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="SLX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="Taiwan台湾",三立新聞
 http://seb.sason.top/sc/sllive_fhd.m3u8
 # http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
@@ -429,9 +429,10 @@ http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMW
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC3
 http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10295
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC4
+http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVVwEBXFoFAwtTUgFeBlFUAF5WAlVRWwZQAVJUWlEAC1FBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwpeVg5XVxQRRlwGRlkWUAYFUUcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJTDgBBTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEHF05GDlUebFQMC1ZcABdbXVtDRgIUBQMDVkMaRg5XXV9BDRY8RA9XFVlHCwtTWwYQSA==
 # http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVAVQNCQBaBQNRAwYOBQ1SUV4HBAAHC1dUV1ICWg0FBwFBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwRUVA5VWxQRRlwGRlkWVwQHUlwaFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDgpUQR4QVl8RVkJGTxFcQ3s9QRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBEBIQVkHS2gAClZXBgBGW1peFxoMFgMDVkMaRg5XXV9BDRY8RA9XFVlHCQFTVAIQSA==
 # http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVUVIKClMGAlAAAl0PVFdVAFJXAVZXCVdSUFIAVABXVlNBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwtXVAFTUxQRRlwGRlkWVQIBUEcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJTDA5BTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEHF05GDlUebFQMC1ZcABdbXVtDRgIUAQYDRE0UCQxWWkJaEDsTXQIRDUFUAAlUUxBP
-http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVAgBdClBXUFBQVlQBVA1VAAQFDgdWXVUFUwFdWg1SB1VBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwpWUgBcVRQRRlwGRlkWVAQHU1caFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDg9QQR4QVl8RVkJGTxFcQ3s9QRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBEBIQVkHS2gAClZXBgBGW1peFxoMFgcGVlEUSEFVXFhcFgsRaxZaU0FfGghbUwUCF00=
+# http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVAgBdClBXUFBQVlQBVA1VAAQFDgdWXVUFUwFdWg1SB1VBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwpWUgBcVRQRRlwGRlkWVAQHU1caFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDg9QQR4QVl8RVkJGTxFcQ3s9QRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBEBIQVkHS2gAClZXBgBGW1peFxoMFgcGVlEUSEFVXFhcFgsRaxZaU0FfGghbUwUCF00=
 
 #EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",ClassicHK经典港片
 http://hlslive.video.iqiyi.com/tslive/c20_lb_yueyuyuansheng_1080p_t5/c20_lb_yueyuyuansheng_1080p_t5.m3u8?pv=0.2&qd_tvid=1497342825580323&qd_vipres=0&qd_scc=446c711dd66c5b99bc139041144d812a&qd_sc=6e3af3a4438f4f80f9046e077191404f&qd_src=03020031010000000000&qd_ip=c097d6bb&qd_uid=0&qd_tm=1599905963939&qd_vip=0
