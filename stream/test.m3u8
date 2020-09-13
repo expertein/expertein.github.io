@@ -436,12 +436,6 @@ http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVAgBdClBX
 #EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",ClassicHK经典港片
 http://hlslive.video.iqiyi.com/tslive/c20_lb_yueyuyuansheng_1080p_t5/c20_lb_yueyuyuansheng_1080p_t5.m3u8?pv=0.2&qd_tvid=1497342825580323&qd_vipres=0&qd_scc=446c711dd66c5b99bc139041144d812a&qd_sc=6e3af3a4438f4f80f9046e077191404f&qd_src=03020031010000000000&qd_ip=c097d6bb&qd_uid=0&qd_tm=1599905963939&qd_vip=0
 
-#EXTINF:-1 tvg-id="PEP.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/5f/Peppa_Pig_%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87.png/280px-Peppa_Pig_%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87.png" group-title="Test测试",小猪佩奇
-http://hlslive.video.ptqy.gitv.tv/tslive/c16_lb_xiaozhupeiqi_1080p_t5/c16_lb_xiaozhupeiqi_1080p_t5.m3u8?pv=0.2&qd_src=ih5&qd_tm=1599904919385&qd_ip=115.164.171.32&qd_sc=2b63b328992006616f1aad8ce99d3def
-#EXTINF:-1 tvg-id="SCZ.CN" tvg-logo=“http://pic.616pic.com/ys_b_img/00/44/76/IUJ3YQSjx1.jpg" group-title="Test测试",蜡笔小新
-http://hlslive.video.ptqy.gitv.tv/tslive/c15_lb_labixiaoxin_1080p_t5/c15_lb_labixiaoxin_1080p_t5.m3u8?pv=0.2&qd_src=ih5&qd_tm=1599905083330&qd_ip=115.164.171.32&qd_sc=b115174e3a1a583af462ec3499050211
-#EXTINF:-1 tvg-id="TNJ.CN" tvg-logo=“https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/TomandJerryTitleCardc.jpg/220px-TomandJerryTitleCardc.jpg" group-title="Test测试",猫和老鼠
-http://hlslive.video.ptqy.gitv.tv/tslive/c17_lb_maohelaoshu_1080p_t5/c17_lb_maohelaoshu_1080p_t5.m3u8?pv=0.2&qd_src=ih5&qd_tm=1599905331212&qd_ip=115.164.171.32&qd_sc=8c3a68a0747014649ad822484e1d81ce
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/220px-Disney_channel_2019.png" group-title="Test测试",Disney
 http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
 
