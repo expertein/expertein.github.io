@@ -383,7 +383,9 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="" group-title="Movies电影",MBC Max HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 #EXTINF:-1 tvg-id="WSM.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f0/Star_chinese_movies_2012.png/200px-Star_chinese_movies_2012.png" group-title="Movies电影",卫视电影
-http://103.47.132.165/PLTV/88888888/224/3221227147/3.m3u8
+http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/11982
+# http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/11983
+# http://103.47.132.165/PLTV/88888888/224/3221227147/3.m3u8
 # http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
 #EXTINF:-1 tvg-id="XKI.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8d/Xing_Kong_Wei_Shi.jpg/250px-Xing_Kong_Wei_Shi.jpg" group-title="Movies电影",星空国际
 http://103.47.132.164/PLTV/88888888/224/3221227263/index.m3u8
@@ -419,7 +421,8 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC0
-http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=AEC2
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/272.m3u8
+# http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=AEC2
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC1
 http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=AEC
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC2
@@ -435,7 +438,9 @@ http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVVwEBXFoF
 # http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVAgBdClBXUFBQVlQBVA1VAAQFDgdWXVUFUwFdWg1SB1VBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwpWUgBcVRQRRlwGRlkWVAQHU1caFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDg9QQR4QVl8RVkJGTxFcQ3s9QRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBEBIQVkHS2gAClZXBgBGW1peFxoMFgcGVlEUSEFVXFhcFgsRaxZaU0FfGghbUwUCF00=
 
 #EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",ClassicHK经典港片
-http://hlslive.video.iqiyi.com/tslive/c20_lb_yueyuyuansheng_1080p_t5/c20_lb_yueyuyuansheng_1080p_t5.m3u8?pv=0.2&qd_tvid=1497342825580323&qd_vipres=0&qd_scc=446c711dd66c5b99bc139041144d812a&qd_sc=6e3af3a4438f4f80f9046e077191404f&qd_src=03020031010000000000&qd_ip=c097d6bb&qd_uid=0&qd_tm=1599905963939&qd_vip=0
+http://hlslive.video.iqiyi.com/tslive/c20_lb_yueyuyuansheng_1080p_t5/c20_lb_yueyuyuansheng_1080p_t5.m3u8?pv=0.2&qd_tvid=7682843677195023&qd_vipres=0&qd_scc=6ca04de871f59c761242874016638fb7&qd_sc=ea1084a82c44771375e105f6fd2a1705&qd_src=03020031010000000000&qd_ip=c097d6bb&qd_uid=0&qd_tm=1600075988647&qd_vip=0
+#EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",ClassicHK经典港片
+http://akmcdnoversea.inter.iqiyi.com/tslive/c18_lb_jingdianguangpian_1080p_t5/c18_lb_jingdianguangpian_1080p_t5.m3u8?key=069b225273b1274fb754c9539efdb91f&dis_k=58e7498e394bc91a28d0b6d6530afa8e&dis_t=1600075451&dis_dz=OVERSEA_TMNET-MY&dis_st=26&qd_uid=0&qd_tvid=8476987866419223&qd_ip=c097d6bb&qd_scc=bbdab1b6aed1795effdff3e77d924c11&qd_tm=1600075449257&qd_vip=0&qd_src=03020031010000000000&pv=0.2&qd_vipres=0&qd_sc=178120fa33ae6df5dd9cafa6ab3cdcd3&dis_dx=1
 
 #EXTINF:-1 tvg-id="DIS.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/220px-Disney_channel_2019.png" group-title="Test测试",Disney
 http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
