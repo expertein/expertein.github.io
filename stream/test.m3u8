@@ -430,7 +430,8 @@ http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunkl
 http://tv.nknews.org/tvhls/stream.m3u8
 
 #EXTINF:-1 tvg-ID="FOX.Asia" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="Movies电影",Fox Action Movies 
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+# http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 # http://103.47.132.164/PLTV/88888888/224/3221227121/index.m3u8
 #EXTINF:-1 tvg-id="PAN.CA" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies电影",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
@@ -521,7 +522,8 @@ http://lb4.afrostreamtv.online:25461/M4uzYQ1cuG/rYPeX9wRwT/2267?token=SRNfB0RcGg
 # http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10295
 # http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10295
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC4
-http://afrostreamtv.online:2052/M4uzYQ1cuG/rYPeX9wRwT/2267
+http://lb4.afrostreamtv.online:25461/M4uzYQ1cuG/rYPeX9wRwT/2267?token=SRNfB0RcGg9GV14BUABQCABWAQRfVABUDVcCUlJRAwRTAQVTUVVZDVYWShoXFRRVVQw6CAJBCAQLBQRIEkJCVEBuXgIVDhoEXQJQGkhDEllZBEdbV1UCBgAHAFIGBB0TQlhTRA0WDQVSAEQURgQeRFETCwAKPFZTT1pQARINX0ReXRtEWFpnUQFZB1YAQ1wSBENJQw8QQhQDXUYIXBsTU1tFRQdDURoPRgVQD1BDShJXDhAPEhFLFAMRfj0SGxNUSkVSCERdV1tGDkRMF0NKEl0SOhMDEEZEXFJeAUIVCxMDExtEWlVAagdbCFYBAhJZWw8WQ1xBAwMJAxFIElpeX1tFWBRoRFFRRg5EDlJYURJJ
+# http://afrostreamtv.online:2052/M4uzYQ1cuG/rYPeX9wRwT/2267
 # http://50.7.136.122:25461/M4uzYQ1cuG/rYPeX9wRwT/10295?token=TRcKBRBcRAkVVAAKCQcHAAAACAEKAAQOAVEEUwFUXVcCVAMFB1VSVlJBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVZRGhVBF1tfUBJeCQAEBgVfVwNdURQRRlwGRlkWXgMDUUcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJTDgBBTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEGF05GDlUebFQMC1ZcABdbXVtDRgIUBQMDVkMaRg5XXV9BDRY8RA9XFVlHCwtTWwYQSA==
 # http://50.7.136.122:25461/M4uzYQ1cuG/rYPeX9wRwT/10295?token=TRcKBRBcRAkVWlAKCwUBUwUMUQJdA1cGBVNUA1cFWlEAVFZUAgBeB1JBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVZRGhVBF1tfUBJeCQAEBgZfVQVVUhQRRlwGRlkWUAEAVkcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJTDglBTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEGF05GDlUebFQMC1ZcABdbXVtDRgIUBQMDVkMaRg5XXV9BDRY8RA9XFVlHCwtTWwYQSA==
 # http://50.7.136.122:25461/M4uzYQ1cuG/rYPeX9wRwT/10295?token=TRcKBRBcRAkVUFANDVtVBAtXU1daAgxTCgUCVwdVCVEPUwQAAgFTVgNBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVZRGhVBF1tfUBJeCQAEBgZWUA9SUxQRRlwGRlkWUAUBVkcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJSCAhBTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEGF05GDlUebFQMC1ZcABdbXVtDRgIUBQMDVkMaRg5XXV9BDRY8RA9XFVlHCwtTWwYQSA==
