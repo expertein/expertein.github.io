@@ -88,7 +88,8 @@ http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 # http://tlive.fengshows.cn/live/222pin72.flv?txSecret=58b79070cbf7e6de850f90290e931eca&txTime=5f573d93
 # http://live5.ocnttv.com:8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD3
-http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+# http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 # http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD4
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
@@ -125,10 +126,10 @@ http://61.238.6.49:8000/bysid/1
 http://m.567it.com/jade.m3u8
 # http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台3
-# http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 # http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 # http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+# http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 # http://pullstream-ucan.speedws.com/live/f8385f629b558e460a34593e8f9b6d39.flv
 # http://119.167.217.35/tx.hls.nimo.tv/live/su1596787262a2e8451449cff0746c7b4b46c00c58ed.flv
@@ -198,7 +199,8 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 # http://p06.iptv2asia.com:18888/http/004
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/22/CTV_text.png/200px-CTV_text.png" group-title="Taiwan台湾",中视
-http://cdn.52ypp.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=%E4%B8%AD%E8%A7%862
+# http://cdn.52ypp.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 # http://live5.ocnttv.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 # http://p06.iptv2asia.com:18888/http/005?dsjtv.m3u8
 #EXTINF:-1 tvg-id="ZSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Taiwan台湾",中視新聞
@@ -396,7 +398,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d9
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CBN.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CBSN_channel_Logo.png/200px-CBSN_channel_Logo.png" group-title="WorldNews国际新闻",CBSN NEWS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="BBC.UK" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="WorldNews国际新闻",BBC NEWS
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="WorldNews国际新闻",BBC World News 1
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#EXTINF:-1 tvg-id="BBC.UK" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="WorldNews国际新闻",BBC World News 2
 http://51.52.156.22:8888/http/004
 # http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/807.m3u8
 # http://iptv1.privateiptv.club:80/random-robbie/random-robbie/808
@@ -464,7 +472,8 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="" group-title="Movies电影",MBC Max HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 #EXTINF:-1 tvg-id="WSM.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f0/Star_chinese_movies_2012.png/200px-Star_chinese_movies_2012.png" group-title="Movies电影",卫视电影
-http://50.7.136.122:25461/M4uzYQ1cuG/rYPeX9wRwT/11982?token=TRcKBRBcRAkVVwNZD1tXVAQCCQIMAFZXB18CBAEBXgcFDFoBAAJTBA5BSRpKFxFXU1hvDVwUDgcCX1kESEFNQFNHPQ0HFlwRBVZRGhVBF1tfUBJeCQAEBgVfVgZWUhQRRlwGRlkWXwEOUEcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJSDQlBTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEGF05GDlUebFQMC1ZcABdbXVtDRgIUBQMDVkMaRg5XXV9BDRY8RA9XFVlHCg9RVhBP
+http://58.99.33.2:1935/liveedge2/qAfzPKGT_61_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf&aa=1229999&as=2018&dr=&mmmm=&cust_type=NEW
+# http://50.7.136.122:25461/M4uzYQ1cuG/rYPeX9wRwT/11982?token=TRcKBRBcRAkVVwNZD1tXVAQCCQIMAFZXB18CBAEBXgcFDFoBAAJTBA5BSRpKFxFXU1hvDVwUDgcCX1kESEFNQFNHPQ0HFlwRBVZRGhVBF1tfUBJeCQAEBgVfVgZWUhQRRlwGRlkWXwEOUEcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJSDQlBTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEGF05GDlUebFQMC1ZcABdbXVtDRgIUBQMDVkMaRg5XXV9BDRY8RA9XFVlHCg9RVhBP
 # http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/11982
 # http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/11982
 # http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/11983
@@ -559,8 +568,7 @@ http://tvku.live:8888/live/Tegarnyoto1/12345678/4264.m3u8
 http://tvku.live:8888/live/Tegarnyoto1/12345678/4266.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AOD3505
 http://tvku.live:8888/live/Tegarnyoto1/12345678/4267.m3u8
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AOD3506
-http://vp2p2s.my6868.cc/20419/index.m3u8?auth_key=1601284433-21021556-0-c52a479a7a4b4f285d7bc285cdf6077b
+
 
 
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",欢喜3331
@@ -572,8 +580,11 @@ http://iptvtree.net:8080/live/Line1045/004d6ac6/157513.m3u8
 http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=bziptv_4k_ai_qiyi_0
 
 
-#EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",ClassicHK经典港片
+#EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",ClassicHK经典港片1
 http://520574.xyz/dl/youku.php?id=8019006
+#EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",ClassicHK经典港片2
+http://120.232.157.72:448/15013_xv_1353059120_1353059120_0_0_0-15013_xa_1353059120_1353059120_0_0_0-0-0.m3u8?uuid=f3271d7d33084655aa19b5a9dc6439fc&org=web&m=1ecaa4cd2a58f30cb2497e0f00ba1b89&r=414424141&v=1&t=1601368807&uid=0
+
 
 #EXTINF:-1 tvg-id="DAN.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Test测试",求索动物
 http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
