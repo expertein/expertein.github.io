@@ -534,6 +534,45 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 #EXTINF:-1 tvg-ID="RAC.AU" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="Sport体育",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
+#EXTINF:-1 tvg-ID="IQD.CN" tvg-logo="" group-title="爱频道",爱奇谈
+http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IXY.CN" tvg-logo="" group-title="爱频道",爱悬疑
+http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IXJ.CN" tvg-logo="" group-title="爱频道",爱喜剧
+http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IJD.CN" tvg-logo="" group-title="爱频道",爱经典
+http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IDM.CN" tvg-logo="" group-title="爱频道",爱动漫
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IMS.CN" tvg-logo="" group-title="爱频道",爱美食
+http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IJM.CN" tvg-logo="" group-title="爱频道",爱解密
+http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IDJ.CN" tvg-logo="" group-title="爱频道",爱电竞
+http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IDS.CN" tvg-logo="" group-title="爱频道",爱都市
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IYJ.CN" tvg-logo="" group-title="爱频道",爱幼教
+http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IKH.CN" tvg-logo="" group-title="爱频道",爱科幻
+http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IJH.CN" tvg-logo="" group-title="爱频道",爱江湖
+http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="ILM.CN" tvg-logo="" group-title="爱频道",爱浪漫
+http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IYX.CN" tvg-logo="" group-title="爱频道",爱院线
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IWJ.CN" tvg-logo="" group-title="爱频道",爱玩具
+http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="ISS.CN" tvg-logo="" group-title="爱频道",爱时尚
+http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="IJW.CN" tvg-logo="" group-title="爱频道",爱军武
+http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="ILS.CN" tvg-logo="" group-title="爱频道",爱历史
+http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-ID="ISJ.CN" tvg-logo="" group-title="爱频道",爱世界
+http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC0
 http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=AEC2
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC1
