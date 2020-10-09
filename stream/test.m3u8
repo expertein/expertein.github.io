@@ -76,8 +76,6 @@ http://39.130.206.213:6410/gitv_live/BTV-1/BTV-1.m3u8
 # http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a2/FSTV_Logo_since_2009.png/230px-FSTV_Logo_since_2009.png" group-title="China卫视",佛山電視台
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
-#EXTINF:-1 tvg-ID="HQD.CN" tvg-logo="http://www.tvyan.com/uploads/dianshi/utv.jpg" group-title="China卫视",环球电视台
-http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD1
 http://220.158.149.26:8182/hls/TV00000000000000000138@HHZT.m3u8
@@ -248,9 +246,7 @@ https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/ntv7.png" group-title="Malaysia马来西亚",NTV7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 # http://freeview.mywire.org:9090/streams/ntv7.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
-#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
+#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路
 https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv9.png" group-title="Malaysia马来西亚",TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
@@ -597,42 +593,6 @@ http://39.134.176.253/PLTV/88888888/224/3221226819/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
 # http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",炫佳动漫
-http://gqys.lbcl01.cibn.cc/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?k=19efbca873f2e14db6bbc577ae8eb823&channel=xlmediawatch&t=1602055068&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",怡家
-http://gqys.lbcl01.cibn.cc/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?k=19efbca873f2e14db6bbc577ae8eb823&channel=xlmediawatch&t=1602055068&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",真人秀
-http://gqys.lbcl02.cibn.cc/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?k=6d6348c65d53b51fa780ef12bd0ab4e9&channel=xlmediawatch&t=1602055438&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",骄阳剧场
-http://gqys.lbcl01.cibn.cc/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?k=6d6348c65d53b51fa780ef12bd0ab4e9&channel=xlmediawatch&t=1602055438&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",时尚生活
-http://gqys.lbcl01.cibn.cc/hls/vCIBNSSSH/1800/vCIBNSSSH.m3u8?k=6d6348c65d53b51fa780ef12bd0ab4e9&channel=xlmediawatch&t=1602055438&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",经典剧场
-http://gqys.lbcl02.cibn.cc/hls/vCIBNJCJD/1800/vCIBNJCJD.m3u8?k=6d6348c65d53b51fa780ef12bd0ab4e9&channel=xlmediawatch&t=1602055438&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",朵丫乐园
-http://gqys.lbcl01.cibn.cc/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?k=6d6348c65d53b51fa780ef12bd0ab4e9&channel=xlmediawatch&t=1602055438&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",映画
-http://gqys.lbcl02.cibn.cc/hls/vCIBNHGPD/1800/vCIBNHGPD.m3u8?k=6d6348c65d53b51fa780ef12bd0ab4e9&channel=xlmediawatch&t=1602055438&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",古装剧场
-http://gqys.lbcl01.cibn.cc/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?k=c68221534d6c96b9056c89e1a10f01a1&channel=xlmediawatch&t=1602055762&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",纪录片
-http://gqys.lbcl01.cibn.cc/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?k=c68221534d6c96b9056c89e1a10f01a1&channel=xlmediawatch&t=1602055762&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",全电竞
-http://gqys.lbcl01.cibn.cc/hls/vCIBNVSPN/1800/vCIBNVSPN.m3u8?k=b920a4f150e29c22ffe50e7fbbe85da8&channel=xlmediawatch&t=1602055852&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",风尚运动
-http://gqys.lbcl01.cibn.cc/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?k=c68221534d6c96b9056c89e1a10f01a1&channel=xlmediawatch&t=1602055762&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",动漫剧场
-http://gqys.lbcl02.cibn.cc/hls/vCIBNDMJC/1800/vCIBNDMJC.m3u8?k=c68221534d6c96b9056c89e1a10f01a1&channel=xlmediawatch&t=1602055762&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",新知
-http://gqys.lbcl01.cibn.cc/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?k=42248b5d8b4c2bdb14994240f4be8862&channel=xlmediawatch&t=1602056488&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",微电影
-http://gqys.lbcl01.cibn.cc/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?k=42248b5d8b4c2bdb14994240f4be8862&channel=xlmediawatch&t=1602056488&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",综合
-http://gqys.lbcl02.cibn.cc/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?k=42248b5d8b4c2bdb14994240f4be8862&channel=xlmediawatch&t=1602056488&ttl=86400&type=3&videotype=loop
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://tripletreeglobalnetworks.com/wp-content/uploads/2019/09/2-350x184.png" tvg-country="CN" tvg-url="" group-title="CIBN新知",生活
-http://gqys.lbcl01.cibn.cc/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?k=9660d602d992db30bb6d37bdda095166&channel=xlmediawatch&t=1602056800&ttl=86400&type=3&videotype=loop
-
-
 # EXTINF:-1 tvg-ID="ESP.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/225px-ESPN_wordmark.svg.png" group-title="Sport体育",ESPN
 # https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
 # EXTINF:-1 tvg-ID="NBA.US" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="Sport体育",NBA TV
@@ -706,7 +666,8 @@ http://tvku.live:8888/live/8890378416/5092878139/4267.m3u8
 http://tvku.live:8888/live/8890378416/5092878139/4313.m3u8
 # http://tvku.live:8888/live/Tegarnyoto1/12345678/4313.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",欢喜3332
-http://skylogic.site:8080/Line1009/c48eb829/157513
+http://hotiptv.site:8080/test-a72351/df2e/157513
+# http://skylogic.site:8080/Line1009/c48eb829/157513
 # http://iptvtree.net:8080/live/Line1045/004d6ac6/157513.m3u8
 
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",爱奇艺3000
