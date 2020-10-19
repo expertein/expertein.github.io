@@ -141,7 +141,8 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 # http://pullstream-ucan.speedws.com/live/f8385f629b558e460a34593e8f9b6d39.flv
 # http://119.167.217.35/tx.hls.nimo.tv/live/su1596787262a2e8451449cff0746c7b4b46c00c58ed.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB星河
-http://m3u.area51iptv.site:7899/R31wH32olG/8ffUexmzZE/110189
+http://iptv-line.com:7899/cuscun-616041/mhe9gE3z1O/110189
+# http://m3u.area51iptv.site:7899/R31wH32olG/8ffUexmzZE/110189
 # http://iptv-iptv.cf/qq6491443.php?id=1079
 # http://50.7.136.122:25461/M4uzYQ1cuG/rYPeX9wRwT/10303?token=TRcKBRBcRAkVB1VdAVIFBAMHVgAIAAJTVVJUVAFTXlECDVZSAAJQBANBSRpKFxFXU1hvDVwUDgcDVVEFSEFNQFNHPQ0HFlwRBVZRGhVBF1tfUBJeCQAEBgVfVgFUVBQRRlwGRlkWVQEAVlUaFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDgxUQR4QVl8RVkJGTxFcQ3s9QRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBUBIQVkHS2gAClZXBgBGW1peFxoMFgcGVlEUSEFVXFhcFgsRaxZaU0FfGgpRUQIEF00=
 # http://link.iptvsubscription.org:7899/americoc.pedro2_mac/z5yagcFCgi/110189
@@ -520,6 +521,7 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #EXTINF:-1 tvg-id="BBM.TW" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Movies电影",黑莓电影
 http://39.134.176.253/PLTV/88888888/224/3221226755/index.m3u8
+# http://39.134.157.205/PLTV/88888888/224/3221225562/index.m3u8
 #EXTINF:-1 tvg-id="DSM.TW" tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/mobile_logo.png" group-title="Movies电影",东森电影
 http://iptv-iptv.cf/qq6491443.php?id=350
 # http://cdn.wakds.xyz/live/yy201808261314/yy201808261314/170.m3u8
@@ -691,7 +693,8 @@ http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110192?play_token=2648SdI
 # http://tvku.live:8888/live/8890378416/5092878139/4313.m3u8
 # http://tvku.live:8888/live/Tegarnyoto1/12345678/4313.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",欢喜3332
-http://hotiptv.site:8080/test-a72351/df2e/157513
+http://185.59.222.189:25461/sSnquTekjC/sRnkJCBXT2/110192?token=GRdRWUpbQV9BCltSUgEHAAUHAFUEAQtRUVBSAVNUDwlbBw0MCQVbVlYRFEQQFxAGVQxnD1YVCVACU1ULAk8aRBFQS2dQV0FfQQIPVFJbV1MWTRoSW1pWQwlSUgIDUggEUQILFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
+# http://hotiptv.site:8080/test-a72351/df2e/157513
 # http://skylogic.site:8080/Line1009/c48eb829/157513
 # http://iptvtree.net:8080/live/Line1045/004d6ac6/157513.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",欢喜3333
@@ -703,7 +706,7 @@ http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMW
 
 
 #EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",ClassicHK经典港片1
-http://b6sog11522.m.awhost.cn/php/huyatv.php?id=11342412
+http://pull.kktv8.com/livekktv/143960119.flv
 #EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",ClassicHK经典港片2
 http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-522-0711-1530-55255_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1602053837&vkey=
 # http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-581-0922-0211-03921_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1602053898&vkey=
