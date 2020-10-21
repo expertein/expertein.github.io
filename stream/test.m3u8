@@ -132,9 +132,10 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 http://m.567it.com/jade.m3u8
 # http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台3
+http://185.59.222.189:25461/live/angoh6667111ds1/ocujoGdt/110185.m3u8?token=GRdRWUpbQV9BUF5WBVJRAlIDDQRTVFJWClRSBAQHClVSU1hbClECVlYRFEQQFxAGVQxnD1YVCVACU1UKBU8aRBFQS2dQV0FfQQEIUlFXUFIWTRoSW1pWQwlTSBBAClwTWFtMVFUfQQAbR10UDQIOPFAETg9RUhFbXRYIXhxBV189UVxVWF0HR1kRCURPQQsQREMCCEdbX00RAQ1GQgJMVEAPV01VX09HAFxNCBcRG0EOQ2shEBsRBEsXAVxDCldfQA8bVQpGW0dPEVEVPBEHEEATXQdfUkFDCUFUEBxBVVAaalpXV10GBhdaVwgQQVhBBUMURF9YXQhHDBZtQApcE1hbTFRVTg==
 # http://iptv-iptv.cf/qq6491443.php?id=390
 # http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+# http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 # http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 # http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
@@ -247,7 +248,8 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="DA2.TW" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="Taiwan台湾",大愛2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="http://www.lifetv.org.tw/main/img/lifetv.png" group-title="Taiwan台湾",生命電視台
-http://61.216.67.119/lifetv/LTV1/playlist.m3u8
+http://210.209.3.1/live/973EAA2E-EEF7-7F3A-7105-17ECB9B1B77E.m3u8?fmt=x264_0K_ts&cpid=admin&sora=1&size=1280X720
+# http://61.216.67.119/lifetv/LTV1/playlist.m3u8
 # http://61.216.67.119/lifetv/LTV1/chunklist_w502591130.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv1.png" group-title="Malaysia马来西亚",TV1
@@ -474,7 +476,8 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="PAN.CA" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies电影",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 #EXTINF:-1 tvg-id="HLW.TW" tvg-logo="https://www.hollywood-hdtv.com/hhdtv_asset/images/H-small.png" group-title="Movies电影",Hollywood
-http://188.40.76.108:25461/mytv01/uSIRzmks51/59
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+# http://188.40.76.108:25461/mytv01/uSIRzmks51/59
 # http://iptv-iptv.cf/qq6491443.php?id=37
 # http://live4.ocnttv.com:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 # http://192.154.103.74:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
@@ -624,12 +627,14 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 http://iptv-iptv.cf/qq6491443.php?id=433
 # http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=AEC2
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC1
-http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110181?play_token=zxpGS6lPG0&token=GRdRWUpbQV9BBgBfWwcHBwAHAQVWUQMABgcFBQlXC1BQBQgKAQpbU1YRFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQACWg0OFBtDCgFBCRpQVFpATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFSVFUCQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCBFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJSUlAGQ0U=
+http://185.59.222.189:25461/sSnquTekjC/sRnkJCBXT2/110181?token=GRdRWUpbQV9BVwgAVVRXUQADXlEHVVIFAgEGAghbCQNRBQgPX1ZVU1oRFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQIPVFJbV1MWTRoSW1pWQwlSUgIDUQ8CUQQMFBtDCgFBCRpXVFtbUxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVg1EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUVsAVxob
+# http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110181?play_token=zxpGS6lPG0&token=GRdRWUpbQV9BBgBfWwcHBwAHAQVWUQMABgcFBQlXC1BQBQgKAQpbU1YRFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQACWg0OFBtDCgFBCRpQVFpATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFSVFUCQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCBFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJSUlAGQ0U=
 # http://m3u.area51iptv.site:7899/live/2mdXxLFl74/XVdt0YLz2x/110181.m3u8
 # http://iptv-iptv.cf/qq6491443.php?id=1073
 # http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=AEC
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC2
-http://hotiptv.site:8080/test-a72351/df2e/157508
+http://185.59.222.189:25461/live/angoh6667111ds1/ocujoGdt/110181.m3u8?token=GRdRWUpbQV9BBA9TV1EHWgFQC1MFVQFZUlBcAAUBDwFXAAANCVYAUgURFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQEIUlFXUFIWTRoSW1pWQwlTSBBAClwTWBcBDwwEQUlBVkASBhEMAlg+XANEXlAEEVkKR1wPFBMNW2ZcXF4CCwcRAkRSQU5BXRJIRAhZRg1fT0ZQWRdKUBZQGwIbAlVXVBEURAAMFw1AE0FECBVgJhFPRldIF11fEVxWVhsJQQhQRgBET0ELEGsTXRVGRVYAXgYWEApBCBNOF1RZQWwACg1dXQUXCg0NR0MCRAMVH0NeDApbRAxKbhJcXRoDEVBdVwUaGw==
+# http://hotiptv.site:8080/test-a72351/df2e/157508
 # http://m3u.area51iptv.site:7899/R31wH32olG/8ffUexmzZE/110181
 # http://iptvtree.net:8080/live/Line1045/004d6ac6/157508.m3u8
 # http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=AEC3
@@ -664,7 +669,8 @@ http://62.210.124.97:8080/ThvyEuEq0x/KabEVcFsC0/33253?play_token=rXHfszbzIx&toke
 # http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVAgBdClBXUFBQVlQBVA1VAAQFDgdWXVUFUwFdWg1SB1VBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwpWUgBcVRQRRlwGRlkWVAQHU1caFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDg9QQR4QVl8RVkJGTxFcQ3s9QRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBEBIQVkHS2gAClZXBgBGW1peFxoMFgcGVlEUSEFVXFhcFgsRaxZaU0FfGghbUwUCF00=
 
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AOD3501
-http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110194?play_token=fpU0mq4sJg&token=GRdRWUpbQV9BBgwAUFRXAQQDCwUKAlcDCwECBAgGWgRSVFgLXAMHAwERFEQQFxAGVQxnD1YVCVACU1ULBE8aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQACVQcKFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABBsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
+http://iptvtree.net:8080/live/12682/12bb8cc4/157516.m3u8
+# http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110194?play_token=fpU0mq4sJg&token=GRdRWUpbQV9BBgwAUFRXAQQDCwUKAlcDCwECBAgGWgRSVFgLXAMHAwERFEQQFxAGVQxnD1YVCVACU1ULBE8aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQACVQcKFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABBsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
 # http://188.40.76.108:25461/live/mytv01/uSIRzmks51/276.m3u8
 # http://tvku.live:8888/live/8890378416/5092878139/4262.m3u8
 # http://tvku.live:8888/live/Tegarnyoto1/12345678/4262.m3u8
@@ -688,7 +694,8 @@ http://tvku.live:8888/live/8890378416/5092878139/4267.m3u8
 
 
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",欢喜3331
-http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110192?play_token=2648SdIaCy&token=GRdRWUpbQV9BCwoDVwBUBw0CCgUCBAdXBQdTCglWXQIAVlgBAQIGB1URFEQQFxAGVQxnD1YVCVACU1ULAk8aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQ8JVwYMFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABBsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
+http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110192
+# http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110192?play_token=2648SdIaCy&token=GRdRWUpbQV9BCwoDVwBUBw0CCgUCBAdXBQdTCglWXQIAVlgBAQIGB1URFEQQFxAGVQxnD1YVCVACU1ULAk8aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQ8JVwYMFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABBsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
 # http://m3u.area51iptv.site:7899/live/2mdXxLFl74/XVdt0YLz2x/110192.m3u8
 # http://tvku.live:8888/live/8890378416/5092878139/4313.m3u8
 # http://tvku.live:8888/live/Tegarnyoto1/12345678/4313.m3u8
