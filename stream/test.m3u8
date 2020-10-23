@@ -88,8 +88,8 @@ http://sr13.douphy.com/hdfenghuangzx.m3u8
 # http://tlive.fengshows.cn/live/222pin72.flv?txSecret=58b79070cbf7e6de850f90290e931eca&txTime=5f573d93
 # http://live5.ocnttv.com:8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD3
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-# http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
+# http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 # http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD4
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
@@ -132,9 +132,8 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 http://m.567it.com/jade.m3u8
 # http://www.aclive.live/dvr/2ee368c0/5tg7hf6c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台3
-http://185.59.222.189:25461/live/angoh6667111ds1/ocujoGdt/110185.m3u8?token=GRdRWUpbQV9BUF5WBVJRAlIDDQRTVFJWClRSBAQHClVSU1hbClECVlYRFEQQFxAGVQxnD1YVCVACU1UKBU8aRBFQS2dQV0FfQQEIUlFXUFIWTRoSW1pWQwlTSBBAClwTWFtMVFUfQQAbR10UDQIOPFAETg9RUhFbXRYIXhxBV189UVxVWF0HR1kRCURPQQsQREMCCEdbX00RAQ1GQgJMVEAPV01VX09HAFxNCBcRG0EOQ2shEBsRBEsXAVxDCldfQA8bVQpGW0dPEVEVPBEHEEATXQdfUkFDCUFUEBxBVVAaalpXV10GBhdaVwgQQVhBBUMURF9YXQhHDBZtQApcE1hbTFRVTg==
 # http://iptv-iptv.cf/qq6491443.php?id=390
-# http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 # http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 # http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 # http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -617,8 +616,8 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
 # https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="Sport体育",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-# EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/150px-WWE_Logo.svg.png" group-title="Sport体育",WWE
-
+#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/150px-WWE_Logo.svg.png" group-title="Sport体育",WWE
+https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 #EXTINF:-1 tvg-ID="RAC.AU" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="Sport体育",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 # http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
@@ -694,7 +693,8 @@ http://tvku.live:8888/live/8890378416/5092878139/4267.m3u8
 
 
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",欢喜3331
-http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110192
+http://185.59.222.189:25461/live/alexgender121/z1ofHbue/110192.m3u8?token=GRdRWUpbQV9BCl5WW1sAVwFWWVBUAwoABAVUA1ZUDwNTDAEOXVdVXAARFEQQFxAGVQxnD1YVCVACU1ULAk8aRBFQS2dQV0FfQQEIUldXVVMWTRoSW1pWQwlTSBBAClwTWFtMVFUfQQAbR10UDQIOPFAETg9RUhFbXRYIXhxBV189UVxVWF0HR1kRCURPQQsQREMCCEdbX00RAQ1GQgJMVEAPV01VX09HAFxNCBcRG0EOQ3U/EBsRBEsXAVxDCldfQA8bVQpGW0dPEVEVPBEHEEATXQdfUkFDCUFUEBxBVVAaalpXV10GBhdaVwgQQVhBBUMURF9YXQhHDBZtQApcE1hbTFRVTg==
+# http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110192
 # http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110192?play_token=2648SdIaCy&token=GRdRWUpbQV9BCwoDVwBUBw0CCgUCBAdXBQdTCglWXQIAVlgBAQIGB1URFEQQFxAGVQxnD1YVCVACU1ULAk8aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQ8JVwYMFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABBsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
 # http://m3u.area51iptv.site:7899/live/2mdXxLFl74/XVdt0YLz2x/110192.m3u8
 # http://tvku.live:8888/live/8890378416/5092878139/4313.m3u8
