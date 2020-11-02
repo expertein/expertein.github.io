@@ -465,6 +465,8 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/250px-TRT_World_logo.svg.png" group-title="WorldNews国际新闻",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Makkal_TV_Logo.jpg" group-title="WorldNews国际新闻",மக்கள் தொலைக்காட்சி
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://icanlive.tv/pictures/sama-dubai-tv.jpg" group-title="WorldNews国际新闻",Sama Dubai
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/200px-Logo_of_the_Korean_Central_Television.svg.png" group-title="WorldNews国际新闻",朝鲜中央电视台
@@ -494,11 +496,11 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 Box TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-country="IR" tvg-url="" group-title="Movies电影",24 Box TV
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="" group-title="Movies电影",MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="" group-title="Movies电影",MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
 #EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="" group-title="Movies电影",MBC Max HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
 #EXTINF:-1 tvg-id="WSM.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f0/Star_chinese_movies_2012.png/200px-Star_chinese_movies_2012.png" group-title="Movies电影",卫视电影
 http://58.99.33.2:1935/liveedge2/qAfzPKGT_61_1/chunklist.m3u8?checkCode=37050688asdfsdfsadf&aa=1229999&as=2018&dr=&mmmm=&cust_type=NEW
 # http://50.7.136.122:25461/M4uzYQ1cuG/rYPeX9wRwT/11982?token=TRcKBRBcRAkVVwNZD1tXVAQCCQIMAFZXB18CBAEBXgcFDFoBAAJTBA5BSRpKFxFXU1hvDVwUDgcCX1kESEFNQFNHPQ0HFlwRBVZRGhVBF1tfUBJeCQAEBgVfVgZWUhQRRlwGRlkWXwEOUEcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJSDQlBTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEGF05GDlUebFQMC1ZcABdbXVtDRgIUBQMDVkMaRg5XXV9BDRY8RA9XFVlHCg9RVhBP
