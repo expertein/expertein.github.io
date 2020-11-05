@@ -14,7 +14,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
 # http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 # http://117.169.120.140:8080/live/cctv-3/.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-4 中文国际
-http://39.134.157.203/PLTV/88888888/224/3221225641/index.m3u8
+http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-4/index.m3u8?IAS
+# http://39.134.157.203/PLTV/88888888/224/3221225641/index.m3u8
 # http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=1
 # http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
 # http://117.169.120.140:8080/live/cctv-4/.m3u8
@@ -44,7 +45,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 # http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8
 # http://117.169.120.140:8080/live/cctv-10/.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-11 戏曲
-http://39.134.157.203/PLTV/88888888/224/3221225622/index.m3u8
+http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-11/index.m3u8?IAS=&IASHttpSessionId=OTT583020201105084807057263
+# http://39.134.157.203/PLTV/88888888/224/3221225622/index.m3u8
 # http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
 # http://117.169.120.140:8080/live/cctv-11/.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-12 社会与法制
@@ -57,7 +59,8 @@ http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 # http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-15 音乐
-http://39.134.157.199/PLTV/88888888/224/3221225610/index.m3u8
+http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-15/index.m3u8?IAS
+# http://39.134.157.199/PLTV/88888888/224/3221225610/index.m3u8
 # http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 tvg-id="C17.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV HD",CCTV-17 农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
@@ -267,8 +270,6 @@ https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8|Referer=https://www.
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv9.png" group-title="Malaysia马来西亚",TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 # http://freeview.mywire.org:9090/streams/tv9.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Malaysia马来西亚",AEC2延时
-http://188.40.76.108:25461/live/mytv01/uSIRzmks51/272.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Malaysia马来西亚",AEC3延时
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 
@@ -656,7 +657,8 @@ http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110181
 # http://191.101.44.238/ab.php?caonima&play&line=tangyuan&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MzM_
 # http://62.210.127.217:8080/snwYC0SQEg/rAh0q9pwwq/28704?play_token=VJqCzLgNIO&token=QhVcUhcJRggXXQAHBFJTAVMPUgAAVlYAVlUNVwQHUlcIVlZRAlQCBw1GGURBEkJRAFtpWgVEXlFdUwVVSkAXElxFa1oAQ14QA1cFXwZSEhhDQl9eBEReUlBdAVlfVFJYDxsWQw0FRggXVgdUClESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXBg1TFBoRAgkRDREWTENcQDEmGxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABUAgNUFEs=
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC3
-http://185.59.222.189:25461/live/huicailim1/ue1WB52R/110181.m3u8?token=GRdRWUpbQV9BBw0FAVZbAAUDAVMHUwVUUFdTUAUFWwRVUF9cCQBRBAARFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQEIUlpSW1AWTRoSW1pWQwlTSBBAClwTWFtMVFUfQQAbR10UDQIOPFAETg9RUhFbXRYIXhxBV189UVxVWF0HR1kRCURPQQsQREMCCEdbX00RAQ1GQgJMVEAPV01VX09HAFxNCBcRG0EOQ3U/EBsRBEsXAVxDCldfQA8bVQpGW0dPEVEVPBEHEEATXQdfUkFDCUFUEBxBVVAaalpXV10GBhdaVwgQQVhBBUMURF9YXQhHDBZtQApcE1hbTFRVTg==
+http://52.240.59.76/AEC_.m3u8
+# http://185.59.222.189:25461/live/huicailim1/ue1WB52R/110181.m3u8?token=GRdRWUpbQV9BBw0FAVZbAAUDAVMHUwVUUFdTUAUFWwRVUF9cCQBRBAARFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQEIUlpSW1AWTRoSW1pWQwlTSBBAClwTWFtMVFUfQQAbR10UDQIOPFAETg9RUhFbXRYIXhxBV189UVxVWF0HR1kRCURPQQsQREMCCEdbX00RAQ1GQgJMVEAPV01VX09HAFxNCBcRG0EOQ3U/EBsRBEsXAVxDCldfQA8bVQpGW0dPEVEVPBEHEEATXQdfUkFDCUFUEBxBVVAaalpXV10GBhdaVwgQQVhBBUMURF9YXQhHDBZtQApcE1hbTFRVTg==
 # http://185.59.222.189:25461/live/justinrongska1/nt8PuzpM/110181.m3u8?token=GRdRWUpbQV9BV1sFW1dXUgcCWV8LVgVSCgBRCgFTCwdbVwtaXQsAAVcRFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQEIUlRWV1YWTRoSW1pWQwlTSBBAClwTWFtMVFUfQQAbR10UDQIOPFAETg9RUhFbXRYIXhxBV189UVxVWF0HR1kRCURPQQsQREMCCEdbX00RAQ1GQgJMVEAPV01VX09HAFxNCBcRG0EOQ3U/EBsRBEsXAVxDCldfQA8bVQpGW0dPEVEVPBEHEEATXQdfUkFDCUFUEBxBVVAaalpXV10GBhdaVwgQQVhBBUMURF9YXQhHDBZtQApcE1hbTFRVTg==
 # http://skylogic.site:8080/Line1009/c48eb829/157508
 # http://iptvtree.net:8080/Trev/987450ae/157508
