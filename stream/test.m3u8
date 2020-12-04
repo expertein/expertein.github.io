@@ -795,3 +795,6 @@ http://39.135.135.38:80/PLTV/88888888/224/3221225713/index.m3u8?icpid=88888888&f
 # http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="Test测试",求索美食
 http://39.135.135.38:80/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&from=1&hms_devid=175,674&vqe=3
+#EXTINF:-1 tvg-id="DSC.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/250px-Science_Channel_2016.png" group-title="Test测试",求索科学
+http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
+
