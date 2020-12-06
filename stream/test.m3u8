@@ -142,7 +142,8 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 # http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 # http://live.crhoy.ml:8080/Yucuanli/Yucuanli/1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台2
-http://ublive.ga/TVB_FEICUI_.m3u8
+http://45.11.1.155/tv.php?p=390
+# http://ublive.ga/TVB_FEICUI_.m3u8
 # http://40.121.132.174/TVB_FEICUI_.m3u8
 # http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6139
 # http://95.216.67.31:25461/M4uzYQ1cuG/rYPeX9wRwT/6139?token=TRcKBRBcRAkVAlYAClpSAwoEAwIJV1YOAlRQUlwGDAdTBwFWWwRXB1ZBSRpKFxFXU1hvDVwUDgACVVgaRhZLVkRqCwBBDkQBAldHFBsXCl9XFwpVDgYEAApRVA5RTxpDX1FAXkEGVAsEVEcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJVCgBBTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEGF05GDlUebFQMC1ZcABdbXVtDRgIUBQMDVkMaRg5XXV9BDRY8RA9XFVlHCgpaUAcQSA==
@@ -274,7 +275,7 @@ https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
-https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8|Referer=https://www.dailymotion.com
+https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv9.png" group-title="Malaysia马来西亚",TV9
 https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
 # https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
@@ -676,6 +677,7 @@ https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 
 # EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC0
+http://45.11.1.155/tv.php?p=433
 # http://ublive.ga/AEC_.m3u8
 # http://40.121.132.174/AEC_.m3u8
 # http://iptv-iptv.cf/qq6491443.php?id=433
