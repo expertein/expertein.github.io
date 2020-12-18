@@ -269,20 +269,21 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv2.png" group-title="Malaysia马来西亚",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv3.png" group-title="Malaysia马来西亚",TV3
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kOh9Zq8BiV2T27tKDcqVsE)/dm/3/x7a7rpm/s/live-3.m3u8|Referer=https://www.dailymotion.com
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08q09GVfaFdNROkb5tsdefxo)/dm/3/x7a7rpm/s/live-3.m3u8
 # https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/ntv7.png" group-title="Malaysia马来西亚",NTV7
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kUbVQFtI7x1Q4RrSlIASGY)/dm/3/x7a7rxp/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08i_jqFobP988bL2GLBLviGk)/dm/3/x7a7rxp/s/live-4.m3u8
+# https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kUbVQFtI7x1Q4RrSlIASGY)/dm/3/x7a7rxp/s/live-4.m3u8
 # https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8
 # https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 # http://freeview.mywire.org:9090/streams/ntv7.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08nZRNA8rhPV7MgJqObw-LGM)/dm/3/x7a7ru1/s/live-4.m3u8
+https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08iNJLiYaCHAZQDXDwyJrNgU)/dm/3/x7a7ru1/s/live-4.m3u8
 # https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv9.png" group-title="Malaysia马来西亚",TV9
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08qPh9SRKThaG7MGhgOrPxVM)/dm/3/x7a7rf7/s/live-4.m3u8
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kSVz5d3jHHomRt1dw--hhE)/dm/3/x7a7rf7/s/live-4.m3u8
 # https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
 # https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 # http://freeview.mywire.org:9090/streams/tv9.m3u8|Referer=https://www.dailymotion.com
@@ -336,9 +337,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/cypjz3P.png" tvg-country="TH" tvg-url="" group-title="Thailand泰国测试",PPTV
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VT6.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="Vietnam越南测试",VTV 6
-http://220.158.149.14:9999/live/TV00000000000000000162@HHZT
-# https://106a0d4b0.vws.vegacdn.vn/cliptv_liverecord/vtv6hd1_abr/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phu-yen-tv-vn.png" group-title="Vietnam越南测试",PTP
 http://113.161.4.48:8080/phuyen/tv.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://wwitv.com/tvlogos/b6806.jpg" group-title="Vietnam越南测试",ANTV
@@ -418,7 +416,8 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #EXTINF:-1 tvg-ID="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="Documentary地理",Food Network
-http://5.135.92.133:52841/out/u/502_1.m3u8
+http://0nelive.hjkm.info:11991/ceres/foodnetwork/chunks.m3u8?nimblesessionid=67049&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAyMCAxMTo0NjowNiBBTSZoYXNoX3ZhbHVlPTJLY3V1N1QrVHd0djNlUVQ3NkxJaVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+# http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Documentary地理",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 # http://103.47.132.164/PLTV/88888888/224/3221227191/index.m3u8
@@ -441,15 +440,12 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="WorldNews国际新闻"",CNN2
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 # https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" group-title="WorldNews国际新闻"",CNBC
-https://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="CNW.News" tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="WorldNews国际新闻",CNBC World
-http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" tvg-country="US" tvg-url="" group-title="WorldNews国际新闻",NBC NEWS
-# http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
-http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
-# http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8
-# http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=212&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-id="CNW.News" tvg-logo="https://static.epg.best/nz/CNBC.nz.png" group-title="WorldNews国际新闻",CNBC Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
 #EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="WorldNews国际新闻",Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CBN.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CBSN_channel_Logo.png/200px-CBSN_channel_Logo.png" group-title="WorldNews国际新闻",CBSN NEWS
@@ -479,6 +475,7 @@ https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png" group-title="WorldNews国际新闻",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/220px-CGTN_Documentary_logo.png" group-title="WorldNews国际新闻",CGTN Documentary
+# http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 # https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="WorldNews国际新闻",CNC English
@@ -526,8 +523,6 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BAX.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="Movies电影",Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 # http://103.47.132.164/PLTV/88888888/224/3221227319/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 Box TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-country="IR" tvg-url="" group-title="Movies电影",24 Box TV
-http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="" group-title="Movies电影",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="" group-title="Movies电影",MBC Action HD
@@ -539,6 +534,16 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 tvg-id="tvN.Asia" tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg" group-title="Movies电影",tvN Movies
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="Movies电影",One TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies电影",FOX Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -579,6 +584,8 @@ http://szlive.grtn.cn/lnxq/sd/live.m3u8
 http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Movies电影",中文电影1
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+#EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Movies电影",ClassicHK经典港片
+http://pull.kktv8.com/livekktv/143960119.flv
 
 #EXTINF:-1 tvg-ID="IQD.CN" tvg-logo="" group-title="IChannel爱频道",爱奇谈
 http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -647,14 +654,11 @@ http://39.134.176.253/PLTV/88888888/224/3221226819/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
 # http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 
-# EXTINF:-1 tvg-ID="ESP.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/225px-ESPN_wordmark.svg.png" group-title="Sport体育",ESPN
-# https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
-# EXTINF:-1 tvg-ID="NBA.US" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="Sport体育",NBA TV
-# https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
+
 #EXTINF:-1 tvg-id="TEN.US" tvg-logo="http://static.epg.best/us/TennisChannel.us.png" group-title="Sport体育",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-# EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/150px-WWE_Logo.svg.png" group-title="Sport体育",WWE
-# https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="WWE.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/150px-WWE_Logo.svg.png" group-title="Sport体育",WWE
+https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 #EXTINF:-1 tvg-ID="RAC.AU" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="Sport体育",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 # http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
@@ -684,127 +688,17 @@ https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 
+#EXTINF:-1 tvg-id="TNT.AR" tvg-logo="https://static.epg.best/ar/TNTSports.ar.png" group-title="Sport体育",TNT Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+
+#EXTINF:-1 tvg-id="TYC.AR" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="Sport体育",TyC Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
+https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
+
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC0
 http://45.11.1.155/tv.php?p=433
-# http://ublive.ga/AEC_.m3u8
-# http://40.121.132.174/AEC_.m3u8
-# http://iptv-iptv.cf/qq6491443.php?id=433
-# http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=AEC2
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC1
-http://iptvtree.net:8080/live/12682/12bb8cc4/157508.m3u8
-# http://185.59.222.189:25461/sSnquTekjC/sRnkJCBXT2/110181?token=GRdRWUpbQV9BVwgAVVRXUQADXlEHVVIFAgEGAghbCQNRBQgPX1ZVU1oRFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQIPVFJbV1MWTRoSW1pWQwlSUgIDUQ8CUQQMFBtDCgFBCRpXVFtbUxZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVg1EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUVsAVxob
-# http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110181?play_token=zxpGS6lPG0&token=GRdRWUpbQV9BBgBfWwcHBwAHAQVWUQMABgcFBQlXC1BQBQgKAQpbU1YRFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQACWg0OFBtDCgFBCRpQVFpATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFSVFUCQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCBFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJSUlAGQ0U=
-# http://m3u.area51iptv.site:7899/live/2mdXxLFl74/XVdt0YLz2x/110181.m3u8
-# http://iptv-iptv.cf/qq6491443.php?id=1073
-# http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=AEC
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC2
-http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4257.m3u8
-# http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110181
-# http://185.59.222.189:25461/live/angoh6667111ds1/ocujoGdt/110181.m3u8?token=GRdRWUpbQV9BBA9TV1EHWgFQC1MFVQFZUlBcAAUBDwFXAAANCVYAUgURFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQEIUlFXUFIWTRoSW1pWQwlTSBBAClwTWBcBDwwEQUlBVkASBhEMAlg+XANEXlAEEVkKR1wPFBMNW2ZcXF4CCwcRAkRSQU5BXRJIRAhZRg1fT0ZQWRdKUBZQGwIbAlVXVBEURAAMFw1AE0FECBVgJhFPRldIF11fEVxWVhsJQQhQRgBET0ELEGsTXRVGRVYAXgYWEApBCBNOF1RZQWwACg1dXQUXCg0NR0MCRAMVH0NeDApbRAxKbhJcXRoDEVBdVwUaGw==
-# http://hotiptv.site:8080/test-a72351/df2e/157508
-# http://m3u.area51iptv.site:7899/R31wH32olG/8ffUexmzZE/110181
-# http://iptvtree.net:8080/live/Line1045/004d6ac6/157508.m3u8
-# http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=AEC3
-# http://191.101.44.238/ab.php?caonima&play&line=tangyuan&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q0MzM_
-# http://62.210.127.217:8080/snwYC0SQEg/rAh0q9pwwq/28704?play_token=VJqCzLgNIO&token=QhVcUhcJRggXXQAHBFJTAVMPUgAAVlYAVlUNVwQHUlcIVlZRAlQCBw1GGURBEkJRAFtpWgVEXlFdUwVVSkAXElxFa1oAQ14QA1cFXwZSEhhDQl9eBEReUlBdAVlfVFJYDxsWQw0FRggXVgdUClESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXBg1TFBoRAgkRDREWTENcQDEmGxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABUAgNUFEs=
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC3
-http://52.240.59.76/AEC_.m3u8
-# http://185.59.222.189:25461/live/huicailim1/ue1WB52R/110181.m3u8?token=GRdRWUpbQV9BBw0FAVZbAAUDAVMHUwVUUFdTUAUFWwRVUF9cCQBRBAARFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQEIUlpSW1AWTRoSW1pWQwlTSBBAClwTWFtMVFUfQQAbR10UDQIOPFAETg9RUhFbXRYIXhxBV189UVxVWF0HR1kRCURPQQsQREMCCEdbX00RAQ1GQgJMVEAPV01VX09HAFxNCBcRG0EOQ3U/EBsRBEsXAVxDCldfQA8bVQpGW0dPEVEVPBEHEEATXQdfUkFDCUFUEBxBVVAaalpXV10GBhdaVwgQQVhBBUMURF9YXQhHDBZtQApcE1hbTFRVTg==
-# http://185.59.222.189:25461/live/justinrongska1/nt8PuzpM/110181.m3u8?token=GRdRWUpbQV9BV1sFW1dXUgcCWV8LVgVSCgBRCgFTCwdbVwtaXQsAAVcRFEQQFxAGVQxnD1YVCVACU1UKAU8aRBFQS2dQV0FfQQEIUlRWV1YWTRoSW1pWQwlTSBBAClwTWFtMVFUfQQAbR10UDQIOPFAETg9RUhFbXRYIXhxBV189UVxVWF0HR1kRCURPQQsQREMCCEdbX00RAQ1GQgJMVEAPV01VX09HAFxNCBcRG0EOQ3U/EBsRBEsXAVxDCldfQA8bVQpGW0dPEVEVPBEHEEATXQdfUkFDCUFUEBxBVVAaalpXV10GBhdaVwgQQVhBBUMURF9YXQhHDBZtQApcE1hbTFRVTg==
-# http://skylogic.site:8080/Line1009/c48eb829/157508
-# http://iptvtree.net:8080/Trev/987450ae/157508
-# http://iptvtree.net:8080/12521/a016d4fc/157508
-# http://lb4.afrostreamtv.online:25461/M4uzYQ1cuG/rYPeX9wRwT/2267?token=SRNfB0RcGg9GAgAOXQcHAlIDUFUDVgJXClIFAgkBUAYHV1MEAQ1ZAVQWShoXFRRVVQw6CAJBCAQLBQRIEkJCVEBuXgIVDhoEXQJQGkhDEllZBEdbV1UCBgAGClQHBR0TQlhTRA0WCQNXAFEaSEMDSEAEFw8HD21SXEVaB1UVC19HXVtKFVtWagBRC1kKBUQKFlFHTUQKQUYbCV0RXFsdE1BYQxRWQF0XXhZXDlFVRBwWAgoUCBdATxsJESlpFR0TV0lDA1lHUVoKFlwaEBJEHBYIFj4UBkFCS1ZSCVVFEwsQABVKFVlZTTtXCVYKBAVEXQ4LEkRZEAcMAwNGHBVcXlxYQwlFa0hcABZcGlxYVAUWHA==
-# http://lb4.afrostreamtv.online:25461/M4uzYQ1cuG/rYPeX9wRwT/2267?token=SRNfB0RcGg9GA1BcU1NWAFFWAQBQVQZTXAsGUlQDUFIAAABTBFdZAlcWShoXFRRVVQw6CAJBCAQLBQRIEkJCVEBuXgIVDhoEXQJQGkhDEllZBEdbV1UCBgEFBVwDBR0TQlhTRA0WCgNUAFQaSEMDSEAEFw8HD21SXEVaB1UVC19HXVtKFVtWagBRC1kKBUQKFlFHTUQKQUYbCV0RXFsdE1BYQxRWQF0XXhZXD1VTRBwWAgoUCBdATxsJESlpFR0TV0lDA1lHUVoKFlwaEBJEHBYIFj4UBkFCS1ZSCVVFEwsQABVKFVlZTTtXCVYKBAVEXQ4LEkRZEAcMAwNGHBVcXlxYQwlFa0hcABZcGlJXXwcWHA==
-# http://lb4.afrostreamtv.online:25461/M4uzYQ1cuG/rYPeX9wRwT/2267?token=SRNfB0RcGg9GA19bAVBeVQJYXFEEBgZUD1ILUgIBVwMLB1ZUUwwNDFYWShoXFRRVVQw6CAJBCAQLBQRIEkJCVEBuXgIVDhoEXQJQGkhDEllZBEdbV1UCBg4LAFcCBx0TQlhTRA0WCg1SAlQaSEMDSEAEFw8HD21SXEVaB1UVC19HXVtKFVtWagBRC1kKBUQKFlFHTUQKQUYbCV0RXFsdE1BYQxRWQF0XXhZXD1VQRBwWAgoUCBdATxsJESlpFR0TV0lDA1lHUVoKFlwaEBJEHBYIFj4UBkFCS1ZSCVVFEwsQABVKFVlZTTtXCVYKBAVEXQ4LEkRZEAcMAwNGHBVcXlxYQwlFa0hcABZcGlJXXwcWHA==
-# http://lb4.afrostreamtv.online:25461/M4uzYQ1cuG/rYPeX9wRwT/2267?token=SRNfB0RcGg9GBVZbUFNfVVJYVlNSWwBUXAUABQdSUwUBAwNUUVdeU1cWShoXFRRVVQw6CAJBCAQLBQRIEkJCVEBuXgIVDhoEXQJQGkhDEllZBEdbV1UCBg4FBV0JAx0TQlhTRA0WCQZUAVAaSEMDSEAEFw8HD21SXEVaB1UVC19HXVtKFVtWagBRC1kKBUQKFlFHTUQKQUYbCV0RXFsdE1BYQxRWQF0XXhZXDlJVRBwWAgoUCBdATxsJESlpFR0TV0lDA1lHUVoKFlwaEBJEHBYIFj4UBkFCS1ZSCVVFEwsQABVKFVlZTTtXCVYKBAVEXQ4LEkRZEAcMAwNGHBVcXlxYQwlFa0hcABZcGlJXXwcWHA==
-# http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10295
-# http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10295
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC4
-http://62.210.124.97:8080/ThvyEuEq0x/KabEVcFsC0/33253?play_token=rXHfszbzIx&token=QhVcUhcJRggXXFAEVlFRAlNTBVdZBAFaB1RWBV8BU1BcBAUDUQcHVwZGGURBEkJRAFtpWgVEXlBWVgBSSkAXElxFa1oAQ14QAlUHUAFfEhhDQl9eBEReUlNUB1lSUltRCRsWQw0FRggXVwdQAlISGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXFwTXFhNFFVcFAgQERxGD0MrO0BNG1JMRwEPF1taChdcEBJDFk0UX0A+FAEQERZQAAsHEEMDFQQRSEMJU007VglcCFVXFV9ZXRJEXkFURhlDCw0MCE1YRmwUCAAQD0YGVAdfBhYc
-# http://miptvservices.dynu.net:7899/hbedasa1/MOP8x8Bq1R/110181
-# http://tvku.live:8888/live/8890378416/5092878139/4257.m3u8
-# http://tvku.live:8888/live/Tegarnyoto1/12345678/4257.m3u8
-# http://lb4.afrostreamtv.online:25461/M4uzYQ1cuG/rYPeX9wRwT/2267?token=SRNfB0RcGg9GV14BUABQCABWAQRfVABUDVcCUlJRAwRTAQVTUVVZDVYWShoXFRRVVQw6CAJBCAQLBQRIEkJCVEBuXgIVDhoEXQJQGkhDEllZBEdbV1UCBgAHAFIGBB0TQlhTRA0WDQVSAEQURgQeRFETCwAKPFZTT1pQARINX0ReXRtEWFpnUQFZB1YAQ1wSBENJQw8QQhQDXUYIXBsTU1tFRQdDURoPRgVQD1BDShJXDhAPEhFLFAMRfj0SGxNUSkVSCERdV1tGDkRMF0NKEl0SOhMDEEZEXFJeAUIVCxMDExtEWlVAagdbCFYBAhJZWw8WQ1xBAwMJAxFIElpeX1tFWBRoRFFRRg5EDlJYURJJ
-# http://afrostreamtv.online:2052/M4uzYQ1cuG/rYPeX9wRwT/2267
-# http://50.7.136.122:25461/M4uzYQ1cuG/rYPeX9wRwT/10295?token=TRcKBRBcRAkVVAAKCQcHAAAACAEKAAQOAVEEUwFUXVcCVAMFB1VSVlJBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVZRGhVBF1tfUBJeCQAEBgVfVwNdURQRRlwGRlkWXgMDUUcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJTDgBBTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEGF05GDlUebFQMC1ZcABdbXVtDRgIUBQMDVkMaRg5XXV9BDRY8RA9XFVlHCwtTWwYQSA==
-# http://50.7.136.122:25461/M4uzYQ1cuG/rYPeX9wRwT/10295?token=TRcKBRBcRAkVWlAKCwUBUwUMUQJdA1cGBVNUA1cFWlEAVFZUAgBeB1JBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVZRGhVBF1tfUBJeCQAEBgZfVQVVUhQRRlwGRlkWUAEAVkcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJTDglBTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEGF05GDlUebFQMC1ZcABdbXVtDRgIUBQMDVkMaRg5XXV9BDRY8RA9XFVlHCwtTWwYQSA==
-# http://50.7.136.122:25461/M4uzYQ1cuG/rYPeX9wRwT/10295?token=TRcKBRBcRAkVUFANDVtVBAtXU1daAgxTCgUCVwdVCVEPUwQAAgFTVgNBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVZRGhVBF1tfUBJeCQAEBgZWUA9SUxQRRlwGRlkWUAUBVkcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJSCAhBTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEGF05GDlUebFQMC1ZcABdbXVtDRgIUBQMDVkMaRg5XXV9BDRY8RA9XFVlHCwtTWwYQSA==
-# http://50.7.136.122:25461/M4uzYQ1cuG/rYPeX9wRwT/10295?token=TRcKBRBcRAkVWwQKCVdVBQUAVlVbAgJVAwIFU1xRXQoCBwZVWwUAV1RBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVZRGhVBF1tfUBJeCQAEBgdUVAFUWhQRRlwGRlkWVAUPUVAaFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDwhTQR4QVl8RVkJGTxFcQ3s9QRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBUBIQVkHS2gAClZXBgBGW1peFxoMFgcGVlEUSEFVXFhcFgsRaxZaU0FfGgpRUwoGF00=
-# http://50.7.136.122:25461/M4uzYQ1cuG/rYPeX9wRwT/10295?token=TRcKBRBcRAkVUFcJXVtaBVdUBwYNUwIDAwIFVFdUAFEDBQMCBgYFUQdBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVZRGhVBF1tfUBJeCQAEBgBVWQ5UUxQRRlwGRlkWVwsGUVEaFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDgxVQR4QVl8RVkJGTxFcQ3s9QRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBUBIQVkHS2gAClZXBgBGW1peFxoMFgcGVlEUSEFVXFhcFgsRaxZaU0FfGgpRUwoGF00=
-# http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVVwEBXFoFAwtTUgFeBlFUAF5WAlVRWwZQAVJUWlEAC1FBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwpeVg5XVxQRRlwGRlkWUAYFUUcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJTDgBBTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEHF05GDlUebFQMC1ZcABdbXVtDRgIUBQMDVkMaRg5XXV9BDRY8RA9XFVlHCwtTWwYQSA==
-# http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVAVQNCQBaBQNRAwYOBQ1SUV4HBAAHC1dUV1ICWg0FBwFBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwRUVA5VWxQRRlwGRlkWVwQHUlwaFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDgpUQR4QVl8RVkJGTxFcQ3s9QRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBEBIQVkHS2gAClZXBgBGW1peFxoMFgMDVkMaRg5XXV9BDRY8RA9XFVlHCQFTVAIQSA==
-# http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVUVIKClMGAlAAAl0PVFdVAFJXAVZXCVdSUFIAVABXVlNBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwtXVAFTUxQRRlwGRlkWVQIBUEcUGwYbRldHXgVUaVBTRQ8CU0ZZVkZaWU5GDFo5V1IOBFZdQVkQAhccRlFFRBQJCBRaCE8aUV9BEAUXUUQJFVJTDA5BTxBRWkUKTERNFAlELG9GTxpWTkEHChBdCV0VWUdMSkFPEFtGbxZdRUBEVgcMUxZBAhEHF05GDlUebFQMC1ZcABdbXVtDRgIUAQYDRE0UCQxWWkJaEDsTXQIRDUFUAAlUUxBP
-# http://50.7.136.122:25461/MgjTVPzTY8/T3hIFzVMp6/10295?token=TRcKBRBcRAkVAgBdClBXUFBQVlQBVA1VAAQFDgdWXVUFUwFdWg1SB1VBSRpKFxFXU1hvDVwUDgcDVFgDSEFNQFNHPQ0HFlwRBVBSGhVBF1tfUBJeCQMNDwpWUgBcVRQRRlwGRlkWVAQHU1caFUEGSkZQQgpZWmtSVhAIVQFBAl1DWQ5IQVsIbFMGCFlXB0EIEAUSSBpfR0YRXA9DCA8UEVRcFhYCQAMRDUFUDg9QQR4QVl8RVkJGTxFcQ3s9QRQRU00WAQ1HD1xZQV8aTRBBHhBcQztKU0dCQQMAWwERGgkUBEBIQVkHS2gAClZXBgBGW1peFxoMFgcGVlEUSEFVXFhcFgsRaxZaU0FfGghbUwUCF00=
-
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AOD3501
-http://iptvtree.net:8080/live/12682/12bb8cc4/157516.m3u8
-# http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110194?play_token=fpU0mq4sJg&token=GRdRWUpbQV9BBgwAUFRXAQQDCwUKAlcDCwECBAgGWgRSVFgLXAMHAwERFEQQFxAGVQxnD1YVCVACU1ULBE8aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQACVQcKFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABBsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
-# http://188.40.76.108:25461/live/mytv01/uSIRzmks51/276.m3u8
-# http://tvku.live:8888/live/8890378416/5092878139/4262.m3u8
-# http://tvku.live:8888/live/Tegarnyoto1/12345678/4262.m3u8
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AOD3502
-http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110195?play_token=TZ0q6qlGWU&token=GRdRWUpbQV9BVlkAVFdRBgYDCVcAD1AHC1YHAghUAAgEBgxbDVVVAVoRFEQQFxAGVQxnD1YVCVACU1ULBU8aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQACVQULFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABBsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
-# http://tvku.live:8888/live/8890378416/5092878139/4263.m3u8
-# http://tvku.live:8888/live/Tegarnyoto1/12345678/4263.m3u8
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AOD3503
-http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110196?play_token=nH5foyZdIr&token=GRdRWUpbQV9BAwtVBVVRUgEHAVNUBApQCwJVAFYGAAlTAw0NWgMCUloRFEQQFxAGVQxnD1YVCVACU1ULBk8aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQACVAIAFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABBsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
-# http://tvku.live:8888/live/8890378416/5092878139/4264.m3u8
-# http://tvku.live:8888/live/Tegarnyoto1/12345678/4264.m3u8
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AOD3504
-http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110197?play_token=uzEZ6l6M9E&token=GRdRWUpbQV9BBVpXVFsBBgAHWVFXAgsFUgZUBlYACVJQDAwPDFFWUlIRFEQQFxAGVQxnD1YVCVACU1ULB08aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQACVAAOFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABBsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
-# http://tvku.live:8888/live/8890378416/5092878139/4266.m3u8
-# http://tvku.live:8888/live/Tegarnyoto1/12345678/4266.m3u8
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AOD3505
-http://tvku.live:8888/live/8890378416/5092878139/4267.m3u8
-# http://tvku.live:8888/live/Tegarnyoto1/12345678/4267.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",欢喜3331
-http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4313.m3u8
-# http://103.253.24.177:25461/live/Tamtowi/mY6WYb498C/4313.m3u8?token=QhBYV0dYRg4TCVFRAFACBgVTBQEACgUDWAcFAQVXV1MOUwJSUAVWBQkaSBAQEEJXVQhvWgIbCVEKBQMdQ0MSB0ttWVIWCkYACQtWCkFIEkZdCFURXAkfR0ldVBNbFFJSDwcFFBgSAUxFXRZcAghvVlETWVADGwkLTFhcHUNZDz1dV11XWlRGDhMIRh5BDUNCFl8SZwtXVhEVFGRUDVMKDVQSfVdYUR1HWFlEcAsAHhAYR1JaEktSEVwWChNQAFFXGx4SVVtFCkBDQUYIQSlpEBhHVUsSXF0WUFteE1sUDFFMChIaFlkXa0NdF0YRAVFfURcSCUQJEUkbWVFJPlUODFdXU0JdXwpHEwJGA0FIEl9bC1lHCUtsFVBQEgtDAVFUABBN
-# http://185.59.222.189:25461/live/justinrongska1/nt8PuzpM/110192.m3u8?token=GRdRWUpbQV9BAwlRUwBSBwBRWVdWVAUHBgUHBwQCDghXVw0JXQQFVAYRFEQQFxAGVQxnD1YVCVACU1ULAk8aRBFQS2dQV0FfQQEIUlRWV1YWTRoSW1pWQwlTSBBAClwTWFtMVFUfQQAbR10UDQIOPFAETg9RUhFbXRYIXhxBV189UVxVWF0HR1kRCURPQQsQREMCCEdbX00RAQ1GQgJMVEAPV01VX09HAFxNCBcRG0EOQ3U/EBsRBEsXAVxDCldfQA8bVQpGW0dPEVEVPBEHEEATXQdfUkFDCUFUEBxBVVAaalpXV10GBhdaVwgQQVhBBUMURF9YXQhHDBZtQApcE1hbTFRVTg==
-# http://185.59.222.189:25461/live/alexgender121/z1ofHbue/110192.m3u8?token=GRdRWUpbQV9BCl5WW1sAVwFWWVBUAwoABAVUA1ZUDwNTDAEOXVdVXAARFEQQFxAGVQxnD1YVCVACU1ULAk8aRBFQS2dQV0FfQQEIUldXVVMWTRoSW1pWQwlTSBBAClwTWFtMVFUfQQAbR10UDQIOPFAETg9RUhFbXRYIXhxBV189UVxVWF0HR1kRCURPQQsQREMCCEdbX00RAQ1GQgJMVEAPV01VX09HAFxNCBcRG0EOQ3U/EBsRBEsXAVxDCldfQA8bVQpGW0dPEVEVPBEHEEATXQdfUkFDCUFUEBxBVVAaalpXV10GBhdaVwgQQVhBBUMURF9YXQhHDBZtQApcE1hbTFRVTg==
-# http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110192
-# http://185.59.222.189:25461/janewinterbottom1/uDn5FA6o/110192?play_token=2648SdIaCy&token=GRdRWUpbQV9BCwoDVwBUBw0CCgUCBAdXBQdTCglWXQIAVlgBAQIGB1URFEQQFxAGVQxnD1YVCVACU1ULAk8aRBFQS2dQV0FfQQIJUlBVW1YWTRoSW1pWQwlSUgIBUQ8JVwYMFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABBsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
-# http://m3u.area51iptv.site:7899/live/2mdXxLFl74/XVdt0YLz2x/110192.m3u8
-# http://tvku.live:8888/live/8890378416/5092878139/4313.m3u8
-# http://tvku.live:8888/live/Tegarnyoto1/12345678/4313.m3u8
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",欢喜3332
-http://185.59.222.189:25461/sSnquTekjC/sRnkJCBXT2/110192?token=GRdRWUpbQV9BCltSUgEHAAUHAFUEAQtRUVBSAVNUDwlbBw0MCQVbVlYRFEQQFxAGVQxnD1YVCVACU1ULAk8aRBFQS2dQV0FfQQIPVFJbV1MWTRoSW1pWQwlSUgIDUggEUQILFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
-# http://hotiptv.site:8080/test-a72351/df2e/157513
-# http://skylogic.site:8080/Line1009/c48eb829/157513
-# http://iptvtree.net:8080/live/Line1045/004d6ac6/157513.m3u8
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",欢喜3333
-http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110192
-# http://m3u.area51iptv.site:7899/R31wH32olG/8ffUexmzZE/110192
-
-
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",爱奇艺3000
-http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=bziptv_4k_ai_qiyi_0
-
-
-#EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",ClassicHK经典港片1
-http://pull.kktv8.com/livekktv/143960119.flv
-#EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Test测试",ClassicHK经典港片2
-http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-522-0711-1530-55255_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1602053837&vkey=
-# http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-581-0922-0211-03921_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1602053898&vkey=
-
-
-
-#EXTINF:-1 tvg-id="DAN.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Test测试",求索动物
-http://39.135.135.39:80/PLTV/88888888/224/3221225730/index.m3u8?icpid=88888888&from=1&hms_devid=175,674&vqe=3
-# http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="DSC.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/250px-Science_Channel_2016.png" group-title="Test测试",求索科学
-http://39.135.135.71:80/PLTV/88888888/224/3221225728/index.m3u8?icpid=88888888&from=1&hms_devid=175,686&vqe=3
-# http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="Test测试",求索纪录
-http://39.135.135.38:80/PLTV/88888888/224/3221225713/index.m3u8?icpid=88888888&from=1&hms_devid=175,674&vqe=3
-# http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="Test测试",求索美食
-http://39.135.135.38:80/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&from=1&hms_devid=175,674&vqe=3
-#EXTINF:-1 tvg-id="DSC.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/250px-Science_Channel_2016.png" group-title="Test测试",求索科学
-http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
-
+http://tv.wakds.xyz:8080/live/hls/ke97979/182.ts
