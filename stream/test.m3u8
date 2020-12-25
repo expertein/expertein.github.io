@@ -269,21 +269,19 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv2.png" group-title="Malaysia马来西亚",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv3.png" group-title="Malaysia马来西亚",TV3
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08q09GVfaFdNROkb5tsdefxo)/dm/3/x7a7rpm/s/live-3.m3u8
+https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08l5v9dmMq05IQr_ZaQFnSEs)/dm/3/x7a7rpm/s/live-3.m3u8
 # https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/ntv7.png" group-title="Malaysia马来西亚",NTV7
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08i_jqFobP988bL2GLBLviGk)/dm/3/x7a7rxp/s/live-4.m3u8
-# https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kUbVQFtI7x1Q4RrSlIASGY)/dm/3/x7a7rxp/s/live-4.m3u8
-# https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8
+https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08nLUas0Mb_SeYvlKsg2hBhY)/dm/3/x7a7rxp/s/live-4.m3u8
 # https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 # http://freeview.mywire.org:9090/streams/ntv7.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08iNJLiYaCHAZQDXDwyJrNgU)/dm/3/x7a7ru1/s/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08i2Nq9biSOKeL6ktY1FrkKE)/dm/3/x7a7ru1/s/live-4.m3u8
 # https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv9.png" group-title="Malaysia马来西亚",TV9
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kSVz5d3jHHomRt1dw--hhE)/dm/3/x7a7rf7/s/live-4.m3u8
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08rVP9uxJbdAMWDpnQqXEtxs)/dm/3/x7a7rf7/s/live-4.m3u8
 # https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
 # https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 # http://freeview.mywire.org:9090/streams/tv9.m3u8|Referer=https://www.dailymotion.com
