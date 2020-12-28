@@ -89,7 +89,8 @@ http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
 http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8
 # http://220.158.149.26:8182/hls/TV00000000000000000138@HHZT.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD2
-http://sr13.douphy.com/hdfenghuangzx.m3u8
+http://543.tvbox543.com/543ublive.php?cid=359
+# http://sr13.douphy.com/hdfenghuangzx.m3u8
 # https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixinfoTVHD.m3u8
 # http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 # http://39.135.225.5:18890/PLTV/88888888/224/3221225901/1.m3u8
@@ -142,7 +143,8 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 # http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 # http://live.crhoy.ml:8080/Yucuanli/Yucuanli/1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台2
-http://45.11.1.155/tv.php?p=390
+http://543.tvbox543.com/543ublive.php?cid=1084
+# http://45.11.1.155/tv.php?p=390
 # http://ublive.ga/TVB_FEICUI_.m3u8
 # http://40.121.132.174/TVB_FEICUI_.m3u8
 # http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/6139
@@ -168,7 +170,8 @@ http://62.210.124.97:8080/ThvyEuEq0x/KabEVcFsC0/33253?play_token=rXHfszbzIx&toke
 # http://192.154.103.74:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 # http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="Hong Kong香港",TVB Pearl(明珠台)
-http://45.11.1.155/tv.php?p=391
+http://543.tvbox543.com/543ublive.php?cid=391
+# http://45.11.1.155/tv.php?p=391
 # https://cdn.hkdtmb.com/hls/84/index.m3u8
 # http://m.567it.com/Pearl.m3u8
 # https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
@@ -179,8 +182,8 @@ http://45.11.1.155/tv.php?p=391
 # http://183.179.246.16:9981/stream/channelid/2125106412
 # http://nb.iptv88888.xyz/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB J2
-http://45.11.1.155/tv.php?p=392
-# https://cdn.hkdtmb.com/hls/82/index.m3u8
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+# http://45.11.1.155/tv.php?p=392
 # http://13.58.124.204:9090/live/j2.m3u8
 # http://61.238.6.49:8001/bysid/82
 # http://cdn-bziptv.gq/dl/bziptv4k/checksum-dG9rZW4lM0RhZjJlZjViNjhkMjllZmRmODFlMWEyMGUyMzg5ODMyYiUyM3VybCUzRGh0dHAlM0ElMkYlMkZmNi52aXB1YjE4MTguY29tJTNBODA4MCUyRmxpdmUlMkY0MzIlMkYwMDUwM2VlNzBlYzE1MDExODA2ZGQ3ZTNjODhmODdlNCUyRmluZGV4Lm0zdTg/bziptv4k.php?id=TVB_J2_2
@@ -210,7 +213,8 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/ATV_A1_logo.jpg/300px-ATV_A1_logo.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",A1
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",港台電視31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+# http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 # http://rthk.hk/apps/screen/rthktv31.m3u8
 # http://rthk9.rthk.hk/apps/screen/rthktv31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",港台電視32
@@ -256,7 +260,8 @@ http://seb.sason.top/sc/sllive_fhd.m3u8
 # EXTINF:-1 tvg-id="BDZ.TW" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="Taiwan台湾",八大綜合
 # http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="Taiwan台湾",大愛1
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+http://543.tvbox543.com/543ublive.php?cid=11
+# https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="DA2.TW" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="Taiwan台湾",大愛2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="http://www.lifetv.org.tw/main/img/lifetv.png" group-title="Taiwan台湾",生命電視台
@@ -269,21 +274,16 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv2.png" group-title="Malaysia马来西亚",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv3.png" group-title="Malaysia马来西亚",TV3
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08q09GVfaFdNROkb5tsdefxo)/dm/3/x7a7rpm/s/live-3.m3u8
+https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08l5v9dmMq05IQr_ZaQFnSEs)/dm/3/x7a7rpm/s/live-3.m3u8
 # https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/ntv7.png" group-title="Malaysia马来西亚",NTV7
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08i_jqFobP988bL2GLBLviGk)/dm/3/x7a7rxp/s/live-4.m3u8
-# https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kUbVQFtI7x1Q4RrSlIASGY)/dm/3/x7a7rxp/s/live-4.m3u8
-# https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8
-# https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
-# http://freeview.mywire.org:9090/streams/ntv7.m3u8|Referer=https://www.dailymotion.com
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08k7YUS3iIhplaJ0ZHgYVn3E)/dm/3/x7a7rxp/s/live-4.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08iNJLiYaCHAZQDXDwyJrNgU)/dm/3/x7a7ru1/s/live-4.m3u8
-# https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
+https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08gaYpfWZKAYm45mrAJyGs7Y)/dm/3/x7a7ru1/s/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv9.png" group-title="Malaysia马来西亚",TV9
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kSVz5d3jHHomRt1dw--hhE)/dm/3/x7a7rf7/s/live-4.m3u8
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08rVP9uxJbdAMWDpnQqXEtxs)/dm/3/x7a7rf7/s/live-4.m3u8
 # https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
 # https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 # http://freeview.mywire.org:9090/streams/tv9.m3u8|Referer=https://www.dailymotion.com
