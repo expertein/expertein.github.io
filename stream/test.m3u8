@@ -260,8 +260,8 @@ http://seb.sason.top/sc/sllive_fhd.m3u8
 # EXTINF:-1 tvg-id="BDZ.TW" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="Taiwan台湾",八大綜合
 # http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 #EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="Taiwan台湾",大愛1
-http://543.tvbox543.com/543ublive.php?cid=11
-# https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+# http://543.tvbox543.com/543ublive.php?cid=11
 #EXTINF:-1 tvg-id="DA2.TW" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="Taiwan台湾",大愛2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="http://www.lifetv.org.tw/main/img/lifetv.png" group-title="Taiwan台湾",生命電視台
@@ -274,7 +274,7 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv2.png" group-title="Malaysia马来西亚",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv3.png" group-title="Malaysia马来西亚",TV3
-https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08l5v9dmMq05IQr_ZaQFnSEs)/dm/3/x7a7rpm/s/live-3.m3u8
+https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08q700-TH0xmTbnmy_1rIHiw)/dm/3/x7a7rpm/s/live-3.m3u8
 # https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/ntv7.png" group-title="Malaysia马来西亚",NTV7
 https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08k7YUS3iIhplaJ0ZHgYVn3E)/dm/3/x7a7rxp/s/live-4.m3u8
@@ -283,10 +283,7 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
 https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08gaYpfWZKAYm45mrAJyGs7Y)/dm/3/x7a7ru1/s/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv9.png" group-title="Malaysia马来西亚",TV9
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08rVP9uxJbdAMWDpnQqXEtxs)/dm/3/x7a7rf7/s/live-4.m3u8
-# https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
-# https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-# http://freeview.mywire.org:9090/streams/tv9.m3u8|Referer=https://www.dailymotion.com
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08vJD3h0j1ZeIYcCR6zxIzoM)/dm/3/x7a7rf7/s/live-4.m3u8
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia马来西亚",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 # https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
