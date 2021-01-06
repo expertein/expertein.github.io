@@ -118,13 +118,14 @@ http://112.17.40.145/PLTV/88888888/224/3221226368/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台3
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台4
-http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
-# http://live.centerch.com/fhws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台5
 http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
 # http://sr13.douphy.com/hdfenghuangzw.m3u8
 # http://dis.fengshows.cn:8384/live/222pcc72.flv?txSecret=56c66175c9d6b10d0a3bc9943154355c&txTime=5f574080
 # http://hlive.fengshows.cn/live/222pcc72.flv?txSecret=56c66175c9d6b10d0a3bc9943154355c&txTime=5f574080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視香港台
+http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
+# http://live.centerch.com/fhws.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/01/TVB_News_Channel_2017.png/280px-TVB_News_Channel_2017.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",無綫新聞台1
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/01/TVB_News_Channel_2017.png/280px-TVB_News_Channel_2017.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",無綫新聞台2
@@ -274,16 +275,16 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv2.png" group-title="Malaysia马来西亚",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv3.png" group-title="Malaysia马来西亚",TV3
-https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08q700-TH0xmTbnmy_1rIHiw)/dm/3/x7a7rpm/s/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08n3_51ZfuAJTsjWl1lwrKq0)/dm/3/x7a7rpm/s/live-3.m3u8
 # https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/ntv7.png" group-title="Malaysia马来西亚",NTV7
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08k7YUS3iIhplaJ0ZHgYVn3E)/dm/3/x7a7rxp/s/live-4.m3u8
+https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08t3ymWJ-BQkwqdQ30T90OKM)/dm/3/x7a7rxp/s/live-4.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08gaYpfWZKAYm45mrAJyGs7Y)/dm/3/x7a7ru1/s/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08ocFzyelYpKSHcKsHl0IYUY)/dm/3/x7a7ru1/s/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv9.png" group-title="Malaysia马来西亚",TV9
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08vJD3h0j1ZeIYcCR6zxIzoM)/dm/3/x7a7rf7/s/live-4.m3u8
+https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08iMmHkHuzCnZqFa_L0schHk)/dm/3/x7a7rf7/s/live-4.m3u8
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia马来西亚",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 # https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
@@ -310,11 +311,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 
 #EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="Thailand泰国测试",ททบ. 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thailand泰国测试",ช่อง 7
-https://edge6a.v2h-cdn.com/m2i1/7HD.stream_720p/playlist.m3u8
-# https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
-#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/one31.png" group-title="Thailand泰国测试",ONE 31
-http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/0AiJcrC.png" tvg-country="TH" tvg-url="" group-title="Thailand泰国测试",Thairath TV 32
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 # https://live.thairath.co.th/trtv2/playlist.m3u8
@@ -331,8 +327,6 @@ http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Thailand泰国测试",Workpoint
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
 # http://122.155.205.9/live/workpoint.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/cypjz3P.png" tvg-country="TH" tvg-url="" group-title="Thailand泰国测试",PPTV
-http://183.182.100.184/live/pptvthai/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phu-yen-tv-vn.png" group-title="Vietnam越南测试",PTP
 http://113.161.4.48:8080/phuyen/tv.m3u8
