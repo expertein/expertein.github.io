@@ -275,8 +275,7 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv2.png" group-title="Malaysia马来西亚",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv3.png" group-title="Malaysia马来西亚",TV3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcqAToKXGbtobC_4NYDJkos)/dm/3/x6qp6ou/s/live-3.m3u8
-# https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRhIylFLpLQVwutGe5G8dRU)/dm/3/x6qp375/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/ntv7.png" group-title="Malaysia马来西亚",NTV7
 https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kIrKAi_B6kYUbxK5xITb5M)/dm/3/x7a7rxp/s/live-4.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
