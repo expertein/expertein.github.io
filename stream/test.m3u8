@@ -275,16 +275,16 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv2.png" group-title="Malaysia马来西亚",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv3.png" group-title="Malaysia马来西亚",TV3
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRhIylFLpLQVwutGe5G8dRU)/dm/3/x6qp375/d/live-3.m3u8
+https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQPeBHdcUt90q7auPRUTw8Q)/dm/3/x6qp375/d/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/ntv7.png" group-title="Malaysia马来西亚",NTV7
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08kIrKAi_B6kYUbxK5xITb5M)/dm/3/x7a7rxp/s/live-4.m3u8
+https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbUfsfO1S9klwDb3Z45G-q8)/dm/3/x6qp6ou/s/live-2.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHahBRdfWxtc0oWZr-Xe4M6E)/dm/3/x6qud17/s/live-3.m3u8
 # https://exodiver.github.io/IPTV/M3U8/Token/MY/8TV.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
-https://stream-04.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08gGUEWlH94peMNwvibITuB0)/dm/3/x7a7ru1/s/live-4.m3u8
+https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHahBRdfWxtc0oWZr-Xe4M6E)/dm/3/x6qud17/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv9.png" group-title="Malaysia马来西亚",TV9
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08lSNQT25dLDpVPfL5U3x94E)/dm/3/x7a7rf7/s/live-4.m3u8
+https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHab2lBbN9QrLOV7WZxkxmgc)/dm/3/x6qqja6/s/live-1.m3u8
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia马来西亚",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia马来西亚",Astro Awani
@@ -692,6 +692,6 @@ https://edge-live11-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2
 https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
 
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC0
-http://45.11.1.155/tv.php?p=433
+http://dl.wakds.xyz:8080/live/JIAKAIMIN-A/JIAKAIMIN-A/182.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Test测试",AEC1
 http://tv.wakds.xyz:8080/live/hls/ke97979/182.ts
