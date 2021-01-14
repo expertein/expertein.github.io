@@ -238,28 +238,26 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Taiwan台湾",台視新聞
 # http://p06.iptv2asia.com:18888/http/004
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-
 #EXTINF:-1 tvg-id="ZSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="Taiwan台湾",中視新聞
 # http://p06.iptv2asia.com:18888/http/006
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="HSX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png" group-title="Taiwan台湾",華視新聞
 # http://p06.iptv2asia.com:18888/http/010
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-# EXTINF:-1 tvg-id="ZTZ.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="Taiwan台湾",中天綜合
-# http://104.250.154.42:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-# EXTINF:-1 tvg-id="ZTL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="Taiwan台湾",中天娛樂
-# http://104.250.154.42:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 #EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="Taiwan台湾",中天新聞
 # http://live5.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 tvg-id="SLX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="Taiwan台湾",三立新聞
 http://seb.sason.top/sc/sllive_fhd.m3u8
 # http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-# EXTINF:-1 tvg-id="TBL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%AC%A2%E4%B9%90.png" group-title="Taiwan台湾",TVBS歡樂台
-# http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
-# http://58.99.33.9:1935/liveedge2/live_42_1.stream/playlist.m3u8
-# EXTINF:-1 tvg-id="BDZ.TW" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="Taiwan台湾",八大綜合
-# http://104.250.154.42:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 tvg-id="SLXI.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/41/SET_iNews_logo_2017.png/150px-SET_iNews_logo_2017.png" group-title="Taiwan台湾",三立INEWS
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 tvg-id="TVBS.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/1c/Tvbsnews.png/220px-Tvbsnews.png" group-title="Taiwan台湾",TVBS新聞
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="DSXW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/70/51chEBCNewslogo.jpg/300px-51chEBCNewslogo.jpg" group-title="Taiwan台湾",东森新闻台
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="DSCJXW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png/220px-%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="Taiwan台湾",东森财经新闻台
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="Taiwan台湾",大愛1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 # http://543.tvbox543.com/543ublive.php?cid=11
@@ -579,6 +577,13 @@ http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 #EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Movies电影",ClassicHK经典港片
 http://pull.kktv8.com/livekktv/143960119.flv
+
+#EXTINF:-1 tvg-id="DXD.KD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/200px-Disney_XD_-_2015.svg.png" group-title="Kid儿童",Disney XD
+http://line.crystalott.net/Qfpmb3cD79fICvA/vbqmaGYyqkHlCts/4858
+#EXTINF:-1 tvg-id="DJN.KD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="Kid儿童",Disney Junior
+http://79.137.41.99/DisneyChannel/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="DJN.KD" tvg-logo="https://spaceplace.nasa.gov/templates/featured/sun/sunburn300.png" group-title="Kid儿童",小太阳
+http://dragoniptv.club:8080/live/28697/28697/28697.m3u8
 
 #EXTINF:-1 tvg-ID="IQD.CN" tvg-logo="" group-title="IChannel爱频道",爱奇谈
 http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
