@@ -103,7 +103,8 @@ http://221.179.217.76:80/PLTV/88888888/224/3221225949/1.m3u8?icpid=88888888&from
 # http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 # http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD4
-http://125.210.152.18:9090/live/FHZX_1200.m3u8
+http://hlive.fengshows.cn/live/444pin72.flv?txSecret=cbd7ade98018c5e7199c2b51a12cfae3&txTime=600164c2
+# http://125.210.152.18:9090/live/FHZX_1200.m3u8
 # http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台1
 http://221.179.217.9/PLTV/88888888/224/3221225942/1.m3u8
@@ -579,7 +580,7 @@ http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 http://pull.kktv8.com/livekktv/143960119.flv
 
 #EXTINF:-1 tvg-id="DXD.KD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/200px-Disney_XD_-_2015.svg.png" group-title="Kid儿童",Disney XD
-http://line.crystalott.net/Qfpmb3cD79fICvA/vbqmaGYyqkHlCts/4858
+http://line.crystalott.net/3sigexDfEZIi90v/ClnXuMmv7qwyXk2/4858
 #EXTINF:-1 tvg-id="DJN.KD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="Kid儿童",Disney Junior
 http://79.137.41.99/DisneyChannel/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="DJN.KD" tvg-logo="https://spaceplace.nasa.gov/templates/featured/sun/sunburn300.png" group-title="Kid儿童",小太阳
