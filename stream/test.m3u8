@@ -276,14 +276,14 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv3.png" group-title="Malaysia马来西亚",TV3
 https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQPeBHdcUt90q7auPRUTw8Q)/dm/3/x6qp375/d/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/ntv7.png" group-title="Malaysia马来西亚",NTV7
-https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbUfsfO1S9klwDb3Z45G-q8)/dm/3/x6qp6ou/s/live-2.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbfNduIiCu9gpAx4lzcB-rg)/dm/3/x6qp6ou/s/live-0.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHahBRdfWxtc0oWZr-Xe4M6E)/dm/3/x6qud17/s/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUdHfidFKbmHh_0-rtrv160)/dm/3/x6qud17/s/live-0.m3u8
 # https://exodiver.github.io/IPTV/M3U8/Token/MY/8TV.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
-https://stream-01.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHahBRdfWxtc0oWZr-Xe4M6E)/dm/3/x6qud17/s/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUdHfidFKbmHh_0-rtrv160)/dm/3/x6qud17/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tv9.png" group-title="Malaysia马来西亚",TV9
-https://stream-02.ty4.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHab2lBbN9QrLOV7WZxkxmgc)/dm/3/x6qqja6/s/live-1.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHab2lBbN9QrLOV7WZxkxmgc)/dm/3/x6qqja6/s/live-0.m3u8
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia马来西亚",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia马来西亚",Astro Awani
