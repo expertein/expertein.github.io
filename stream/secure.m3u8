@@ -269,16 +269,18 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="Malaysia马来西亚",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/200px-TV3_%28Malaysia%29.svg.png" group-title="Malaysia马来西亚",TV3
-http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
+http://iptvlink.ga:8888/live/iptvlink/bola/37.m3u8
+# http://50.7.222.130:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_of_newNTV7.png/190px-Logo_of_newNTV7.png" group-title="Malaysia马来西亚",NTV7
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW8_2odnLZKYDP_yGScnUNg)/dm/3/x6qp6ou/s/live-3.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRxvS82chH917M6I4coEUcE)/dm/3/x6qud17/s/live-3.m3u8
+http://iptvlink.ga:8888/live/iptvlink/bola/39.m3u8
+# https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRxvS82chH917M6I4coEUcE)/dm/3/x6qud17/s/live-3.m3u8
 # https://exodiver.github.io/IPTV/M3U8/Token/MY/8TV.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXkncaTJAOItFLwiM4ZBRpM)/dm/3/x6qud17/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/100px-NewlogoTV9_%28Malaysia%29.png" group-title="Malaysia马来西亚",TV9
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRCl6v5m4Nf0KN1rx0YWitg)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com
+http://iptvlink.ga:8888/live/iptvlink/bola/40.m3u8
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia马来西亚",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia马来西亚",Astro Awani
