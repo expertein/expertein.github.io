@@ -100,23 +100,13 @@ http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/db94w3d/JIANGSU-TV.png" group-title="China卫视",JIANGSUTV
-https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3hpQQCN/DRAGONTV.png" group-title="China卫视",DRAGONTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3hpQQCN/DRAGONTV.png" group-title="China卫视",东方卫视
 https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3z54LNq/AnhuiTV.png" group-title="China卫视",ANHUITV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3z54LNq/AnhuiTV.png" group-title="China卫视",安微卫视
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FWcbpkK/HUNANTV.png" group-title="China卫视",HUNANTV
-https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD1
@@ -301,9 +291,11 @@ https://fvtv2.mywire.org/streams/dailymotion/ch_ntv7.m3u8
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 # http://iptvlink.ga:8888/live/iptvlink/bola/41.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV7y4sFlksK2XE5hARPrxEM)/dm/3/x6qud17/s/live-3.m3u8
+https://fvtv2.mywire.org/streams/dailymotion/ch_8tv.m3u8
+# https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV7y4sFlksK2XE5hARPrxEM)/dm/3/x6qud17/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/100px-NewlogoTV9_%28Malaysia%29.png" group-title="Malaysia马来西亚",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8
+# http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 # http://iptvlink.ga:8888/live/iptvlink/bola/40.m3u8
 #EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia马来西亚",OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
@@ -737,11 +729,6 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="Kid儿童",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="https://i.ibb.co/5BvXCLy/besmart.png" group-title="Kid儿童",BE SMART
-https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
