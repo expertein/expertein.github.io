@@ -766,7 +766,7 @@ https://edge-live11-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2
 
 #EXTINF:-1 tvg-id="TYC.AR" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="Sport体育",TyC Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar/?deviceId=MWExOGQ2NjM3MjViYjdkMTdhNTExNjFiMzE5ZjMwYTQ=
 https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
 
 #EXTINF:-1 tvg-ID="RAC.AU" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="Sport体育",Racing.com
