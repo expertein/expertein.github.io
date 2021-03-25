@@ -490,12 +490,16 @@ https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #EXTINF:-1 tvg-id="CBN.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CBSN_channel_Logo.png/200px-CBSN_channel_Logo.png" group-title="WorldNews国际新闻",CBSN NEWS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
+# https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
+# https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 # https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
 #EXTINF:-1 tvg-id="NBC.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="WorldNews国际新闻",NBC News 1
-http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+# http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="NBC.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="WorldNews国际新闻",NBC News 2
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+# http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=212&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="CHE.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Cheddar_2019.png/220px-Cheddar_2019.png" group-title="WorldNews国际新闻",Cheddar
@@ -672,9 +676,12 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 tvg-id="tvN.Asia" tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg" group-title="Movies电影",tvN Movies 2
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Movies电影",Warner TV 1
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Movies电影",Warner TV 
+#EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Movies电影",Warner TV 2
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -852,6 +859,9 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
 
 #EXTINF:-1 tvg-id="B01.th" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NOW-SPORTS-PRIME/NOW-SPORTS-PRIME.jpg?1" group-title="Sport体育",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
+
+#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="Sport体育",ESPN
+https://gma2.blab.email/fs2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
