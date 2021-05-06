@@ -312,7 +312,8 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia马来西亚",RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Malaysia马来西亚",AFC延时
-http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+# http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 #EXTINF:-1 tvg-id="AOD.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Malaysia马来西亚",VOD延时
 http://ts.lemmovie.com/4e402bba-d563-4f5a-8c48-75ea8bd8a44a.m3u8
 
