@@ -109,29 +109,29 @@ https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDrago
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD1
-http://223.82.250.72/live/fhzixun/1.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD1
+# http://223.82.250.72/live/fhzixun/1.m3u8
 # http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD2
+#EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD
 http://fh.go.sky-encrypt.tk/tv/dl/index.php?id=1
 # http://bzweb.gq/tv/dl/fhshows.php?id=1
 # http://543.tvbox543.com/543ublive.php?cid=359
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD3
+# EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD3
 # http://125.210.152.18:9090/live/FHZX_1200.m3u8
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD4
-http://hlive.fengshows.cn/live/444pin72.flv?txSecret=d4f5d687359a9ad8b71dc37c7befb7a1&txTime=603610df
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台1
-http://221.179.217.9/PLTV/88888888/224/3221225942/1.m3u8
+# http://117.169.120.138:8080/live/fhzixun/.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台HD4
+# http://hlive.fengshows.cn/live/444pin72.flv?txSecret=d4f5d687359a9ad8b71dc37c7befb7a1&txTime=603610df
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台1
+# http://221.179.217.9/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台2
 # http://125.210.152.18:9090/live/FHZW_1200.m3u8
 http://fh.go.sky-encrypt.tk/tv/dl/index.php?id=2
 # http://bzweb.gq/tv/dl/fhshows.php?id=2
 # http://112.17.40.145/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台3
-http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台4
-http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台3
+# http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台4
+# http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視香港台
 http://fh.go.sky-encrypt.tk/tv/dl/index.php?id=3
 # http://bzweb.gq/tv/dl/fhshows.php?id=3
@@ -140,8 +140,8 @@ http://fh.go.sky-encrypt.tk/tv/dl/index.php?id=3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/01/TVB_News_Channel_2017.png/280px-TVB_News_Channel_2017.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",無綫新聞台1
 http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/01/TVB_News_Channel_2017.png/280px-TVB_News_Channel_2017.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",無綫新聞台2
-http://tv.sason.xyz/proxy/tvb.php?id=xw
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/01/TVB_News_Channel_2017.png/280px-TVB_News_Channel_2017.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",無綫新聞台2
+# http://tv.sason.xyz/proxy/tvb.php?id=xw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/7a/I-CABLE_Finance.png/220px-I-CABLE_Finance.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",有線財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
 # http://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1615215425~exp=1615301825~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/default/__f/*~hmac=e2a6163bec467e32569a6bf38c33df8d14e9739a13dec8c054a2ca7b0d0fdddb&p=3139
@@ -278,6 +278,10 @@ https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 http://61.216.67.119/lifetv/LTV1/playlist.m3u8
 # http://61.216.67.119/lifetv/LTV1/chunklist_w502591130.m3u8
 
+#EXTINF:-1 tvg-id="YZM.TW" tvg-logo="http://www.lifetv.org.tw/main/img/lifetv.png" group-title="Taiwan台湾",原住民电视
+http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+# http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia马来西亚",TV1
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
@@ -289,17 +293,20 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
 http://live8.cdn.iptv8k.org:80/review_stream/tv3kbmm21/i.m3u8
 # http://iptvlink.ga:8888/live/iptvlink/bola/39.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_of_newNTV7.png/190px-Logo_of_newNTV7.png" group-title="Malaysia马来西亚",NTV7
-https://fvtv2.mywire.org/streams/dailymotion/ch_ntv7.m3u8
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+# https://fvtv2.mywire.org/streams/dailymotion/ch_ntv7.m3u8
 # http://iptvlink.ga:8888/live/iptvlink/bola/40.m3u8
 # https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW8_2odnLZKYDP_yGScnUNg)/dm/3/x6qp6ou/s/live-3.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 # http://iptvlink.ga:8888/live/iptvlink/bola/41.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
-https://fvtv2.mywire.org/streams/dailymotion/ch_8tv.m3u8
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+# https://fvtv2.mywire.org/streams/dailymotion/ch_8tv.m3u8
 # https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV7y4sFlksK2XE5hARPrxEM)/dm/3/x6qud17/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/100px-NewlogoTV9_%28Malaysia%29.png" group-title="Malaysia马来西亚",TV9
-https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+# https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8
 # http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 # http://iptvlink.ga:8888/live/iptvlink/bola/40.m3u8
 #EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia马来西亚",OKEY
@@ -311,11 +318,14 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 # https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia马来西亚",RTM Sports
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Malaysia马来西亚",Arena Sport
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Malaysia马来西亚",AFC延时
 http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 # http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 #EXTINF:-1 tvg-id="AOD.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Malaysia马来西亚",VOD延时
-http://ts.lemmovie.com/4e402bba-d563-4f5a-8c48-75ea8bd8a44a.m3u8
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+# http://ts.lemmovie.com/4e402bba-d563-4f5a-8c48-75ea8bd8a44a.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
@@ -350,9 +360,6 @@ http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 # https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" tvg-country="TH" tvg-url="" group-title="Thailand泰国",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
-#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Thailand泰国",Workpoint
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/WPTV.m3u8
-# http://122.155.205.9/live/workpoint.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://wwitv.com/tvlogos/b6806.jpg" group-title="Vietnam越南",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
@@ -372,8 +379,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d000093
 #EXTINF:-1 tvg-id="DAB.US" tvg-logo="http://static.epg.best/us/WKMGDT2.us.png" group-title="USA美国",DABL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=614&deviceId=5ef0fbed39ff730007383a69&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="MLS.US" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2020/03/mls-tv-ratings-opening-weekend.jpg" group-title="USA美国",MLS TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 tvg-id="MTV.US" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="USA美国",MTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -743,6 +748,8 @@ https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d7dxsxK/music-tv.png" group-title="Music音乐",MUSICTV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-id="MTV.US" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="Music音乐",MTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
