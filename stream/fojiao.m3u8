@@ -1,0 +1,11 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="佛教",大愛1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+# http://543.tvbox543.com/543ublive.php?cid=11
+#EXTINF:-1 tvg-id="DA2.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/DA-AI_HD_logo.svg/250px-DA-AI_HD_logo.svg.png" group-title="佛教",大愛2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="FoWeichiBei.TW" tvg-logo="https://hievent.hinet.net/images/bts/logo.png" group-title="佛教",佛衛慈悲
+https://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2-avc1_2000000=1-mp4a_64000=2.m3u8
+#EXTINF:-1 tvg-id="HuaZhangWeiShi.tw" tvg-name="華藏衛視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.hwazan.org/statics/images/newhztv_logo.png" group-title="佛教",華藏衛視
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
