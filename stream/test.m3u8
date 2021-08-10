@@ -13,7 +13,8 @@ http://39.134.155.153/PLTV/88888888/224/3221225650/index.m3u8
 # http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8
 # http://117.169.120.140:8080/live/cctv-2/.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-3 综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230740/index.m3u8
+# http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
 # http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225606/index.m3u8
 # http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
@@ -27,7 +28,8 @@ http://39.134.155.215/PLTV/88888888/224/3221225641/index.m3u8
 # http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
 # http://117.169.120.140:8080/live/cctv-4/.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-5 体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228965/1/index.m3u8?fmt=ts2hls
+# http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 # http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-5+ 体育赛事
@@ -36,26 +38,31 @@ http://39.134.155.145/PLTV/88888888/224/3221225648/index.m3u8
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 # http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-6 电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229870/index.m3u8
+# http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
 # http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 # http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225607/index.m3u8
 # http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-7 国防军事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228330/1/index.m3u8?fmt=ts2hls
+# http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 # http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-8 电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228569/1/index.m3u8?fmt=ts2hls
+# http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
 # http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8
 # http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-9 纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228342/1/index.m3u8?fmt=ts2hls
+# http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 # http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-10 科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228513/1/index.m3u8?fmt=ts2hls
+# http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 # http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8
 # http://117.169.120.140:8080/live/cctv-10/.m3u8
@@ -76,7 +83,8 @@ http://39.134.155.143/PLTV/88888888/224/3221225597/index.m3u8
 # http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-13/index.m3u8?IAS
 # http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-14 少儿
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/1/index.m3u8?fmt=ts2hls
+# http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 # http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-15 音乐
@@ -86,7 +94,8 @@ http://39.134.155.217/PLTV/88888888/224/3221225610/index.m3u8
 # http://39.134.157.199/PLTV/88888888/224/3221225610/index.m3u8
 # http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 tvg-id="C17.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV HD",CCTV-17 农业农村
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762/1/index.m3u8?fmt=ts2hls
+# http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="http://www.zyz98.com/uploads/cctv4k.jpg" group-title="CCTV HD",CCTV 4K TEST
 http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 # http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225726/index.m3u8
@@ -100,7 +109,8 @@ http://39.134.155.133/PLTV/88888888/224/3221225634/index.m3u8
 # http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226366/1.m3u8
 # http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/HNSTV_logo.png/155px-HNSTV_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China卫视",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228336/1/index.m3u8?fmt=ts2hls
+# http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 # http://111.40.205.87/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e4/BTV2011.jpg/200px-BTV2011.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China卫视",北京卫视
 http://39.134.24.24/PLTV/88888888/224/3221225724/index.m3u8
@@ -278,6 +288,10 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 # http://543.tvbox543.com/543ublive.php?cid=11
 #EXTINF:-1 tvg-id="DA2.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/60/DA-AI_HD_logo.svg/250px-DA-AI_HD_logo.svg.png" group-title="Taiwan台湾",大愛2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="FoWeichiBei.TW" tvg-logo="https://hievent.hinet.net/images/bts/logo.png" group-title="Taiwan台湾",佛衛慈悲
+https://btsu4k5-hisng.cdn.hinet.net/live/pool/btsLive2/hievent-hls/btsLive2-avc1_2000000=1-mp4a_64000=2.m3u8
+#EXTINF:-1 tvg-id="HuaZhangWeiShi.tw" tvg-name="華藏衛視" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://www.hwazan.org/statics/images/newhztv_logo.png" group-title="Taiwan台湾",華藏衛視
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -320,7 +334,8 @@ http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 # http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 # http://iptvlink.ga:8888/live/iptvlink/bola/40.m3u8
 #EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia马来西亚",OKEY
-https://rtmlive03.secureswiftcontent.com/rtm/live03_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03_720.m3u8
+# https://rtmlive03.secureswiftcontent.com/rtm/live03_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
 # http://nasvpn.iptvlink.ga/hls/okey.m3u8
 # https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia马来西亚",Hello
@@ -329,23 +344,26 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 # https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia马来西亚",RTM Sports
-https://rtmlive02.secureswiftcontent.com/rtm/live02_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02_720.m3u8
+# https://rtmlive02.secureswiftcontent.com/rtm/live02_1080.m3u8|referer=https://rtmklik.rtm.gov.my/tv/4
 # http://nasvpn.iptvlink.ga/hls/sukan.m3u8
 # https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist.m3u8
 # http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Malaysia马来西亚",Arena Sport
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 # http://nasvpn.iptvlink.ga/hls/arena.m3u8
 # http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Malaysia马来西亚",AFC延时
-http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
+# http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 # http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
-#EXTINF:-1 tvg-id="AOD.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Malaysia马来西亚",VOD延时
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+# EXTINF:-1 tvg-id="AOD.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Malaysia马来西亚",VOD延时
+# http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 # http://ts.lemmovie.com/4e402bba-d563-4f5a-8c48-75ea8bd8a44a.m3u8
-#EXTINF:-1 tvg-id="HLT.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Malaysia马来西亚",HLT延时
-http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+# EXTINF:-1 tvg-id="HLT.MY" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AstroAEClogo.png/220px-AstroAEClogo.png" group-title="Malaysia马来西亚",HLT延时
+# http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
@@ -375,8 +393,8 @@ http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 # https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 https://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="http://ctbtv.co.th/indexctb/ctbtv1.png" tvg-country="TH" tvg-url="" group-title="Thailand泰国",CTB
-http://iptv.tvmalaysia.cc:80/penang172/penang172/8752
-# http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+# http://iptv.tvmalaysia.cc:80/penang172/penang172/8752
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/aNExu5R.jpg" tvg-country="TH" tvg-url="" group-title="Thailand泰国",TGN
 https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Thai_PBS_logo.png/220px-Thai_PBS_logo.png" group-title="Thailand泰国",Thai PBS
@@ -572,7 +590,8 @@ http://live.chdrstatic.com/cbn/primary/3.m3u8
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #EXTINF:-1 tvg-id="BBC.UK" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="WorldNews国际新闻",BBC World News 2
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://dimapro.cz:8080/00:1A:79:16:F9:3F/zizokkkkuidfdiufudi@/38564
+# http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 # http://51.52.156.22:8888/http/004
 # http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/807.m3u8
 # http://iptv1.privateiptv.club:80/random-robbie/random-robbie/808
@@ -584,7 +603,8 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/250px-Arirang.svg.png" group-title="WorldNews国际新闻",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png" group-title="WorldNews国际新闻",Bloomberg 
-https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+http://dimapro.cz:8080/00:1A:79:16:F9:3F/zizokkkkuidfdiufudi@/39071
+# https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png" group-title="WorldNews国际新闻",Bloomberg Backup
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
@@ -603,7 +623,8 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/CNC_World_logo.png/220px-CNC_World_logo.png" group-title="WorldNews国际新闻",CNC English
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/220px-Deutsche_Welle_Logo.svg.png" group-title="WorldNews国际新闻",DW
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+# https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png" group-title="WorldNews国际新闻",France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 # http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
