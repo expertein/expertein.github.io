@@ -239,7 +239,7 @@ http://nasvpn.iptvlink.ga/hls/tv2.m3u8
 # https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 # https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/200px-TV3_%28Malaysia%29.svg.png" group-title="Malaysia马来西亚",TV3
-http://nasvpn.iptvlink.ga/hls/tv3hd.m3u8
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 # http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
 # http://live8.cdn.iptv8k.org:80/review_stream/tv3kbmm21/i.m3u8
 # http://iptvlink.ga:8888/live/iptvlink/bola/39.m3u8
