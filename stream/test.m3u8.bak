@@ -231,11 +231,11 @@ http://210.209.3.1/live/973EAA2E-EEF7-7F3A-7105-17ECB9B1B77E.m3u8?fmt=x264_0K_ts
 # http://61.216.67.119/lifetv/LTV1/chunklist_w502591130.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia马来西亚",TV1
-http://nasvpn.iptvlink.ga/hls/tv1.m3u8
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 # https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 # https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="Malaysia马来西亚",TV2
-http://nasvpn.iptvlink.ga/hls/tv2.m3u8
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8
 # https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 # https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/200px-TV3_%28Malaysia%29.svg.png" group-title="Malaysia马来西亚",TV3
@@ -244,12 +244,12 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 # http://live8.cdn.iptv8k.org:80/review_stream/tv3kbmm21/i.m3u8
 # http://iptvlink.ga:8888/live/iptvlink/bola/39.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_of_newNTV7.png/190px-Logo_of_newNTV7.png" group-title="Malaysia马来西亚",NTV7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
 # https://fvtv2.mywire.org/streams/dailymotion/ch_ntv7.m3u8
 # http://iptvlink.ga:8888/live/iptvlink/bola/40.m3u8
 # https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW8_2odnLZKYDP_yGScnUNg)/dm/3/x6qp6ou/s/live-3.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
-http://nasvpn.iptvlink.ga/hls/tv8.m3u8
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 # http://iptvlink.ga:8888/live/iptvlink/bola/41.m3u8
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
