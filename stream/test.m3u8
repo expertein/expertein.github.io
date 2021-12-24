@@ -230,45 +230,11 @@ http://210.209.3.1/live/973EAA2E-EEF7-7F3A-7105-17ECB9B1B77E.m3u8?fmt=x264_0K_ts
 # http://61.216.67.119/lifetv/LTV1/playlist.m3u8
 # http://61.216.67.119/lifetv/LTV1/chunklist_w502591130.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/200px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="Malaysia马来西亚",TV1
-http://w.nasvpn.xyz:8080/live/saya/saya/4.m3u8
-# https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-# https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="Malaysia马来西亚",TV2
-http://w.nasvpn.xyz:8080/saya/saya/5
-# https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-# https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/200px-TV3_%28Malaysia%29.svg.png" group-title="Malaysia马来西亚",TV3
-http://w.nasvpn.xyz:8080/live/saya/saya/5149.m3u8
-# http://w.nasvpn.xyz:8080/live/saya/saya/1.m3u8
-# http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
-# http://live8.cdn.iptv8k.org:80/review_stream/tv3kbmm21/i.m3u8
-# http://iptvlink.ga:8888/live/iptvlink/bola/39.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_of_newNTV7.png/190px-Logo_of_newNTV7.png" group-title="Malaysia马来西亚",NTV7
-http://w.nasvpn.xyz:8080/live/saya/saya/3.m3u8
-# https://fvtv2.mywire.org/streams/dailymotion/ch_ntv7.m3u8
-# http://iptvlink.ga:8888/live/iptvlink/bola/40.m3u8
-# https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHW8_2odnLZKYDP_yGScnUNg)/dm/3/x6qp6ou/s/live-3.m3u8
-#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路1
-http://w.nasvpn.xyz:8080/live/saya/saya/6.m3u8
-# http://iptvlink.ga:8888/live/iptvlink/bola/41.m3u8
-#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia马来西亚",8TV线路2
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-# https://fvtv2.mywire.org/streams/dailymotion/ch_8tv.m3u8
-# https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV7y4sFlksK2XE5hARPrxEM)/dm/3/x6qud17/s/live-3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/100px-NewlogoTV9_%28Malaysia%29.png" group-title="Malaysia马来西亚",TV9
-http://nasvpn.iptvlink.ga/hls/tv9.m3u8
-# https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8
-# http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-# http://iptvlink.ga:8888/live/iptvlink/bola/40.m3u8
+
+
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia马来西亚",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 # https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Malaysia马来西亚",Arena Sport
-http://w.nasvpn.xyz:8080/live/saya/saya/4137.m3u8
-# http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-# http://nasvpn.iptvlink.ga/hls/arena.m3u8
-# http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
@@ -298,21 +264,15 @@ http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 # https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 https://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="http://ctbtv.co.th/indexctb/ctbtv1.png" tvg-country="TH" tvg-url="" group-title="Thailand泰国",CTB
-# http://iptv.tvmalaysia.cc:80/penang172/penang172/8752
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/aNExu5R.jpg" tvg-country="TH" tvg-url="" group-title="Thailand泰国",TGN
-https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Thai_PBS_logo.png/220px-Thai_PBS_logo.png" group-title="Thailand泰国",Thai PBS
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 # https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 # https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" tvg-country="TH" tvg-url="" group-title="Thailand泰国",TPTV
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="News" tvg-logo="https://wwitv.com/tvlogos/b6806.jpg" group-title="Vietnam越南",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1 tvg-id="DhammasaphaTV.vn" tvg-name="Dhammasapha TV" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="http://www.nettv.live/uploads/19/1-191126203Q0613.jpg" group-title="Vietnam越南",Dhammasapha TV
-https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HBTV.vn" tvg-name="HBTV" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/BnFWgS7.png" group-title="Vietnam越南",HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="HmongStarTV.vn" tvg-name="Hmong Star TV" tvg-country="VN" tvg-language="" tvg-logo="http://www.hmongstartv.com/wp-content/uploads/2014/04/LogoShadow.png" group-title="Vietnam越南",Hmong Star TV
@@ -365,6 +325,9 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428165_ico.png" group-title="Documentary地理",Asian Food Network HD
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428165_ico.png" group-title="Documentary地理",Asian Food Network HD 2
+https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="ChefChampion.us" tvg-name="Chef Champion" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/15a9pG9.png" tvg-url="" group-title="Documentary地理",Chef Champion
 https://rpn1.bozztv.com/36bay2/gusa-chefchampion/tracks-v1a1/mono.m3u8
@@ -425,7 +388,8 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="WorldNews国际新闻"",CNN2
-http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+# http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 # http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 # https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 
@@ -452,7 +416,8 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&reb
 # https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
 #EXTINF:-1 tvg-id="NBC.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="WorldNews国际新闻",NBC News 1
-https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8?ads.caid=NBCNewsNOW&ads.csid=samsungtvplus_us_nbcnewsnow_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID
+# https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 # https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/index_750.m3u8
 # http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-id="NBC.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="WorldNews国际新闻",NBC News 2
@@ -525,7 +490,8 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" group-title="WorldNews国际新闻",RT
-https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+# https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/250px-TRT_World_logo.svg.png" group-title="WorldNews国际新闻",TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Makkal_TV_Logo.jpg" group-title="WorldNews国际新闻",மக்கள் தொலைக்காட்சி
@@ -750,15 +716,6 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
 #EXTINF:-1 tvg-id="B01.th" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/NOW-SPORTS-PRIME/NOW-SPORTS-PRIME.jpg?1" group-title="Sport体育",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
 
-#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="Sport体育",ESPN 1
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-# http://stream2.grandma.fit/fs2.m3u8
-# https://gma2.blab.email/fs2.m3u8
-
-#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="Sport体育",ESPN 2
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
-# http://164.68.124.111/espn2.m3u8
-
 # KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 # KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 # EXTINF:-1 tvg-id="B01.th" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sport体育",beIN Sports 1 Asia
@@ -798,8 +755,4 @@ http://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-logo="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/220px-UFC_Fight_Pass_Logo.svg.png" group-title="Sport体育",UFC 3
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-#EXTINF:-1 tvg-ID="RAC.AU" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="Sport体育",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-# http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
