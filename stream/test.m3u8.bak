@@ -178,7 +178,8 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 # http://rthk.hk/apps/screen/rthktv31.m3u8
 # http://rthk9.rthk.hk/apps/screen/rthktv31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",港台電視32
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+# http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 # http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 # http://rthk.hk/apps/screen/rthktv32.m3u8
 # http://rthk9.rthk.hk/apps/screen/rthktv32.m3u8
