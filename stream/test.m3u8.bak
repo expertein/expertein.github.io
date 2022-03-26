@@ -158,7 +158,8 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 # https://cdn.hkdtmb.com/hls/77/index.m3u8
 
 #EXTINF:-1 tvg-id="TYP.Asia2" tvg-logo="http://console.celestialtiger.com/images/upload/f50f7261d3c260ac6e3a38f85152b3f33833fc52.png" group-title="Hong Kong香港",天映频道1
-http://206.119.173.184/tv/js.php?id=106
+http://iptv.tvfix.org/hls/typd.m3u8
+# http://206.119.173.184/tv/js.php?id=106
 # http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
