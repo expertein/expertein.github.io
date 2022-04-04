@@ -449,12 +449,6 @@ https://h2.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="WorldNews国际新闻" radio="true",MSNBC (Audio Only)
 http://wrau.streamguys1.com/msnbc-free
 
-
-#EXTINF:-1 tvg-id="MSNBC" group-title="WorldNews国际新闻", MSNBC
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-#EXTVLCOPT:http-referrer="https://ustvgo.tv"
-https://h3.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDIxIDM6Mjc6MTYgQU0maGFzaF92YWx1ZT0wTHlnRjZFUm5LbDhSQ0pXV2FJdXpBPT0mdmFsaWRtaW51dGVzPTI0MA==
-
 #EXTINF:-1 tvg-id="CHE.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Cheddar_2019.png/220px-Cheddar_2019.png" group-title="WorldNews国际新闻",Cheddar
 http://live.chdrstatic.com/cbn/primary/3.m3u8
 
