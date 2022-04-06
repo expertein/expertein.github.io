@@ -444,7 +444,7 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=212&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="MSNBC.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/250px-MSNBC_2021.svg.png" group-title="WorldNews国际新闻",MSNBC News
-https://h2.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDk6MTU6NDkgQU0maGFzaF92YWx1ZT1JQzFDL0pPVEhRU21HSUNJc1J6a3NnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h2.ustvgo.la/MSNBC/myStream/chunks.m3u8?nimblesessionid=197095879&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjIgODo0NjowNCBBTSZoYXNoX3ZhbHVlPUt3RE5KYVFvMmxLeWMvOG50dzF3Znc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 # http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="WorldNews国际新闻" radio="true",MSNBC (Audio Only)
 http://wrau.streamguys1.com/msnbc-free
