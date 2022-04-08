@@ -9,7 +9,7 @@ http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-4 中文国际
 http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-5 体育
-http://117.148.179.142/PLTV/88888888/224/3221232440/index.m3u8
+http://39.135.55.105:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-5+ 体育赛事
 http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-6 电影

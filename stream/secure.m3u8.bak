@@ -9,7 +9,7 @@ http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-4 中文国际
 http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-5 体育
-http://117.148.179.142/PLTV/88888888/224/3221232440/index.m3u8
+http://39.135.55.105:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-5+ 体育赛事
 http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV HD",CCTV中国中央电视台-6 电影
@@ -444,7 +444,7 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=212&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="MSNBC.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/250px-MSNBC_2021.svg.png" group-title="WorldNews国际新闻",MSNBC News
-https://h3.ustvgo.la/MSNBC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjIgNTozNTowMCBBTSZoYXNoX3ZhbHVlPTV0dDBxSTdGUkN4UldVR2FBajAxOHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://h2.ustvgo.la/MSNBC/myStream/chunks.m3u8?nimblesessionid=197095879&wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjIgODo0NjowNCBBTSZoYXNoX3ZhbHVlPUt3RE5KYVFvMmxLeWMvOG50dzF3Znc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 # http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="WorldNews国际新闻" radio="true",MSNBC (Audio Only)
 http://wrau.streamguys1.com/msnbc-free
