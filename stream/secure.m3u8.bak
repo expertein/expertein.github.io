@@ -56,7 +56,7 @@ https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台1
-http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 # http://223.82.250.72/live/fhzixun/1.m3u8
 # http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視中文台2
@@ -84,8 +84,8 @@ http://iptv.tvfix.org/hls/fhzx.m3u8
 # http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 # EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台4
 # http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視香港台
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視香港台
+# http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 # http://fh.go.sky-encrypt.tk/tv/dl/index.php?id=3
 # http://bzweb.gq/tv/dl/fhshows.php?id=3
 # http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
@@ -112,12 +112,12 @@ http://livetv.dnsfor.me/channel.11.m3u8
 # http://live.crhoy.ml:8080/Yucuanli/Yucuanli/1
 # EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台2
 # http://livetv.dnsfor.me/channel.18.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台
-http://iptv.tvfix.org/hls/jade2.m3u8
+# EXTINF:-1 tvg-logo="https://i.imgur.com/SSKnv5j.jpg" group-title="Hong Kong香港",TVB翡翠台
+# http://iptv.tvfix.org/hls/jade2.m3u8
 # http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 # http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB J2
-http://iptv.tvfix.org/hls/j2.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB J2
+# http://iptv.tvfix.org/hls/j2.m3u8
 # https://cdn.hkdtmb.com/hls/82/index.m3u8
 # http://45.11.1.155/tv.php?p=392
 # http://13.58.124.204:9090/live/j2.m3u8
@@ -127,13 +127,13 @@ http://iptv.tvfix.org/hls/j2.m3u8
 # http://live.crhoy.ml:8080/Yucuanli/Yucuanli/8
 # http://ws.matchupstream.tuboshu.com/live/baee64ed95a56083a87c6afaf3e53a3c.flv
 # http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB星河
-http://iptv.tvfix.org/hls/tvbxh2.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",TVB星河
+# http://iptv.tvfix.org/hls/tvbxh2.m3u8
 # http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong香港",TVB经典台
-http://iptv.tvfix.org/hls/tvbjd.m3u8
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="Hong Kong香港",TVB Pearl 明珠台
-http://iptv.tvfix.org/hls/pearl.m3u8
+# EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="Hong Kong香港",TVB经典台
+# http://iptv.tvfix.org/hls/tvbjd.m3u8
+# EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="Hong Kong香港",TVB Pearl 明珠台
+# http://iptv.tvfix.org/hls/pearl.m3u8
 # https://cdn.hkdtmb.com/hls/84/index.m3u8
 # http://45.11.1.155/tv.php?p=391
 # https://cdn.hkdtmb.com/hls/84/index.m3u8
@@ -149,8 +149,8 @@ http://iptv.tvfix.org/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://bkimg.cdn.bcebos.com/pic/b219ebc4b74543a933438b2c17178a82b80114f1?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="Hong Kong香港",Now 新闻
 http://livetv.dnsfor.me/channel.4.m3u8
 
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/500px-ViuTV_logo.svg.png" group-title="Hong Kong香港",VIU TV
-http://51.222.193.143:10010/3#http://radius.8866.org:880/hls/86/index.m3u8
+# EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/500px-ViuTV_logo.svg.png" group-title="Hong Kong香港",VIU TV
+# http://51.222.193.143:10010/3#http://radius.8866.org:880/hls/86/index.m3u8
 # https://cdn.hkdtmb.com/hls/99/index.m3u8
 # http://livetv.dnsfor.me/channel.20.m3u8
 #EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ed/HK_open_tv_logo.jpg/400px-HK_open_tv_logo.jpg" group-title="Hong Kong香港",香港开电视
@@ -304,24 +304,28 @@ https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phu-yen-tv-vn.png" group-title="Vietnam越南",PTP
 http://113.161.4.48:8080/phuyen/tv.m3u8
 
-#EXTINF:-1 tvg-ID="BET.US" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="USA美国",BET
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-ID="BEH.US" tvg-logo="https://static.epg.best/us/BetHer.us.png" group-title="USA美国",BET Her
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="BIT.US" tvg-logo="https://thebritishtvplace.com/wp-content/uploads/2019/07/British-TV-on-Pluto-TV.png" group-title="USA美国",British TV
+#EXTINF:-1 tvg-ID="BET.US" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="USA美国",Pluto TV BET
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=174&terminate=false&userId=
+#EXTINF:-1 tvg-ID="BEH.US" tvg-logo="https://static.epg.best/us/BetHer.us.png" group-title="USA美国",Pluto TV BET Her
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d51e6949ab8e2b35bdcaa9f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=175&terminate=false&userId=
+#EXTINF:-1 tvg-id="BIT.US" tvg-logo="https://thebritishtvplace.com/wp-content/uploads/2019/07/British-TV-on-Pluto-TV.png" group-title="USA美国",Pluto TV British TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=154&deviceId=5b68a18823ecb93393cba2f1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="CMT.US" tvg-logo="https://static.epg.best/us/CMT.us.png" group-title="USA美国",CMT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="COU.US" tvg-logo="http://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png" group-title="USA美国",Court TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-# EXTINF:-1 tvg-id="DAB.US" tvg-logo="http://static.epg.best/us/WKMGDT2.us.png" group-title="USA美国",DABL
+#EXTINF:-1 tvg-id="CMT.US" tvg-logo="https://static.epg.best/us/CMT.us.png" group-title="USA美国",Pluto TV CMT
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="COU.US" tvg-logo="http://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png" group-title="USA美国",Pluto TV Court TV
+https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
+# EXTINF:-1 tvg-id="DAB.US" tvg-logo="http://static.epg.best/us/WKMGDT2.us.png" group-title="USA美国",Pluto TV DABL
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=614&deviceId=5ef0fbed39ff730007383a69&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="MLS.US" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2020/03/mls-tv-ratings-opening-weekend.jpg" group-title="USA美国",MLS TV
+#EXTINF:-1 tvg-id="MLS.US" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2020/03/mls-tv-ratings-opening-weekend.jpg" group-title="USA美国",Pluto TV MLS TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 tvg-id="MTV.US" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="USA美国",MTV
+#EXTINF:-1 tvg-id="MTV.US" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="USA美国",Pluto TV MTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="USA美国",Pluto TV Sci-Fi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4fc274694c027be6ed3eea&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=151&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="USA美国",Pluto TV Science
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=563a970aa1a1f7fe7c9daad7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=672&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVSecretDealers.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5e8dc0af6784d10007d8ad42/colorLogoPNG.png" group-title="USA美国",Pluto TV Secret Dealers
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8dc0af6784d10007d8ad42/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9431838_ico.png" group-title="USA美国",LIFETIME
@@ -651,9 +655,7 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #EXTINF:-1 tvg-id="BBM.TW" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Movies电影",黑莓电影
-http://39.135.32.4:6610/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="DCH.TW" tvg-logo="https://bkimg.cdn.bcebos.com/pic/6a600c338744ebf81a4cdd337fb1c02a6059252d092c?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="Movies电影",岭南戏曲
-http://szlive.grtn.cn/lnxq/sd/live.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225769/index.m3u8
 
 # EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Movies电影",欧美电影
 # http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266

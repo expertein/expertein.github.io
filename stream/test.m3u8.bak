@@ -74,7 +74,8 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 # http://221.179.217.9/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台2
-http://iptv.tvfix.org/hls/fhzx.m3u8
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+# http://iptv.tvfix.org/hls/fhzx.m3u8
 # http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 # http://125.210.152.18:9090/live/FHZW_1200.m3u8
 # http://fh.go.sky-encrypt.tk/tv/dl/index.php?id=2
@@ -84,8 +85,8 @@ http://iptv.tvfix.org/hls/fhzx.m3u8
 # http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 # EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視資訊台4
 # http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視香港台
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+# EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" tvg-country="HK" tvg-url="" group-title="Hong Kong香港",鳳凰衛視香港台
+# http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 # http://fh.go.sky-encrypt.tk/tv/dl/index.php?id=3
 # http://bzweb.gq/tv/dl/fhshows.php?id=3
 # http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
@@ -211,8 +212,9 @@ http://206.119.173.184/tv/js.php?id=147
 # http://p06.iptv2asia.com:18888/http/010
 # http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="Taiwan台湾",中天新聞
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 # http://live5.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-http://seb.sason.top/sc/ztxw_fhd.m3u8
+# http://seb.sason.top/sc/ztxw_fhd.m3u8
 # https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctinews.m3u8
 #EXTINF:-1 tvg-id="SLX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="Taiwan台湾",三立新聞
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
@@ -225,7 +227,8 @@ https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
 # http://206.119.173.184/tv/js.php?id=135
 # http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DSXW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/51chEBCNewslogo.jpg/300px-51chEBCNewslogo.jpg" group-title="Taiwan台湾",东森新闻台
-http://seb.sason.top/sc/dsxw_fhd.m3u8
+http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+# http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DSCJXW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/5/53/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png/220px-%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="Taiwan台湾",东森财经新闻台
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="Taiwan台湾",大愛1
@@ -272,8 +275,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 
 #EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="Thailand泰国",Channel 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1 tvg-id="Channel7.th" tvg-name="Channel 7" tvg-country="TH" tvg-language="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thailand泰国",Channel 7 (240p)
-https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="Thailand泰国",Channel 8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/0AiJcrC.png" tvg-country="TH" tvg-url="" group-title="Thailand泰国",Thairath TV 32
@@ -301,8 +302,6 @@ https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ISTV.vn" tvg-name="ISTV" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdjDL9ePBte_GxRbekyWRLoY4AbQgrhljf0ohTuQx9TajxmSqh8Bonig8W7L4m-lEV8A&usqp=CAU" group-title="Vietnam越南",ISTV
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://www.lyngsat.com/logo/tv/pp/phu-yen-tv-vn.png" group-title="Vietnam越南",PTP
-http://113.161.4.48:8080/phuyen/tv.m3u8
 
 #EXTINF:-1 tvg-ID="BET.US" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="USA美国",Pluto TV BET
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=174&terminate=false&userId=
@@ -612,7 +611,7 @@ http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg-id="PAN.CA" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies电影",Paramount Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="Movies电影",One TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -639,10 +638,7 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Movies电影",Warner TV 2
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="WXD.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="Movies电影",衛視電影
-https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -661,8 +657,6 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225769/index.m3u8
 # http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 # EXTINF:-1 tvg-id="DCH.TW" tvg-logo="" group-title="Movies电影",中文电影
 # http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-#EXTINF:-1 tvg-id="ZXC.MV" tvg-logo="" group-title="Movies电影",Classic Chinese Series 经典电视剧
-http://pull.kktv8.com/livekktv/143960119.flv
 
 # KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 # KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -783,6 +777,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07e
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Canal_Motor.jpg" group-title="Sport体育",CanalMotor
 http://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-id="WXD.TW" tvg-logo="https://www.fng.tw/scm/images/StarChinesMovies_logo.png" group-title="Sport体育",Race
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
