@@ -405,40 +405,21 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 # https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="WorldNews国际新闻",CNN1
-https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="WorldNews国际新闻"",CNN USA
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="WorldNews国际新闻"",CNN2
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-# https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-# http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
-# http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-# https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
-
-# EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="WorldNews国际新闻"",CNN3
-# http://203.162.235.41:16918
-
-#EXTINF:-1 tvg-id="CNW.News" tvg-logo="https://static.epg.best/nz/CNBC.nz.png" group-title="WorldNews国际新闻",CNBC Asia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+#EXTINF:-1 tvg-id="Fox.News" tvg-logo="https://static.epg.best/nz/CNBC.nz.png" group-title="WorldNews国际新闻",CNBC
+http://198.16.64.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
 
 #EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="WorldNews国际新闻",Fox News SD
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 # http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="WorldNews国际新闻",Fox News HD
-https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+#EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="WorldNews国际新闻",Fox LiveNOW
+https://lnc-fox-live-now.tubi.video/index.m3u8
 
-#EXTINF:-1 tvg-id="CBN.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CBSN_channel_Logo.png/200px-CBSN_channel_Logo.png" group-title="WorldNews国际新闻",CBSN NEWS
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8?sd=10&rebase=on
-# https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
-# https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
-# https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-id="CBN.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/CBSN_channel_Logo.png/200px-CBSN_channel_Logo.png" group-title="WorldNews国际新闻",CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-id="NBC.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="WorldNews国际新闻",NBC News 1
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8?ads.caid=NBCNewsNOW&ads.csid=samsungtvplus_us_nbcnewsnow_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID
@@ -451,50 +432,34 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 # http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
 # http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=212&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="MSNBC.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/250px-MSNBC_2021.svg.png" group-title="WorldNews国际新闻",MSNBC News
+#EXTINF:-1 tvg-id="MSNBC.News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MSNBC_2021.svg/250px-MSNBC_2021.svg.png" group-title="WorldNews国际新闻",MSNBC News DOWN
 https://h3.ustvgo.la/MSNBC/myStream/chunks.m3u8?nimblesessionid=192137980&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjIgMTA6NDE6MzkgQU0maGFzaF92YWx1ZT0rb0Z5VEFQaHNvL3Azd2xpRm9qUUxBPT0mdmFsaWRtaW51dGVzPTI0MA==
 # http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="WorldNews国际新闻" radio="true",MSNBC (Audio Only)
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="WorldNews国际新闻" radio="true",MSNBC (Audio Only) DOWN
 http://wrau.streamguys1.com/msnbc-free
 
-#EXTINF:-1 tvg-id="CHE.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Cheddar_2019.png/220px-Cheddar_2019.png" group-title="WorldNews国际新闻",Cheddar
-http://live.chdrstatic.com/cbn/primary/3.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="WorldNews国际新闻",BBC World News 1
-https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-
-#EXTINF:-1 tvg-id="BBC.UK" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="WorldNews国际新闻",BBC World News 2
+#EXTINF:-1 tvg-id="BBC.UK" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="WorldNews国际新闻",BBC World News DOWN
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 # http://dimapro.cz:8080/00:1A:79:16:F9:3F/zizokkkkuidfdiufudi@/38564
 # http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 # http://51.52.156.22:8888/http/004
 # http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/807.m3u8
 # http://iptv1.privateiptv.club:80/random-robbie/random-robbie/808
-# EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="WorldNews国际新闻",BBC 2
-# http://iptv1.privateiptv.club:80/random-robbie/random-robbie/815
-# http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/814.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png" group-title="WorldNews国际新闻",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/250px-Arirang.svg.png" group-title="WorldNews国际新闻",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png" group-title="WorldNews国际新闻",Bloomberg 
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-# http://dimapro.cz:8080/00:1A:79:16:F9:3F/zizokkkkuidfdiufudi@/39071
-# https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png" group-title="WorldNews国际新闻",Bloomberg Backup
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png" group-title="WorldNews国际新闻",Bloomberg
 # https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/bloombergfinance.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/220px-New_Bloomberg_Logo.svg.png" group-title="WorldNews国际新闻",Bloomberg TV+
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/220px-ABC_News_solid_black_logo.svg.png" group-title="WorldNews国际新闻",ABC News
-https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/ABC_News_solid_black_logo.svg/220px-ABC_News_solid_black_logo.svg.png" group-title="WorldNews国际新闻",ABC News
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png" group-title="WorldNews国际新闻",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
@@ -514,15 +479,6 @@ http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="WorldNews国际新闻",NHK World Japan
 # https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="NWP.JP" tvg-logo="https://nhkworldpremium.com/img/common/logo.png" group-title="WorldNews国际新闻",NHK World Japan Premium 
-https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="WKW.JP" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png" group-title="WorldNews国际新闻",WakuWaku Japan
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png" group-title="WorldNews国际新闻",RT 1
@@ -711,7 +667,8 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Kid儿童",Nick SD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
