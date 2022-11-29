@@ -123,9 +123,6 @@ https://rpn1.bozztv.com/36bay2/gusa-chefchampion/tracks-v1a1/mono.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-chefrock/tracks-v1a1/mono.m3u8
 # https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8
 
-#EXTINF:-1 tvg-id="ChefChampion.us" tvg-name="Investigation Discovery" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/crimeinvestigation.png" tvg-url="" group-title="Documentary地理",Investigation Discovery
-http://gameplay.p2sweb.me:80/live/3543653/35436567/247827.m3u8
-
 #EXTINF:-1 tvg-id="ChefChampion.us" tvg-name="HGTV" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HGTV.us.png" tvg-url="" group-title="Documentary地理",HGTV
 http://axr.life:80/096154/686531/5204
 
