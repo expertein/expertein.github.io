@@ -133,7 +133,10 @@ http://axr.life:80/096154/686531/923807
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="WorldNews国际新闻"",CNN USA
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="WorldNews国际新闻"",CNN USA Backup
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="WorldNews国际新闻"",CNN USA Backup 1
+http://192.99.70.160:25461/Iceman/Iceman/678
+
+#EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="WorldNews国际新闻"",CNN USA Backup 2
 http://192.99.70.160:25461/Iceman/Iceman/103688
 
 #EXTINF:-1 tvg-id="Fox.News" tvg-logo="https://static.epg.best/nz/CNBC.nz.png" group-title="WorldNews国际新闻",CNBC
